@@ -2,6 +2,7 @@ collections:
   rvip:
     output: true
     order:
+      - RVIP Flagship Programmes/Special Assistance Plan Programme.md
       - RVIP Flagship Programmes/RVIP Flagship Programmes.md
       - RVIP Flagship Programmes/.keep
       - School Prospectus.md
