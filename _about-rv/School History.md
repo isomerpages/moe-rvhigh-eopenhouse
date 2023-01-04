@@ -46,11 +46,11 @@ description: ""
 | **2011**  | RV celebrated her 55th anniversary.<br><br>Mr Sze Guan Kheng joined the school as the Vice Principal. Mr Sherwin Cheng became the school’s Vice Principal.<br><br>RV’s first Integrated Programme A-Level cohort received their results in March. Tan Zhi Xiang, RV’s top student, was also a national top student.<br><br>RV had her Singapore Quality Class (SQC) Award and School Excellence Award renewed.<br><br>RV co-organised the 2011 Asian Young Leaders Convention with Wenjiang Middle School in Wenjiang, China.  |
 | **2012**  | RV’s second Integrated Programme A-Level cohort also produced a national top student. He is Soh Zhi Liang.<br><br>RV launched her iPad one-to-one programme.<br><br>Mr Loi Guang You became the school's Vice Principal. Mr Gabriel Wong joined the school as the Vice Principal.<br><br>In December, Mrs Teo Khin Hiang became the school’s 9th Principal.  |
 | **2013**  | RV held her first Y.Lead Seminar in July.<br><br>Mr Gay Choon Lin joined the school as the Vice Principal (Admin).<br><br>RV held her first River Valley Model United Nations (RVMUN).  |
-| **2014**  |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **2014**  | RV held her inaugural Arts Fest week, that included Drama Night and Combined Performing Arts Concert, from 28 April to 3 May.<br><br>The iconic 立化情 was produced by the 35th Students' Council.  |
+| **2015**  | Opening of the School Arch.<br><br>The School's Humanities and Social Sciences Leaders Academy (HSSLA) was started.<br><br>Bernice Lim from the Class of 2017 is the school's first President's Guide.<br><br>Mr Alvin Lau Wai Chi joined the school as Vice Principal in December.  |
+| **2016**  | RV celebrated her 60th Anniversary.<br><br>The School's Mathematics Leaders Academy (MLA) was started.<br><br>Yeoh Hui Ching from the class of 2018 attained the President's Guide Award.<br><br>Tan Yu Jia from the Class of 2015 is awarded the Lee Hsien Loong Award for Outstanding Bicultural Studies.<br><br>Chai Yi Ann from the Class of 2016 attained the Best Sportsgirl Award (Softball) at the Singapore Schools Sports Council Colours Awards 2016.<br><br>The Pedagogical Excellence Academy (PEA) was set-up to enhance curriculum and pedagogy at RV.<br><br>RV held her first PEA symposium for teachers, showcasing the best pedagogical practices of RV teachers.<br><br>Mr Tay Hong Joo Steven joined the school as Vice-Principal in December.  |
+| **2017**  | Liu Lingshan from the Class of 2016 is awarded the Prime Minister's Book Prize.<br><br>Lim Zhi Yan from the class of 2017 attained the Best Sportsgirl Award (Floorball) at the Singapore Schools Sports Council Colours Awards 2017.<br><br>The Entrepreneurial Hub, which included a Digital Media Hub, a Fabrication Laboratory, an Entrepreneurial space, was set-up to support the school's flagship IP programme -Construct, Integrate, Differentiate (CID) in innovation.  |
+| **2018**  |   |
 |   |   |
 |   |   |
 |   |   |
