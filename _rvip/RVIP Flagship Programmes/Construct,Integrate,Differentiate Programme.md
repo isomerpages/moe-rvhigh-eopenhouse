@@ -14,8 +14,8 @@ CID is designed as a four-year programme that provides RV students with opportun
 
 |   |   |
 |---|---|
-| <img src="/images/CID1 students trying out their VUCA games.jpg" style="width:85%"> <p align=center>**CID1 Students trying out their VUCA games**</p>  | <img src="/images/CID2 students conducting a street interview in China.jpg" style="width:81%"><p align=center>**CID2 students conducting a street  <br>interview in China**</p>  |
-| <img src="/images/Brainstorming during CID lesson at the Whitespace.jpg" style="width:85%"><p align=center>**Brainstorming during CID lesson at the Whitespace**</p>  | <img src="/images/Cross-cultural sharing during a school immersion in China (2).jpg" style="width:70%"><p align=center>**Cross-cultural sharing during a school immersion in China**</p>  |
+| <img src="/images/CID1 students trying out their VUCA games.jpg" style="width:85%"> <center><b>CID1 Students trying out their VUCA games  | <img src="/images/CID2 students conducting a street interview in China.jpg" style="width:81%"><center><b>CID2 students conducting a street  <br>interview in China  |
+| <img src="/images/Brainstorming during CID lesson at the Whitespace.jpg" style="width:85%"><center><b>Brainstorming during CID lesson at the Whitespace  | <img src="/images/Cross-cultural sharing during a school immersion in China (2).jpg" style="width:70%"><center><b>Cross-cultural sharing during a school immersion in China  |
 |   |   |
 
 | Secondary  | Programme  | Description  |
