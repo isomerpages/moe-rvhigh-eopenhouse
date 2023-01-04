@@ -1,0 +1,4 @@
+collections:
+  about-rv:
+    output: true
+    order: []
