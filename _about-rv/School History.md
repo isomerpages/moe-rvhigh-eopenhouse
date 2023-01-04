@@ -29,12 +29,12 @@ description: ""
 | **1993**  | After 19 years with River Valley High School, Mdm Leong Fun Chin left to assume the headship at Hwa Chong Junior College.<br><br>Mr Tham Tuck Meng became the school's 6th Principal.<br><br>Mrs Lee Yin Ling became the school's Vice Principal.<br><br>It became a single-session school in 1993.  |
 | **1994**  | The school was among six secondary schools in Singapore to be selected to be an autonomous school. The autonomous school status was given to schools with outstanding achievements.  |
 | **1995**  | Mr Ng Lee Huat became the Vice Principal.<br><br>The school took part in the National Day Mass Dance Display.  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **1996**  | The school celebrated her 40th School Anniversary with a cultural concert at the World Trade Centre and a dinner hosted by the School Alumni.  |
+| **1998**  | Mrs Tan Miao Ling became the school's Vice Principal.  |
+| **1999**  | RV was awarded her first Sustained Achievement Awards for Arts, Physical Fitness and Uniformed Groups, making her amongst five secondary schools in Singapore to receive three Sustained Achievement Awards.  <br><br>On 15 December, Miss Ek Soo Ben became the school's Vice Principal.  |
+| **2000**  | Sponsored by the Infocomm Development Authority of Singapore, the school started her Fast Track @ Schools project to spearhead our IT programme. We were the first to officially launch the project at the 44th School Anniversary.<br><br>RV became the West 3 Centre of Learning for Science and Technology. This project is co-sponsored by the National Science and Technology Board and the Ministry of Education.<br><br>RV was awarded her second Sustained Achievement Awards for Arts, Physical Fitness and Uniformed Groups.  |
+| **2001**  | RV celebrated her 45th School Anniversary with a cultural night at the Kallang Theatre and a dinner hosted by the School Alumni.<br><br>RV was awarded a Singapore Quality Class Award by the Singapore Quality Award Council and a Best Practice Award (Teaching and Learning) by the Ministry of Education.<br><br>We also officially launched the Distinguished Speakers Series and Science Niche Programme.<br><br>The school was identified by the Ministry of Education for upgrading and rebuilding under PRIME Phase 3. The long-term development plans for RV included options for a new building with up-to-date teaching facilities and a performing arts centre.<br><br>RV was presented a Singapore Quality Class by the Singapore Quality Award Council. We also won a Best Practice Award for Teaching and Learning (inaugural award).<br><br>RV won the Thinking and Learning Culture National Award, Best Zone Award and Most Improved Award.<br><br>RV was awarded the Sustained Achievement Awards for Physical Fitness and Uniformed Groups.  |
+| **2002**  | We began our first fund-raising project for our upgrading plans. “Walk to Reach”, a jogathon held together with the School Annual Cross Country, raised about $90,000.<br><br>In June 2002, Mr Martin Koh Chin Thong, joined RV as her Vice Principal.<br><br>The RV Concert Band was invited by the Ministry of Education to compete in the 4th Asian Symphonic Band Competition, Bangkok. The Band was awarded a Silver, beating strong competitors from the other Asian countries.<br><br>On 15 December 2002, Miss Ek Soo Ben, officially became the School’s 7th Principal.<br><br>RV was awarded her fourth Sustained Achievement Awards for Physical Fitness and Uniformed Groups, and third award for the Arts.  |
 |   |   |
 |   |   |
 |   |   |
