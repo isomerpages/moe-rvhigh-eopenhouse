@@ -2,7 +2,6 @@ collections:
   about-rv:
     output: true
     order:
-      - Contact Info.md
       - A World Class Educational Institution.md
       - Vision, Mission, Motto.md
       - School Values and Spirit.md
@@ -10,3 +9,4 @@ collections:
       - Our School Leaders.md
       - School History.md
       - School Partners.md
+      - Contact Info.md
