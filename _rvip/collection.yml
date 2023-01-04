@@ -2,9 +2,9 @@ collections:
   rvip:
     output: true
     order:
-      - Non Academic Programme/Student Development Department.md
-      - Non Academic Programme/Non Academic Programme.md
       - Non Academic Programme/.keep
+      - Non Academic Programme/Non Academic Programme.md
+      - Non Academic Programme/Student Development Department.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
