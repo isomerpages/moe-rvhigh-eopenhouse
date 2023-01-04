@@ -2,4 +2,5 @@ collections:
   rvip:
     output: true
     order:
+      - Integrated Programme.md
       - School Prospectus.md
