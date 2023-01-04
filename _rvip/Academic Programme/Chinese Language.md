@@ -37,5 +37,4 @@ third_nav_title: Academic Programme
 |---|---|
 | <img src="/images/2019年中二年级挥春迎新春1.jpg" style="width:45%"> <center><b>2019年中二年级挥春迎新春  | <img src="/images/2019 春到河畔与傅海燕1.jpg" style="width:85%"> <center><b>2019 春到河畔与傅海燕 |
 |   |   |
-
 	
