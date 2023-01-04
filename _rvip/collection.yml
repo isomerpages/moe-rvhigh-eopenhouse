@@ -2,6 +2,7 @@ collections:
   rvip:
     output: true
     order:
+      - RVIP Flagship Programmes/Construct,Integrate,Differentiate Programme.md
       - RVIP Flagship Programmes/.keep
       - RVIP Flagship Programmes/RVIP Flagship Programmes.md
       - RVIP Flagship Programmes/Special Assistance Plan Programme.md
