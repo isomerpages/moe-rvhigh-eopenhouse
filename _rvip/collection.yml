@@ -2,12 +2,6 @@ collections:
   rvip:
     output: true
     order:
-      - Non Academic Programme/.keep
-      - Non Academic Programme/Non Academic Programme.md
-      - Non Academic Programme/Student Development Department.md
-      - Non Academic Programme/Education & Career Guidance.md
-      - Non Academic Programme/Aesthetics.md
-      - Non Academic Programme/Leadership and Character Development.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
@@ -22,3 +16,9 @@ collections:
       - Academic Programme/Chinese Language.md
       - Academic Programme/The Humanities.md
       - Academic Programme/Physical Education.md
+      - Non Academic Programme/.keep
+      - Non Academic Programme/Non Academic Programme.md
+      - Non Academic Programme/Student Development Department.md
+      - Non Academic Programme/Education & Career Guidance.md
+      - Non Academic Programme/Aesthetics.md
+      - Non Academic Programme/Leadership and Character Development.md
