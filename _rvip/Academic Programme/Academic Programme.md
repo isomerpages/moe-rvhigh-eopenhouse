@@ -13,13 +13,25 @@ River Valley High School offers the 6-year Integrated Programme and our students
 Specific to RVHS, we customise and design our programme to provide a seamless development of RVians' talent and potential to the fullest.
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+<img style="width:30%;margin-right:15px;" align=left src="/images/scienceimg.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%;margin-right:15px;" align=left src="/images/mothertongue.jpg">
+<img style="width:30%;margin-right:15px;" align=left src="/images/matheimg.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/mothertongue.jpg">
+<img style="width:30%" align=left src="/images/engimg.jpg">
+</a></p> <br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%;margin-right:15px;" align=left src="/images/scienceimg.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%;margin-right:15px;" align=left src="/images/matheimg.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/engimg.jpg">
 </a></p>
