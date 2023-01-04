@@ -2,6 +2,7 @@ collections:
   about-rv:
     output: true
     order:
+      - Principal’s Message.md
       - A World Class Educational Institution.md
       - Vision, Mission, Motto.md
       - School Values and Spirit.md
