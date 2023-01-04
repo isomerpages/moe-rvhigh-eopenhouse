@@ -2,6 +2,7 @@ collections:
   rvip:
     output: true
     order:
+      - Academic Programme/Mathematics.md
       - Academic Programme/.keep
       - Academic Programme/Academic Programme.md
       - Academic Programme/Science.md
