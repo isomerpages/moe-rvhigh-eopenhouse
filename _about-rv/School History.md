@@ -42,11 +42,11 @@ description: ""
 | **2007**  | RV launched the Bicultural Studies Programme (Chinese) and saw her first batch of SAP scholars. 7 students were awarded the SAP scholarship.<br><br>2 students were awarded the DSTA scholarship.<br><br>We became the West Zone Centre of Excellence for Science and Technology in April. In June, we officially launched the WZCOE and started our inaugural science seminar at the Singapore Science Centre.<br><br>RV was awarded the Sustained Achievement Award for Sports and Academic Value-added, together with Physical Fitness and Uniformed Groups. We were awarded all five of the SAA awards.<br><br>15th Trim and Fit Award.  |
 | **2008**  | In February, RV’s last O-Level cohort received their results.<br><br>RV had her full cohort of 1,600 Integrated Programme students across four levels.  |
 | **2009**  | In December, Mr Koh Yong Chiah became the school’s 8th Principal.  |
-| **2010**  | RV moved from her holding campus at Malan Road to her permanent campus at Boon Lay Avenue.<br><img src="/images/eng6.jpeg" style="width:49%" align=left>  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **2010**  | RV moved from her holding campus at Malan Road to her permanent campus at Boon Lay Avenue.<br><img src="/images/2010photo.jpg" style="width:30%" align=left> <br clear=left><br>RV organised the 2010 Asian Young Leaders Convention which saw more than 900 student leaders from across Asia gathering in RV, to hone their leadership skills and forge friendships. |
+| **2011**  | RV celebrated her 55th anniversary.<br><br>Mr Sze Guan Kheng joined the school as the Vice Principal. Mr Sherwin Cheng became the school’s Vice Principal.<br><br>RV’s first Integrated Programme A-Level cohort received their results in March. Tan Zhi Xiang, RV’s top student, was also a national top student.<br><br>RV had her Singapore Quality Class (SQC) Award and School Excellence Award renewed.<br><br>RV co-organised the 2011 Asian Young Leaders Convention with Wenjiang Middle School in Wenjiang, China.  |
+| **2012**  | RV’s second Integrated Programme A-Level cohort also produced a national top student. He is Soh Zhi Liang.<br><br>RV launched her iPad one-to-one programme.<br><br>Mr Loi Guang You became the school's Vice Principal. Mr Gabriel Wong joined the school as the Vice Principal.<br><br>In December, Mrs Teo Khin Hiang became the school’s 9th Principal.  |
+| **2013**  | RV held her first Y.Lead Seminar in July.<br><br>Mr Gay Choon Lin joined the school as the Vice Principal (Admin).<br><br>RV held her first River Valley Model United Nations (RVMUN).  |
+| **2014**  |   |
 |   |   |
 |   |   |
 |   |   |
