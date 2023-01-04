@@ -1,4 +1,5 @@
 collections:
   rvip:
     output: true
-    order: []
+    order:
+      - School Prospectus.md
