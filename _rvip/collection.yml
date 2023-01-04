@@ -2,6 +2,7 @@ collections:
   rvip:
     output: true
     order:
+      - Co Curricular Activities Curriculum.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
