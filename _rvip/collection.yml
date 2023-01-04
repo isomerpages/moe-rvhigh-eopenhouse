@@ -2,10 +2,10 @@ collections:
   rvip:
     output: true
     order:
-      - Academic Programme/Mathematics.md
       - Academic Programme/.keep
       - Academic Programme/Academic Programme.md
       - Academic Programme/Science.md
+      - Academic Programme/Mathematics.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
