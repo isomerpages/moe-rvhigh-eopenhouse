@@ -16,5 +16,5 @@ third_nav_title: RVIP Flagship Programmes
 
 |   |   |
 |---|---|
-| 春到河畔与傅海燕  | 2019年中二年级挥春迎新春  |
+| <center><b>春到河畔与傅海燕  | <center><b>2019年中二年级挥春迎新春  |
 |   |   |
