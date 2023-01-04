@@ -2,5 +2,6 @@ collections:
   rvip:
     output: true
     order:
+      - RVIP Flagship Programmes/.keep
       - School Prospectus.md
       - Integrated Programme.md
