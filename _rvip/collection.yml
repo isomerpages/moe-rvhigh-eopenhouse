@@ -1,0 +1,4 @@
+collections:
+  rvip:
+    output: true
+    order: []
