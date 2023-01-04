@@ -18,3 +18,10 @@ third_nav_title: RVIP Flagship Programmes
 |---|---|
 | <center><b>春到河畔与傅海燕  | <center><b>2019年中二年级挥春迎新春  |
 |   |   |
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HbsVUfqAz30" title="2020 Sec 2 Chinese calligraphy competition   中二 挥春比赛" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<center><b>中二挥春比赛</b></center>
+	
+
+	
