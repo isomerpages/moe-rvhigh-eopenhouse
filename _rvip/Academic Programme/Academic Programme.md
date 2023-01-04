@@ -17,7 +17,7 @@ Specific to RVHS, we customise and design our programme to provide a seamless de
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%;margin-right:15px;" align=left src="/images/matheimg.jpg">
+<img style="width:30%;margin-right:15px;" align=left src="/images/matheimg2.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
@@ -25,13 +25,13 @@ Specific to RVHS, we customise and design our programme to provide a seamless de
 </a></p> <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%;margin-right:15px;" align=left src="/images/scienceimg.jpg">
+<img style="width:30%;margin-right:15px;" align=left src="/images/chineseimg.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%;margin-right:15px;" align=left src="/images/matheimg.jpg">
+<img style="width:30%;margin-right:15px;" align=left src="/images/humanitiesimg.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/engimg.jpg">
+<img style="width:30%" align=left src="/images/peimg.jpg">
 </a></p>
