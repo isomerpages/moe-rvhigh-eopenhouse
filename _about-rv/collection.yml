@@ -1,4 +1,5 @@
 collections:
   about-rv:
     output: true
-    order: []
+    order:
+      - A World Class Educational Institution.md
