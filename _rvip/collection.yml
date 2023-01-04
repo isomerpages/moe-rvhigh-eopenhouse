@@ -2,7 +2,6 @@ collections:
   rvip:
     output: true
     order:
-      - Academic Programme/Physical Education.md
       - Academic Programme/.keep
       - Academic Programme/Academic Programme.md
       - Academic Programme/Science.md
@@ -10,6 +9,7 @@ collections:
       - Academic Programme/English Language.md
       - Academic Programme/Chinese Language.md
       - Academic Programme/The Humanities.md
+      - Academic Programme/Physical Education.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
