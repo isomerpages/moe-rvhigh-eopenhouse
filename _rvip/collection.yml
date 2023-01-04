@@ -2,6 +2,12 @@ collections:
   rvip:
     output: true
     order:
+      - School Prospectus.md
+      - Integrated Programme.md
+      - RVIP Flagship Programmes/.keep
+      - RVIP Flagship Programmes/RVIP Flagship Programmes.md
+      - RVIP Flagship Programmes/Special Assistance Plan Programme.md
+      - RVIP Flagship Programmes/Construct,Integrate,Differentiate Programme.md
       - Academic Programme/.keep
       - Academic Programme/Academic Programme.md
       - Academic Programme/Science.md
@@ -10,9 +16,3 @@ collections:
       - Academic Programme/Chinese Language.md
       - Academic Programme/The Humanities.md
       - Academic Programme/Physical Education.md
-      - School Prospectus.md
-      - Integrated Programme.md
-      - RVIP Flagship Programmes/.keep
-      - RVIP Flagship Programmes/RVIP Flagship Programmes.md
-      - RVIP Flagship Programmes/Special Assistance Plan Programme.md
-      - RVIP Flagship Programmes/Construct,Integrate,Differentiate Programme.md
