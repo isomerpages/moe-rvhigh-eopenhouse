@@ -68,3 +68,14 @@ third_nav_title: Academic Programme
 培养学生对文本进行评鉴、分析的能力，以及在中英文本互译过程中培养对其文化的鉴赏力，使学生具备环球意识和跨文化交流技能。
 
 **双文化领袖学研中心（****Bicultural Leaders Academy****）**
+	
+	
+<img src="/images/2018 通商中国擂台赛.jpg" style="width:43.5%" align=left>
+<img src="/images/透视中国学生双语论坛.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+	
+|   |   |
+|---|---|
+| **2018 通商中国擂台赛**  | **透视中国学生双语论坛**  |
+|   |   |
+
