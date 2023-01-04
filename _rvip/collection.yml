@@ -2,6 +2,7 @@ collections:
   rvip:
     output: true
     order:
+      - Non Academic Programme/Leadership and Character Development.md
       - Non Academic Programme/.keep
       - Non Academic Programme/Non Academic Programme.md
       - Non Academic Programme/Student Development Department.md
