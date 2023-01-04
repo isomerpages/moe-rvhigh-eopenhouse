@@ -53,10 +53,5 @@ description: ""
 | **2018**  | Stefan Liew Jing Rui, from class of 2017, is the school's first President Scholar from the school's Integrated Programme.<br><br>RV organised the Ministry of Education Pre-University Seminar for the first time in the school's history, with Dang Chee Wen of the Class of 2019 producing the seminar's first-ever theme song.<br><br>Yeoh An Ni from the Class of 2018 was awarded the Prime Minister's Book Prize.<br><br>RV won her first SYF Overall Winning Theme Song, STAGE, written and produced by Terry Ng Tian Yu and Goh Jing Wen from the Class of 2018.<br><br>Charmaine Chua Jia Ying attained the Best Sportsgirl Award (Softball) at the Singapore Schools Sports Council Colours Awards 2018.<br><br>Mr Kwok Ying Liang joined the school as Vice Principal in December.  |
 | **2019**  | The first batch of Joint Admissions Exercise (JAE) programme students were admitted into the school in February.<br><br>Chan Jia Wei,Lee Yan Qing and Tang Rui Yi attained the President's Guide Award.<br><br>Lai Sin Yee from the Class of 2018 is awarded the Lee Hsien Loong Award for Outstanding Bicultural Studies.<br><br>Mr John Michael Peter Lau joined the school as Vice Principal in December.  |
 | **2020**  | Mao Yu Di from the Class of 2019 is awarded the Lee Hsien Loong Award for Outstanding Bicultural Studies.<br><br>Winnis Lee Xin Rong from the Class of 2019 is awarded the Prime Minister’s Book Prize.<br><br>Charmaine Chua Jia Ying attained the Best Sportsgirl Award (Softball) at the Singapore Schools Sports Council Colours Awards 2020.<br><br>Mr Andy Lim Peng Yuan joined the school as Vice Principal in December.  |
-| **2021**  |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **2021**  | RV celebrated her 65th Anniversary.  <br><br>Lim Jo Xin from the Class of 2020 is awarded the Prime Minister’s Book Prize.<br><br>Vera Ng Jing Wen attained the President’s Guide Award.<br><br>Ms Chua Shi Qian joined the school as Vice-Principal in December. <br><br>In December, Mdm Choy Wai Yin became the school’s 10th Principal.  |
 |   |   |
