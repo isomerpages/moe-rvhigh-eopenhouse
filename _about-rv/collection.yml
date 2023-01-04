@@ -2,5 +2,5 @@ collections:
   about-rv:
     output: true
     order:
-      - Vision, Mission, Motto.md
       - A World Class Educational Institution.md
+      - Vision, Mission, Motto.md
