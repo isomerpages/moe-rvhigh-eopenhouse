@@ -2,10 +2,10 @@ collections:
   about-rv:
     output: true
     order:
-      - School Partners.md
       - A World Class Educational Institution.md
       - Vision, Mission, Motto.md
       - School Values and Spirit.md
       - Principal’s Message.md
       - Our School Leaders.md
       - School History.md
+      - School Partners.md
