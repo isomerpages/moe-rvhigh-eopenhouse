@@ -78,4 +78,29 @@ third_nav_title: Academic Programme
 |---|---|
 | **2018 通商中国擂台赛**  | **透视中国学生双语论坛**  |
 |   |   |
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oI0vDbaZs78" title="2019 BLA overseas trip 2019   双文化学习之旅" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+###### <center>双文化2019学习之旅</center>
 
+自立化中学于2006年开办双文化课程以来，双文化课程一直都是我校的特色课程之一。双文化课程旨在加强学生对当代中国的了解，提升学生对学习东西文化的热忱，扎根本土，放眼世界。
+
+成立双文化领袖学研中心，是为整合现有课程活动，并加强我校双文化人才的遴选机制与培养计划。一个真正的双文化人，须具备三方面的知识与技能（简称“**PAC**”），缺一不可。
+
+双文化学研中心的课程活动设计，包含以下三大核心内容：
+
+1.    中英语表达能力 （**P**roficiency in Chinese and English）<br>
+2.    华族历史文化鉴赏能力（**A**ppreciation of Chinese History, Culture and Values）<br>
+3.    跨文化技能与环球知识（**C**ross-Cultural Skills and Global Awareness）
+
+通过丰富有趣的专题讨论，以及本地和海外的深度学习浸濡，学生能够切身体验东西文化的博大精深，成为游走于东西方的双语双文化人才。
+	
+**双文化领袖学研中心旗舰项目：**<br>
+**1.**    **透视中国研讨会（****China Perspectives****）**<br>
+“透视中国学生双语论坛”的构想由通商中国与立化中学共同提出，旨在建立一个真正双语双文化的校园平台，让各具东、西方视角的演讲嘉宾，从独特的学术及专业高度，同台交流探讨中国当下热点课题，从而培养一批深刻了解中国、具环球视野的学生。
+
+**2.**    **立化双文化课程研讨会**<br>
+立化双文化领袖学研中心举办研习论文研讨会，旨在让创造一个让学生们呈献自己的优秀研究项目，与同侪们分享自己的研究成果。学生们根据自己感兴趣的课题，自由组成小组一起研习。此活动的主办目的是让学生们能够切身体验东西方文化的博大精深，开拓他们的视野并加深他们对时事课题的认知。
+	
+	
+	
