@@ -13,5 +13,5 @@ third_nav_title: RVIP Flagship Programmes
 
 |   |   |
 |---|---|
-| <center><b> CID3 students pitching <br>their prototype at Sharktank </center> | <center><b>特选四十——校园巡回展览</center>  |
+| <center><b> CID3 students pitching <br>their prototype at Sharktank  | <center><b>特选四十——校园巡回展览  |
 |   |   |
