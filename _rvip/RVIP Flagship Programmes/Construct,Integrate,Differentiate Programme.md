@@ -18,3 +18,10 @@ CID is designed as a four-year programme that provides RV students with opportun
 | <img src="/images/Brainstorming during CID lesson at the Whitespace.jpg" style="width:85%"><p align=center>**Brainstorming during CID lesson at the Whitespace**</p>  | <img src="/images/Cross-cultural sharing during a school immersion in China (2).jpg" style="width:70%"><p align=center>**Cross-cultural sharing during a school immersion in China**</p>  |
 |   |   |
 
+| Secondary  | Programme  | Description  |
+|---|---|---|
+| 1  | Foundation  | The Foundation module introduces students to the Habits of Mind, Paul's Wheel of Reasoning and the Universal Intellectual Standards.  |
+| 2  | Comparative Studies  | Students apply their research skills and explore different facets of China. During an overseas experiential learning programme (OELP) trip to China, they experience first-hand China’s culture, language, and economic and political developments.  |
+| 3  | Creative Problem Solving  | Students apply problem-solving skills to a real life problem in this module. Students will also get to choose to attend one of five master classes that teaches relevant technical skills such as application coding, designing and prototyping.  |
+| 4  | Nurturing Talents and Interests  | Self-directed learning takes centre stage as students explore a field of their choice in greater depth to create value for the community.  |
+|   |   |   |
