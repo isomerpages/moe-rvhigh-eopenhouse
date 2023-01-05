@@ -202,3 +202,24 @@ third_nav_title: Scholarship Recipients
 
 #### NUS Scholarships
 
+|   |
+|---|
+| **Chong Rui Xuan**  |
+| **Teo Wei Ming**  |
+|  **Wang Hong Yi Lucas** |
+| **Sim Wenxi**  |
+| **Chua Yi Lin**  |
+| **Koh Tze Pin Gabriel**  |
+| **Nicholas Chong Xian He**  |
+| **Foo Wen Hao**  |
+|  **Leow Shuen Ling** |
+| **Zhang Yingxue**  |
+| **Loke Mei Qi Jessica**  |
+| **Li YingYing**  |
+| **Kevin Khoo Weixue**  |
+|  **Daniel Ling Zhi Yuan** |
+| **Adeline Ng Xin Yi**  |
+|  **Gladwin Tan Ye Kai** |
+| **Fong Yih Jie**  |
+| **Lee Hwee Liang, Ian**  |
+|   |
