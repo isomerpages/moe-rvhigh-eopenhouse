@@ -22,3 +22,20 @@ third_nav_title: Scholarship Recipients
 | **Li Xiyu**  | **Zhao Yingwen**  |
 | **Liu Tianjian**  | **Zheng Shuyue**  |
 |   |   |
+
+#### 2021 YDSP Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/YDSP.jpg" style="width:85%">  | <br><br><br><br>**Khow Willard**<br><br>**Chan Xing Yu James** |
+|   |   |
+
+#### MOE Pre-University Scholarships
+
+|   |   |
+|---|---|
+| <img src="/images/MOE Pre-U.png" style="width:85%">  | <br>**Gong Yongjia**<br><br>**Lim Yi Ting Erica**<br><br>**So Jun Ming Randall**<br><br>**Soh Jun Peng Jayron**  |
+|   |   |
+
+#### CSIT Computing Scholarship
+
