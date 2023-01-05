@@ -15,3 +15,14 @@ third_nav_title: Scholarship Recipients
 
 #### Healthcare Scholarship
 
+<img src="/images/Healthcare.jpeg" style="width:85%">
+
+| Name  | Year of Award  | Award Type  | Discipline  |
+|---|---|---|---|
+| Nicholas Woong  |2022   | Full Term  | Nursing  |
+| Teoh Jie Yu  | 2022  | Full Term  | Clinical Psychology  |
+| Puan Yi Le  | 2021  | Full Term  | Dietetics  |
+| Li Jiayi  | 2022  | Full Term  | Pharmacy  |
+| Ho Yu Han  | 2022  | Mid Term  | Nursing  |
+| Quet Ke Ying  | 2022  | Full Term  | Nursing  |
+|   |   |   |   |
