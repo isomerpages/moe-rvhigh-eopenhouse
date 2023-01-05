@@ -106,3 +106,10 @@ third_nav_title: Scholarship Recipients
 
 #### Singapore Police Force (SPF) Scholarship
 
+|   |   |
+|---|---|
+| <img src="/images/SPF.jpg" style="width:85%">  | <br><br><br>**Lim Guan Mao Daven**  |
+|   |   |
+
+#### Defence Science Technology Agency (DSTA) Scholarship
+
