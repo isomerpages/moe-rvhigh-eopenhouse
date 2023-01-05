@@ -113,3 +113,31 @@ third_nav_title: Scholarship Recipients
 
 #### Defence Science Technology Agency (DSTA) Scholarship
 
+|   |   |
+|---|---|
+| <img src="/images/DSTA-Tee.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Tee Wen Hui**  |
+|   |   |
+
+#### A\*STAR Undergraduate Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/A star.jpg" style="width:60%">  | <br><br><br><br><br><br><br>**Tien Zhijun**  |
+|   |   |
+
+#### Ministry of Education (MOE) Teaching Award
+
+|   |   |   |
+|---|---|---|
+| <img src="/images/Lin XiyA.jpg" style="width:85%">  | <img src="/images/Joy Liu.png" style="width:85%">  | <img src="/images/Hana Yeow.png" style="width:85%">  |
+| **Lin Xiya**  | **Joy Liu Tongrui**  | **Yeow Qi Yan Hana**  |
+|   |   |   |
+
+|   |   |   |
+|---|---|---|
+| <img src="/images/MOE-Ng.jpg" style="width:85%">  | <img src="/images/Tan Xin Yi.png" style="width:85%">  |   |
+| **Ng Yu Heng**  |  **Tan Xin Yi** |   |
+|   |   |   |
+
+#### 2021 Ministry of Education (MOE) Teaching Scholarship
+
