@@ -184,3 +184,21 @@ third_nav_title: Scholarship Recipients
 | <img src="/images/MOH-01.jpg" style="width:85%">  | <img src="/images/MOH-02.png" style="width:85%">  | <img src="/images/MOH-03.jpg" style="width:85%">  |
 |  **Lee Sze Hwee**  |  **Tey Qian Hui Crystal**  |  **Ho Wen Qian Angel** |
 |   |   |   |
+
+#### 2021 Singapore Industry (Sg-IS) Scholarships
+
+|   |  
+|---|
+| **Chang Jing Yan**  | 
+| **Ting Yong Shen, Amos**  |  
+| **Lin Yuheng**  | 
+| **Tang Han Kang**  |  
+| **Oh Wei Xuan**  |  
+| **Eugene Lim**  |  
+| **Nobel Ang**  |  
+| **Tan Sze Hui Joy**  |  
+| **Tang How Mun Tiffany**  |  
+|   |  
+
+#### NUS Scholarships
+
