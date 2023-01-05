@@ -3,6 +3,8 @@ title: Co Curricular Activities Curriculum
 permalink: /rvip/cocurricular-act/
 description: ""
 ---
+## Co-Curricular Activities Curriculum
+
 ![_DSF6492.JPG](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/IP@RV/Integrated%20Programme/_DSF6492.JPG)  < image exceeds 5MB >
 
 River Valley High School’s Co-curricular Activities Curriculum is designed to develop RVians’ myriad talents and passion. Our consistently high-performing co-curricular activities groups allow RVians’ talent and potential to be developed to their fullest. This will encourage RVians to develop a lifelong interest and passion that will aid them in maintaining a healthy lifestyle.
