@@ -244,3 +244,24 @@ third_nav_title: Scholarship Recipients
 
 #### NTU Scholarships
 
+|   |
+|---|
+| **Lim Shi Yun**  |
+| **Tan Yu Wei Russell**  |
+| **Gerald Ong Jon Kai**  |
+|  **Joshua Yeo Jun Yong** |
+| **Lee Ming Xuan Brian**  |
+| **Siah Wee Hung**  |
+| **Thaddeus Tay Chuan Ren**  |
+| **Toh Zhi Yang**  |
+| **Yin Jian**  |
+| **Lee Jia Wen**  |
+| **Lee Man Lin**  |
+| **Hu Junjie**  |
+|  **Nyan Maw Htun** |
+| **Nathan Teo Qi Xuan**  |
+| **Lim Sui Kiat**  |
+| **Dayna Chia Ching Ning**  |
+| **Lam Wei Lin, Zoey**  |
+| **Chong Rui Xuan**  |
+|   |
