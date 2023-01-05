@@ -26,3 +26,25 @@ third_nav_title: Scholarship Recipients
 | Ho Yu Han  | 2022  | Mid Term  | Nursing  |
 | Quet Ke Ying  | 2022  | Full Term  | Nursing  |
 |   |   |   |   |
+
+#### MINDEF Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/MINDEF.jpeg" style="width:85%">  | Chua Yao Xuan (PSC Engineering)<br><br>Ngiow Han Bin (SAF Merit Scholarship)<br><br>Glenda Chong (Defence Merit Scholarship) <br><br>Fiona Zeng (Defence Merit Scholarship) <br><br>Lim Jo Xin (DSTA Scholarship)<br><br>Tay Ru Xin (DSTA scholarship)  |
+|   |   |
+
+#### The Singapore Police Force Scholarship & Ministry of Home Affairs Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/YU SHING AND  JAMIE.jpeg" style="width:85%">  | Yu Shing (19J12)  <br><br>Jamie (20J02)  |
+|   |   |
+
+#### SgIS Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/WONG QI QI.jpeg" style="width:85%">  | <img src="/images/HO WAN SING.jpeg" style="width:85%">  |
+| <center>Wong Qi Qi  | <center>Ho Wan Sing  |
+|   |   |
