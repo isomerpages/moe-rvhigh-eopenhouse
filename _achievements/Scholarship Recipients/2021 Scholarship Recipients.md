@@ -60,3 +60,11 @@ third_nav_title: Scholarship Recipients
 
 #### SMU Computing Award
 
+###### <center>Chua Yao Xuan</center>
+
+#### SAF Young Leader Award (SYLA)
+
+|   |   |
+|---|---|
+| <img src="/images/SAF Young Leader.jpg" style="width:85%">  | <br><br><br><br><br>**Tan Qian Qian Charmaine**  |
+|   |   |
