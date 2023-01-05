@@ -39,3 +39,24 @@ third_nav_title: Scholarship Recipients
 
 #### CSIT Computing Scholarship
 
+|   |   |
+|---|---|
+| <img src="/images/COMPUTING.jpg" style="width:85%">  | <br><br><br><br>**Joshua Chin Wei Jie**<br><br>**Zhou Zehao**  |
+|   |   |
+
+#### 2021 MOE JC BSP Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/MOE BSP JC.jpg" style="width:85%">  | <br><br>**Chong Pin Mun**<br><br>**Graris Lee Wan En** <br><br>**Li Shi Hui**<br><br>**Yi Kaizhi**  |
+|   |   |
+
+#### 2021 DSTA JC Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/DSTA.jpg" style="width:85%">  | <br><br><br><br><br><br>**Gan Chee Joon**<br><br>**Siow Jia Wei**  |
+|   |   |
+
+#### SMU Computing Award
+
