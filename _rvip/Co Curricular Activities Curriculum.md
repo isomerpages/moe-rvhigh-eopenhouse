@@ -15,26 +15,21 @@ Click [Here](/achievements/2019-achievements) for a list of CCA achievements.
 
 **CCAs Offered in RV**
 
-**Physical Sports:**  
-
-Badminton, Basketball (Boys), Cross Country#, Floorball (Girls), Football\* (Boys), Netball,
-
+**Physical Sports:**  <br>
+Badminton, Basketball (Boys), Cross Country#, Floorball (Girls), Football\* (Boys), Netball,<br>
 Softball (Girls), Wushu, Table Tennis, Volleyball (Girls), Wushu, Ultimate Frisbee\*
 
-**Uniformed Groups:**
-
+**Uniformed Groups:** <br>
 Girl Guides, National Cadet Corps, National Police Cadet Corps, Scouts, St. John Brigade, Venture Scouts\*
 
-**Visual and Performing Arts:**
-
+**Visual and Performing Arts:** <br>
 Chinese Literary, Drama and Debate Society (CLDDS), Chinese Orchestra, Choir, Concert Band, Dance Society, English Literary, Drama and Debate Society (ELDDS), Guitar Ensemble\*, Street Dance\*
 
- **Clubs and Societies:**
-
+ **Clubs and Societies:** <br>
 Art Club#, Entrepreneur Club\*, Environmental Society\*, History & Current Affairs Society\*, Infocomm Club, Mind Sports Club\*, Photography Club\*, Public Address Club\*#, Robotics Club\*, Service and Citizenship Society\*, Singapore Youth Flying Club\*^, Student Editorial and Library Club\*, Bicultural Leaders Academy#, Humanities and Social Sciences Leaders Academy#, Mathematics Leaders Academy#, Science Leaders Academy#, The Eco-Sustainability Leadership Academy#, Student Leadership Development Academy#
-
-\* For JC 1 and 2 students only
-
-\# Secondary 1 to 4 students can take this as a second CCA
-
+<br>
+<br>
+<br>
+\* For JC 1 and 2 students only <br>
+\# Secondary 1 to 4 students can take this as a second CCA <br>
 ^ External CCA
