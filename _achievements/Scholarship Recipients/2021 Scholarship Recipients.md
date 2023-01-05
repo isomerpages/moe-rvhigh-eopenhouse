@@ -68,3 +68,19 @@ third_nav_title: Scholarship Recipients
 |---|---|
 | <img src="/images/SAF Young Leader.jpg" style="width:85%">  | <br><br><br><br><br>**Tan Qian Qian Charmaine**  |
 |   |   |
+
+#### 2021 The Prime Minister’s Book Prize
+
+|   |   |
+|---|---|
+| <img src="/images/PM Book Prize.jpg" align=left style="width:50%">  | <br><br><br><br><br><br><br>**Lim Jo Xin**  |
+|   |   |
+
+#### Public Service Commission (PSC) Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/PSC-01.jpg" style="width:85%">  | <img src="/images/PSC-02.jpg" style="width:85%">  |
+| **Xie Yuxuan**  | **Chua Yilin**  |
+|   |   |
+
