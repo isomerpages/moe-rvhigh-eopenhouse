@@ -2,7 +2,6 @@ collections:
   rvip:
     output: true
     order:
-      - RVHS ICT Programme.md
       - School Prospectus.md
       - Integrated Programme.md
       - RVIP Flagship Programmes/.keep
@@ -25,3 +24,4 @@ collections:
       - Non Academic Programme/Leadership and Character Development.md
       - Co Curricular Activities Curriculum.md
       - Internationalisation Programme.md
+      - RVHS ICT Programme.md
