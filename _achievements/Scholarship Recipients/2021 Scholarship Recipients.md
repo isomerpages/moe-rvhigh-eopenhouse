@@ -170,3 +170,17 @@ third_nav_title: Scholarship Recipients
 
 #### Ministry of Transport Beacon (MOT) Scholarships
 
+|   |   |
+|---|---|
+| **Civil Aviation Authority of Singapore (CAAS) Undergraduate Scholarship**  | **Maritime Port Authority Local Undergraduate Scholarship**  |
+| <img src="/images/CAAS-Foo.jpg" style="width:85%">  | <br><br><br><br><br><br>**Ng Wei Zhi Ernest**  |
+| **Foo Wen Hao**  |   |
+|   |   |
+
+#### 2021 Ministry of Health Scholarship
+
+|   |   |   |
+|---|---|---|
+| <img src="/images/MOH-01.jpg" style="width:85%">  | <img src="/images/MOH-02.png" style="width:85%">  | <img src="/images/MOH-03.jpg" style="width:85%">  |
+|  **Lee Sze Hwee**  |  **Tey Qian Hui Crystal**  |  **Ho Wen Qian Angel** |
+|   |   |   |
