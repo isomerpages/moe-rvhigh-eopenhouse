@@ -84,3 +84,25 @@ third_nav_title: Scholarship Recipients
 | **Xie Yuxuan**  | **Chua Yilin**  |
 |   |   |
 
+|   |   |
+|---|---|
+| <img src="/images/PSC-03.jpg" style="width:60%">  | <br><br><br><br><br>**Toh Wei Yang**<br>**(PSC Master's Scholarship**)  |
+|   |   |
+
+#### Ministry of Defence (MINDEF) Scholarships
+
+|   |   |
+|---|---|
+| <img src="/images/PSC-04.jpg" style="width:85%">  | <img src="/images/SAF Merit-Navy.jpg" style="width:85%">  |
+| **Ong Gim Hua Gerald**<br>**SAF Scholarship (Army)**  | **Tan Ning Vivienne**<br>**SAF Merit Scholarship ( Navy)**  |
+|   |   |
+
+<img src="/images/SAF Eng Navy.jpg" style="width:30%">
+
+|   |
+|---|
+| <center>**Tam Hao Yun**<br>**SAF Engineering Scholarship (Navy)**</center>  |
+|   |
+
+#### Singapore Police Force (SPF) Scholarship
+
