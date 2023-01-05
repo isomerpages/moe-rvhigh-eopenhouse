@@ -141,3 +141,32 @@ third_nav_title: Scholarship Recipients
 
 #### 2021 Ministry of Education (MOE) Teaching Scholarship
 
+|   |   |
+|---|---|
+| <img src="/images/MOE-02-Mao.jpg" style="width:85%">  | <img src="/images/Xu Yujing.png" style="width:85%">  |
+| **Mao Yudi**  | **Xu Yujing**  |
+|   |   |
+
+#### Singapore National Co-operative Federation Scholarship (SNCF)
+
+|   |   |
+|---|---|
+| <img src="/images/SNCF-Audrina.jpg" style="width:60%">  | <br><br><br><br><br><br>**Audrina  Tan Siyi**  |
+|   |   |
+
+#### 2021 Jurong Town Corporation (JTC) Undergraduate Scholarship
+
+|   |   |
+|---|---|
+| <img src="/images/JTC-Jeremy.jpg" style="width:60%">  | <br><br><br><br><br><br>**Jeremy Toh**  |
+|   |   |
+
+#### Land Transport Authority (LTA) Scholarships
+
+|   |   |
+|---|---|
+| **Heng Shu Hong**<br>**(LTA Undergraduate SCholarship)**  | **Aloysius Khoo Kai Jie**<br>**(LTA Local Study Award)**  |
+|   |   |
+
+#### Ministry of Transport Beacon (MOT) Scholarships
+
