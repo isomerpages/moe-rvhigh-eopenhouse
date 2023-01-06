@@ -42,3 +42,15 @@ third_nav_title: Scholarship Recipients
 | **Teo Hui Suan**  | **Wang Junheng**  |
 |   |   |
 
+|   |   |
+|:-:|---|
+| <img src="/images/BiCultural-jc1.jpg" style="width:85%">  | <br><br>**Junior College**<br><br>**Zhang Chuying**<br><br>**Tan Hong Kiat**<br><br>**Jerrald Raeanne Lim Zhi En**  |
+|   |   |
+
+#### 2020 MOE Pre-University  Scholarships
+
+|   |   |
+|:-:|---|
+| <img src="/images/Pre-U.jpg" style="width:85%">  | **Alvin Ong Zhao Wei** <br><br>**Chua Yao Xuan**<br><br>**Glenda Chong Rui Ting**<br><br>**Jarell Liaw Jun Yi**<br><br>**Mendell Yap Haw Chuen**<br><br>**Ng Min Yi**<br><br>**Yeo Yong Sheng**  |
+|   |   |
+
