@@ -135,3 +135,27 @@ third_nav_title: Scholarship Recipients
 |:-:|---|
 | <img src="/images/HDB.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Low Jing Yi Jean**  |
 |   |   |
+
+#### 2020 National Library Board Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/Lib.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Yong Jing Jing**  |
+|   |   |
+
+#### 2020 Accountant-General's Department Accountancy Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/AG.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Zhu Xinghua**  |
+|   |   |
+
+#### 李显龙杰出双文化学生奖 2020 Lee Hsien Loong Award for  Outstanding Bicultural Studies
+
+|   |   |
+|:-:|---|
+| <img src="/images/Bicult.jpg" style="width:60%">  | <br><br><br>**毛禹迪**  <br>**Mao Yu Di**  |
+|   |   |
+
+#### 2020 Prime Minister’s Book Prize
+
