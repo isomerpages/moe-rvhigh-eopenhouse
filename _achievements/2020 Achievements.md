@@ -66,14 +66,8 @@ description: ""
 | **2020 Community Chest Awards**  | River Valley High School is awarded the Charity Gold Award (Secondary) for our outstanding contributions and support for Community Chest social service agencies and service users in 2019.  |
 | <br><br><br><br>**River Valley Model United Nations (RVMUN)**  | From 15 to 17 March 2021, the History and Current Affairs Society (HACAS) held a virtual edition of the River Valley Model United Nations Conference. With a total delegation size of about 300 students, this 9th edition of the conference had the largest number of simulated councils on offer, a grand total of 11, including unprecedented ones like a Historical Crisis Council on the Boshin War. In addition, RVMUN 2021 also increased the number of Alumni Councils offered, where a total of five RVHS alumni students came back to chair the ASEAN+6 and UNHCR councils. With the theme “Sapere Aude” and helmed by Secretary-General Ng Wei Jie (20J16), and Deputy Secretary-General, Samuel Luther Ang (20J20), RVMUN 2021 saw its successful completion after three days of intense debate, dialogue and consensus-seeking pathways towards resolutions on key global issues.  |
 | <br><br><br><br><br><br><br>**Global Geopolitics Conference**  | On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:  <br><br>**2nd Placing for Best Delegation**  <br>River Valley High School  <br><br>**Best Delegate**  <br>Tan Liang Rong (20J20)  <br><br>**Best Position Paper**  <br>Tang Jiaxi (20J18)  <br><br>**Outstanding Delegate**  <br>Ngieng Xin Yi (21J17)  <br>Goh Jun Yu (4B)  |
+|**Moot Parliament Programme Debate**   | **Outstanding Backbencher**  <br>Cadence Lim (4C)  |
+| <br>**NUS Geography Challenge**  | **Gold Medal**  <br>Tan Beng Yang (4A)  <br>Soh Wei Kean, Adrina (4A)  <br>Huang Changwen (4E)  <br>Su Zhixuan (4E)  |
+| <br><br>**First Lego League**  | **Champion's Award for secondary: 1st runner-up** <br>Yang Zuoquan (4I)   <br>Wong Rocky (3C)   <br>Lin Xinying (2D)  <br>Ng Jean Tzi, Edric (3F)  <br>Hong Wenqi(2F)  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
