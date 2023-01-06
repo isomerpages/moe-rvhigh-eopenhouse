@@ -78,12 +78,9 @@ third_nav_title: Scholarship Recipients
 | **Tristan Sim Yih**  | **Kenneth Kwan Yu Heng**  | **Ong Zhiqing**  |
 | <img src="/images/Teach 4.jpg" style="width:85%">  | <img src="/images/Teach 5.jpg" style="width:80%">  | <img src="/images/Teach 6.jpg" style="width:85%">  |
 | **Chua Micaiah**  | **Lim Jia Hui**  | **Calyn** **Seah Jia Ying**  |
+| <img src="/images/Grace Lee.jpg" style="width:85%">  | <img src="/images/Lim Xin Hui.jpg" style="width:75%">  | <img src="/images/Ang Yong Jia.jpg" style="width:78%">  |
+| **Grace Lee Ying Hui**  | **Lim Xin Hui**  | **Ang Yong Jia**  |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
+#### 2020 Healthcare Scholarships
+
