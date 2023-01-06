@@ -54,3 +54,40 @@ third_nav_title: Scholarship Recipients
 |:-:|---|
 | <img src="/images/SIS.jpg" style="width:85%">  | **Ek Chin Hui (Full-Term)**  <br><br>**Sharlene Quek (Full-Term)**<br><br>**Ho Jiayi Rachel (Full-Term)** <br><br>**Lim Qian Yi (Mid-Term)**  |
 |   |   |
+
+#### People’s Association Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/PA.jpg" style="width:85%">  | <br><br><br><br>**Tan Siqi**  <br><br>**Phua Yi Xuan**<br><br>**Kuah Jun Wee Jovi**  |
+|   |   |
+
+#### Defense Science & Technology Agency Scholarship
+
+|   |
+|:-:|
+| **Vanessa Chia Yun Yao**  |
+| **Tan Chern Heng**  |
+| **Hubert Choo Jin Cong**  |
+|   |
+
+#### Satutory Bodies Scholarship
+
+|   |   |
+|:-:|---|
+| **Grace Guan Yasin**  | **National Environment & Water (NEW) Scholarship**  |
+| **Phua Yi Xuan**  | **People's Association Scholarship**  |
+| **Tan Siqi**  | **People's Association Scholarship**  |
+| **Kuah Jun Wee Jovi(2014)**  | **People's Association Scholarship**  |
+| **Tan Yu Jia (2015)**  | **Singapore Press Holdings**  |
+|   |   |
+
+#### Scholarships for our JC2 students
+
+|   |   |
+|:-:|---|
+| **Hor Jasrene**  | **Singapore Armed Forces Young Leader Award**<br>**Singapore Police Force Book Prize**  |
+| **Lim Jun Hui Alan**  | **Singapore Armed Forces Young Leader Award**  |
+| **Mao Yudi**  | **Land Transport Authority Book Prize**  |
+| **Pang Kai Lin**  | **Land Transport Authority Book Prize**  |
+|   |   |
