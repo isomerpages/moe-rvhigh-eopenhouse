@@ -31,3 +31,43 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Singapore Armed Forces Overseas Scholarship
 
+|   |   |
+|:-:|---|
+| <img src="/images/Eugene_chia.jpg" style="width:60%">  | <br><br><br><br>**Eugene Chia Guole**  |
+|   |   |
+
+#### Public Service Commission Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/PSC_scholar.jpg" style="width:85%">  | **Jocelyn Wong**<br><br>**Tan Seet Ynn**<br><br>**Tseng Fan Shuen**<br><br>**Stefan Liew Jing Rui**<br><br>**Nicolle Ng Hui Min**<br><br>**Eugene Chia Guole**  |
+|   |   |
+
+#### Ministry of Defence Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/Mindef_scholars.jpg" style="width:85%">  | <br><br><br><br><br><br>**Eugene Chia Guole**<br><br>**Anson Woo Wing Hung**<br><br>**Andy Koh Jun Hoong**  |
+|   |   |
+
+#### Ministry of Transport Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/MOT_scholars.jpg" style="width:85%">  | <br><br>**Tan Seet Ynn**<br><br>**Kenneth Pang Chong Zheng**<br><br>**Alyna Khoo Yi Jie**<br><br>**Tan Ning Xuan**  |
+|   |   |
+
+#### Ministry of Health Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/MOH_scholars.jpg" style="width:85%">  | **Ng Wei Qing**<br><br>**Lim Wei Liang**<br><br>**Yaw Qin Ping**<br><br>**Ong Qian Ying**<br><br>**Tiong Ung Sing**<br><br>**Claudia Loh Hwee Tze**<br><br>**Gan Jia Yi**  |
+|   |   |
+
+#### Ministry of National Development Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/MND_Scholars.png" style="width:85%">  | <br><br><br><br><br><br>**Bernice Lim Si Min**<br><br>**Tan Yi Shiuan**  |
+|   |   |
+
