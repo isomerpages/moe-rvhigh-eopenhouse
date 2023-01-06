@@ -28,3 +28,33 @@ description: ""
 
 #### Science & Technology Fairs & Exhibitions
 
+|   |   |
+|:-:|---|
+|<br>**Singapore Science & Engineering Fair <br>(SSEF)**  | **3 Golds  <br>2 Silvers  <br>2 Merits  <br>2 Special Awards**  |
+| <br><br><br><br>**Agency for Science, Technology & Research Talent Search (ATS)**  |**2nd Prize(Student Category: $3000)**<br>Jonathan Chiew Jian Pin (20J10)  <br><br>**2nd Prize (School Category:$3000)**<br>River Valley High School  <br><br>ATS is an extension of the SSEF to honour students who have done exceptionally performed well in scientific research. Jonathan was interviewed and selected by a professional panel consisting of Physics Nobel Laureatte, Professor Konstantin Novoselov, Associate Professor Lim Tit Meng (Chief Executive, Science Centre) and other eminent scientists from academia and industries on 2 Sep 2020.   |
+| **WSPC-ICAAS Most Outstanding Junior College Science Student Award**  | Ng Si Min (19J08) was among the top 15 JC Science candidates shortlisted by MOE for Most Outstanding JC Science Student Award jointly organised by World Scientific Publishing Company and The Imperial College Alumni Association of Singapore.  |
+| **Nanyang Research Programme**  | Low Yu Hong’s (19J11) research paper has been accepted for publication in the International Journal of Gaming and Computer-Mediated Simulations in 2021.  |
+| **MOE Gifted Education Branch Youth Science Conference**  | **Science Mentorship programme:  <br>1 team was selected for the Student Keynote<br>Presentation**<br>Chan Shu Zhen, Venus (21J04)  <br>Zixuan Yeo (21J06)  <br>Chan Kai Sing, Natalie (21J08)  |
+| **National Science Challenge**  | **Our RV team emerged 3rd in this national televised competition**  |
+| **Inaugural Silver Ribbon Mental Health**  | River Valley High School was one of five educational instituitions that received this award in a virtual Zoom ceremony on 11 December 2020. The awards were meant to acknowledge and applaud the effort of schools in holding workshops and talks for staff and students, and encouraging students to embark on mental-health related projects, among others.  <br><br>Having implemented the Positive Education framework in RV, there has been greater awareness about mental health issues in school, and teachers and trained peer support leaders are well equipped to provide mental health support. We are happy that our efforts in promoting mental well-being are recognised.  |
+| <br><br><br><br><br><br>**Tan Kah Kee Young Inventors' Award Competition**  | **School Award  with Outstanding Participation & Quality Entries : 1st Prize** (14th time since 2001)  <br><br>**2 Merit Awards(Team)**  <br>Jin Sheng (2F)  <br>Xu Zhenbang (2F)  <br>Xavier Tan Yi-En  (2F)  <br><br>Tan Ning Vivienne (5D)  <br>Chan Po Shan (5K)  <br>Cui Yanning (5Q)  <br><br>**3 Commendation Awards (Team)**  <br>Lim Hong Wei (2E)  <br>Oh Sheng Jun (2E)  <br><br>Jolene Ng Jing Lin (2I)  <br>Chiu Sarina Fanyu (2I)  <br><br>Zhang Chunjie (5F)  <br>Zhu Jiachen (5H)  |
+| **Singapore University of Technology & Design: 3D Printing & Design Innovation Challenge 2020**  | **Local School Student Category (Theme: Educational Tools) Top Prize ($5000)**   <br>Da Ruolin (20J06)  <br>Yang Yujun (20J15)  <br><br>**Runner Up ($2500)**  <br>Cheng Jiajun (19J07)  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
