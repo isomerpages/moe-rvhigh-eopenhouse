@@ -54,3 +54,18 @@ third_nav_title: Scholarship Recipients
 | <img src="/images/Pre-U.jpg" style="width:85%">  | **Alvin Ong Zhao Wei** <br><br>**Chua Yao Xuan**<br><br>**Glenda Chong Rui Ting**<br><br>**Jarell Liaw Jun Yi**<br><br>**Mendell Yap Haw Chuen**<br><br>**Ng Min Yi**<br><br>**Yeo Yong Sheng**  |
 |   |   |
 
+#### 2020 PSC Scholarships
+
+|   |   |   |
+|:-:|---|---|
+| <img src="/images/PSC 1.jpg" style="width:85%">  | <img src="/images/PSC 2.jpg" style="width:85%">  | <img src="/images/PSC 3.jpg" style="width:85%">  |
+| **Lim Xin Yi**  | **LIm Guan Mao Daven**  | **Lim Ren Jie**  |
+|   |   |   |
+
+#### 2020 SAF Merit Scholarships
+
+|   |   |   |
+|:-:|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
