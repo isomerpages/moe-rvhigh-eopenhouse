@@ -24,10 +24,10 @@ description: ""
 | **Moot Parliament Programme Debate**  | **Outstanding Backbencher**  <br>Cadence Lim (4C)  |
 | <br><br>**National Plain English Speaking** **Awards**  | **Sec School Category**<br>**Finalist**<br>Hong Liying Rie (4C)<br><br>**JC/Poly/ITE Category**<br>**Finalist**<br>Given Tan (21J04)  <br><br>**2nd Runner-Up**<br>Clarice Lim Yin Jie (20J05)  |
 | **第四届小学课文朗诵比赛 中学低年级组（团体）**  | **季军**<br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **“译彩纷呈”翻译比赛**  | **团体赛冠军**<br>**个人奖：一等奖、二等奖、优胜奖**<br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C）  |
+| **全国第26届中学/ 高中华语演讲比赛**  | **优胜奖**  <br>吴宣颖（中二H）  |
+| **第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）**  | **论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》**<br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）  |
+| **Singapore Olympic Foundation-  <br>Peter Lim Scholarship  <br>(Encouragement Award)**  | Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)  |
 |   |   |
 |   |   |
 |   |   |
