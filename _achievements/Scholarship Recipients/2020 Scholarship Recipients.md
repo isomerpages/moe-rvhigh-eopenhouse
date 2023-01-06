@@ -26,3 +26,19 @@ third_nav_title: Scholarship Recipients
 #### 2020 MOE Bicultural Studies Scholarships
 
 <img src="/images/BiCultural-Sec 3.jpg" style="width:85%">
+
+###### <center> Seconday 3</center>
+
+|   |   |
+|:-:|---|
+| Phoebe Ang  | Annabel Leong  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
