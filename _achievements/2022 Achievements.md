@@ -16,10 +16,7 @@ description: ""
 | **教育部课程发展司主办** **双文化课程研讨会** **“**镜头会说话”** <br>BSP Symposium Photography Competition  | <br>罗梓迅Derrick Loh Zi Xun 4C 《格格不入的建筑》<br><br>辛恺溪Seng Deborah 4B 《小桂林，大桂林》  |
 | 唐诗宋词硬笔书法比赛  <br>Primary and Secondary School Fountainpen Calligraphy contest  | 童靖媛 Tong Jingyuan (21J03) 一等奖<br>Magdalen吴佳颖 Ng Jiaying (4C) 二等奖<br>邵越寒 Shao Yuehan (22J05) 优秀奖<br>陈正利 ChinChin Lee (21J12) 优秀奖  |
 | 全国学生互译比赛  <br>National Translation Competition  | <br>李珍惜 Cherish Lee Zhenxi (21J16) 亚军<br>林翊珊 Lin Yi Shan (21J19) 优胜奖  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| SUTD Sustainable Design Hack 2022  | **Honourable Mention:**<br>Alysa Chua Yu Xuan (21J05)<br>Tan Sze Hui (21J16)<br>Chloe Tan Zhi Ying (21J18)  |
+| <br>NUS STEP Environment Camp 2021  | **3rd Prize for Environment Poster:**<br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19  |
+| 2021全国中学生编采比赛（推广学习华文委员会，《联合早报》学生报《逗号》，新民中学和民情联系组（Reach）联办）<br><br>获得2021年编采比赛的奖项（金奖、一二三等奖、表扬奖）<br><br>低年级组《迈相新生活　相往新声命》<br><br>高年级组《40年的交响曲》  | 叶睿宁 （中二A）<br>陈姿君 （中二A）<br>林钰琳 （中二F）<br>林子滏 （中二F）<br>陈筱柔 （中二I）<br><br><br><br>薛茹惠 （中四B）<br>吴俊宇（中四B）<br>许锦峰（中四B）<br>李康田（中四B）<br>陈可欣（中四E） |
 |   |   |
