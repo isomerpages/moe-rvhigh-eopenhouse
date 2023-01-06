@@ -25,8 +25,8 @@ description: ""
 |:-:|---|
 | <br><br><br><br>22nd Singapore Biology Olympiad  | Ang Cheng Ze (21J13) Merit<br>Belle Tey Jing Yi (21J05) Merit<br>Ee En Xi Clarissa (21J13) Merit<br>Gong Yongjia (21J04) Merit<br>Lee Jun Wei Travis (21J13) Merit<br>Lee Xin Bei (21J06) Merit<br>Tay Yu Xun (21J03) Merit<br>Wang Jia Xin (21J02) Merit<br>Zhu Qi (21J03) Merit<br>Zixuan Yeo (21J06) Merit  |
 | <br><br><br><br>33rd Singapore Chemistry Olympiad  | Liang Shuang  (21J18) Silver<br>Yang Jingxiang (21J11) Silver<br>Ang Yoke Heng Jasper (21J02) Bronze<br>Belle Tey Jing Yi (21J05) Bronze<br>Hong Yidong (21J10) Bronze<br>Lee Jun Wei Travis (21J13) Bronze<br>Samuel Then Shi Jie (21J11) Bronze<br>Alicia Poo Kaijun (21J02) Merit<br>Chin Yi Ling (21J09) Merit<br>Ryan Loh Ee Han (21J01) Merit |
-| 34th Singapore Physics Olympiad  |   |
-|   |   |
+| <br>34th Singapore Physics Olympiad  | Yang Jingxiang (21J11) Gold<br>Samuel Then Shi Jie (21J11) Silver<br>Nilay Barsainya (21J20) Silver<br>Choi Yi Hao (21J01) Honourable Mention  |
+| Singapore Young Physicists’ Tournament  |   |
 |   |   |
 |   |   |
 |   |   |
