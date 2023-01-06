@@ -78,9 +78,9 @@ description: ""
 | **Singapore Chemistry Olympiad**  | **2 Bronze Medals**<br>Chua Tse Hui (20J02)<br>Kevin Karuna William (20J04)<br><br>**1 Merit Award**<br>Yip En Chun Jonathan (20J10)  |
 | **Singapore Junior Chemistry Olympiad**  | **2 Gold Medals**  <br>Khow Willard (3A)  <br>Wei Junyi (4F)  <br><br>**1 Silver Medal**<br>Guan Leyang (4E)  <br><br>**1 Bronze Medal**  <br>Chen Xinglin (4A)  |
 | <br><br><br>**Singapore Physics Olympiad**  | **2 Bronze Medals (Individual)**<br>Wang Weijie (20J09)<br>Wu Zhenshuo (20J15)<br><br>**3 Honourable Mention Awards (Individual)**<br>Goh Ee Chern (20J07)<br>Jonathan Chew Jian Pin (20J10)<br>Teng Yee Shin (20J15)  |
-| **Singapore Junior Physics Olympiad**  |   |
-|   |   |
-|   |   |
+| <br><br><br><br><br>**Singapore Junior Physics Olympiad**  | **General Round**<br>**3 Bronze Medals**<br>Liu Yueyang (4A)<br>Li Zhennan (4C)<br>Wong Rocky (4C)<br><br>**3 Honourable Mention Awards**<br>Khow Willard (3A)<br>Lim Yong Xuan, Brendan (3D)<br>Wang Kaicen (4D)<br><br>**Special Round**<br>**2 Bronze Medals:**<br>Khow Willard (3A)<br>Wang Kaicen (4D)  |
+| <br><br><br><br><br><br>**Singapore Young  <br>Physicists’ Tournament**  | **Category A: Junior College**<br>**Bronze Award (Team)**<br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br>**Merit Award (Poster Presentation Segment; Team)**<br>Li Yutong (21J11)<br>Tricia Boo Koh Wei Ping (20J10)<br>Yang Yujun (20J15) <br><br>**Category B: Secondary School**<br>**Commendation Award (Team)**<br>Liu Yueyang (4A)<br>Rayner Sim Zhi Heng (4A)<br>Wong Rocky (4C)<br><br>**Merit Award (Poster Presentation Segment; Team)**<br>Ng Qi Heng (4A)<br>Oh Wei Quan (4A)<br>Han Zhi Heng, Shawn (4A)  |
+| **Singapore National  <br>Olympiad in Informatics**  | **4 Silver Medals**<br>James Tan Dejun (4A)<br>Lee Jing Peng (4I)<br>Tan Swee Kang (4I)<br>Gu Yingqi (20J13)  |
 |   |   |
 |   |   |
 |   |   |
