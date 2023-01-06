@@ -48,5 +48,23 @@ National Best Sports Girl**
 | **Lee Hsien Loong Award for Outstanding Bicultural Students**<br><br>**Lai Sin Yee (Class of 2018)**<br>**Tan Yu Jia (Class of 2015)**<br><br>_The LHLA-OBS is presented to up to three outstanding students in the Bicultural Special Programme (Chinese) \[BSP(C)\]. The award underpins the strategic importance of developing a core group of students who are able to engage China as well as relate to the West._  |
 |   |
 
+|   |
+|:-:|
+|  **NSF of the Year 2018**<br><br>**Christopher Goh Zhen Fung (Class of 2016)**<br><br>**NSF of the Year 2019**<br><br>**CFC Chia Zhen You (Class of 2016)** |
+|   |
 
+#### The Lee Kuan Yew Award for All-Round Excellence
 
+<figure>
+<img src="/images/GAN XI YEE.jpg" style="width:90%">
+<figcaption> Gan Xi Yee (22J08)
+ </figcaption>
+</figure>
+
+#### The Lee Hsien Loong Award  for Outstanding Bicultural Students
+
+<figure>
+<img src="/images/Shain.jpg" style="width:90%">
+<figcaption> Yeo Wei Shain(20J18)
+ </figcaption>
+</figure>
