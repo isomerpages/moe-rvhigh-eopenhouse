@@ -31,14 +31,14 @@ third_nav_title: Scholarship Recipients
 
 |   |   |
 |:-:|---|
-| Phoebe Ang  | Annabel Leong  |
+| **Phoebe Ang**  | **Annabel Leong**  |
+| **Charmaine Loh**  | **Chin Zhi Xin**  |
+| **Cindy Zhang**  | **Goh Jun Yu**  |
+| **Koh Ghim Hong**  | **Mao Jia Ning**  |
+| **Song Zhuo**  | **Chris Tang**  |
+| **Yang Xinyi**  | **Yap U-Klyve**  |
+| **Crystalbell Lee**  | **Gan Ci Han**  |
+| **Gan Xi Yee**  | **Rie Hong**  |
+| **Teo Hui Suan**  | **Wang Junheng**  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
