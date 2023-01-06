@@ -49,3 +49,19 @@ description: ""
 
 #### Olympiads & Other Competitions
 
+|   |   |
+|:-:|---|
+| <br><br>**Singapore Physics Olympiad**  | **5 Honourable Mention Awards**<br>Xu Yi (19J08)  <br>Ong Rie Ian (19J08)  <br>Lim Eun Chan (19J08)  <br>Zhang Yingxue (19J13)  <br>Theodore Lim (19J15)  |
+| <br><br>**Singapore Chemistry Olympiad**  | **2 Bronze Medals**  <br>Chua Tse Hui (20J02)  <br>Kevin Karuna William (20J04)  <br><br>**1 Merit Award**<br>Yip En Chun Jonathan (20J10)  |
+| **Singapore Biology Olympiad**  | **Merit Award** <br>Deng Jia Xuan (19J03)  |
+| <br><br>**Singapore National Olympiad in Informatics**  | **4 Silver Medals**<br>James Tan Dejun (4A)  <br>Lee Jing Peng (4I)  <br>Tan Swee Kang (4I)  <br>Gu Yingqi (20J13)  |
+| <br><br><br><br><br>**Future Economic Forum Conference**  | **Best Position Paper Outstanding Delegate**   <br>Joey Peh (20J14)  <br><br>**Outstanding Delegate**  <br>Samuel Luther Ang (20J20)  <br><br>**Honourable Mention**<br>Jeremiah He Shuo (20J16)  <br>Tan Liang Rong (20J20)  <br><br>**Verbal Commendation**  <br>Vanessa Tan (20J12)  |
+| <br><br><br><br><br>**Green Wave Environmental Care Competition**  | **Secondary School Category  <br>Merit Award (Team)($1000)**  <br>Chian Xin Tong (20J06)  <br>Song Jia Hui (20J07)  <br>Lai Yee Wei (20J10)  <br>Ng Rui Kyi (20J12)  <br><br>**Commendation Award & Team Collaborative Award (Team) ($500 + $500)**  <br>Lim Ruo Yi (20J03)  <br>Ow Le Yi Nikki (20J04)  <br>Chan Jia Wei (20J07)  <br>Brian Choong (20J19)  |
+| <br>**MOE-Singapore University of Technology & Design Problem X Challenge**  | **1st Prize (Team)**  <br>Daryl Nah (4A)  <br>Tang Yuheng (4A)  <br>Joshua Chin Wei Jie (4A)  <br>Samuel Then Shi Jie (4A)  |
+| <br><br>**Genetic Modification Advisory Committee Students Challenge**  | **3rd Prize (Team)**  <br>Gong Yongjia(4B)  <br>Lim Yi Ting, Erica (4B)  <br>Chong Xin Ru, Gillian (4D)  <br>Cheryl Chin Kai Xin (4K)  <br>Zhang Yu (4K)  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
