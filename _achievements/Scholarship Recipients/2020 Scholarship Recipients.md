@@ -99,3 +99,18 @@ third_nav_title: Scholarship Recipients
 | **Hor Jasrene**  | **Pang Kai Lin**  |
 |   |   |
 
+#### 2020 Singapore Industry  Scholarships
+
+**Jay Lee Chor Yow** <br>
+**Dilys Chow Yun Hui**  <br>
+**Beh Ming Jun**  <br>
+**Yeo Yih Tng**  <br>
+**Lim Si Ying**
+
+|   |   |
+|:-:|---|
+| <img src="/images/Industry 1.jpg" style="width:85%">  | <img src="/images/Industry 2.jpg" style="width:81%">  |
+| **Jay Lee Chor Yow**  | **Dilys Chow Yun Hui**  |
+| <img src="/images/Industry 3.jpg" style="width:85%">  | <img src="/images/Industry 4.jpg" style="width:85%">  |
+| **Beh Ming Jun**  | **Yeo Yih Tng**  |
+|   |   |
