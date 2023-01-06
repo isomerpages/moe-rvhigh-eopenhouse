@@ -70,8 +70,8 @@ description: ""
 | <br><br><br><br><br>**East Zone – Agency for  <br>Science, Technology &  <br>Research Science Fair**  | **Upper Secondary (Open) Category**<br>**Gold Award (Team) & selected for Student Keynote Presentation**<br>Gong Yongjia (21J04)<br>Zhang Yu (21J13)<br>Lim Yi Ting, Erica (21J17) <br><br>**Silver Award (Team)**<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08) <br><br>**Merit Award (Team)**<br>Goh Ziyu (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)  |
 | <br><br><br><br><br><br><br><br><br><br>**NTU Nanyang Research Programme**  | **8 Gold Awards (7 individuals & 1 team):**<br>Toh Zheng Wei (20J09)<br>Yam Sing Er Angela (20J11)<br>Chua Yao Xuan (20J13)<br>Celeste Chua (20J15)<br>Teng Yee Shin (20J15)<br>Lin Sihui (20J17)<br>Raeanne Lim Zhi En (20J20)<br>Tong Siyuan (20J13)<br>Wong Zhixian, Keith (20J13)<br><br>**5 Silver Awards (3 individuals & 2 teams):**<br>Chua Tse Hui (20J02)<br>Chelsea Chan Li Xin (20J05)<br>Yu Jingrong (20J08)<br>Chin Ling Xing, Lance (20J13)<br>Glenda Chong Rui Ting (20J15)<br>Wan Mingyu (20J15)<br>Yong Kai Qing (20J17)<br><br>**Nanyang Research Programme Junior Category**<br>**2 Gold Awards (Team):**<br>Gan Chee Joon (21J08)<br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)  |
 | **Biomedical Engineering  <br>Society Scientific Meeting**  | **Research Presentation: Junior College / Polytechnic Category**<br>**Gold Award (Team)**<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)  |
-|   |   |
-|   |   |
+|  **\[D\] Olympiads & Other Competitions** |   |
+| **National Science Challenge**  | **2nd Runner Up**<br>Wai Jone Sher (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Han Zhi Heng, Shawn (4A)  |
 |   |   |
 |   |   |
 |   |   |
