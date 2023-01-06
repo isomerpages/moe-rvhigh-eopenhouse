@@ -72,3 +72,18 @@ third_nav_title: Scholarship Recipients
 
 #### 2020  Ministry of Education Scholarships
 
+|   |   |   |
+|:-:|---|---|
+| <img src="/images/Teach 1.jpg" style="width:85%">  | <img src="/images/Teach 2.jpg" style="width:75%">  | <img src="/images/Teach 3.jpg" style="width:79%">  |
+| **Tristan Sim Yih**  | **Kenneth Kwan Yu Heng**  | **Ong Zhiqing**  |
+| <img src="/images/Teach 4.jpg" style="width:85%">  | <img src="/images/Teach 5.jpg" style="width:80%">  | <img src="/images/Teach 6.jpg" style="width:85%">  |
+| **Chua Micaiah**  | **Lim Jia Hui**  | **Calyn** **Seah Jia Ying**  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
