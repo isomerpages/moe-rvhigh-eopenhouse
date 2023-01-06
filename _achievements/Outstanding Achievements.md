@@ -36,3 +36,17 @@ National Best Sports Girl**
 <figcaption> Chua Jia Ying, Charmaine  (2018)
  </figcaption>
 </figure>
+
+###### <center>**Chai Yi Ann (2016)**</center>
+
+###### <center>**Floorball**<br>**Lim Zhi Yan (2017)**</center>
+
+---
+
+|   |
+|:-:|
+| **Lee Hsien Loong Award for Outstanding Bicultural Students**<br><br>**Lai Sin Yee (Class of 2018)**<br>**Tan Yu Jia (Class of 2015)**<br><br>_The LHLA-OBS is presented to up to three outstanding students in the Bicultural Special Programme (Chinese) \[BSP(C)\]. The award underpins the strategic importance of developing a core group of students who are able to engage China as well as relate to the West._  |
+|   |
+
+
+
