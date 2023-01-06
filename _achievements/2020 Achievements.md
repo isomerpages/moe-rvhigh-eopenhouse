@@ -44,17 +44,8 @@ description: ""
 |  <br> <br>**Science Chronicles**  | **3rd Prize**   <br>Yu Jialu (20J05)  <br> <br>**Merit Award**<br>Zhang Kailun (19J10)  |
 |  **Young Defence Scientists Programme Science & Technology Camp Competition (June)** | **2nd Runner Up (Team)**   <br>Ng Qi Heng (3A)   <br>Wai Jone Sher (3A)   <br>Gan Tze Qi Christy (3A)   <br>Han Zhi Heng, Shawn (3A)  |
 | **Young Defence Scientists Programme Science & Technology Camp Competition (Dec)**  | **1st Runner Up (Team)** Soh Yuyan(20J01)  <br>Ge Shuqing (20J13)  <br>Teng Yee Shin (20J15)  <br>Chew Ching Hian (19J07)  <br>Dana Ong Zi Yi (19J07)  |
-|  **Singapore Science & Engineering Fair** |   |
+|  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Singapore Science & Engineering Fair** | **Gold Award**  <br>**\+ Special Award by Singapore Association for the Advancement of Science   <br>\+ Singapore University of Technology & Design Research & Innovation Award (Cities Category) (Team)**  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br>**Silver Award**   <br>**\+ Special Award by Yale - National University of Singapore College (Team)**   <br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br>**2 Silver Awards (Individual)**   <br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br>**Merit Award   <br>\+ Special Award by Institution of Chemical Engineers, Singapore   <br>\+ Special Award by the Electrochemical Society, Singapore Chapter (Team)**  <br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br>**Merit Award**  <br>**\+ Special Award by Singapore University of Technology & Design <br>Research & Innovation Award (Aviation Category) (Team)**   <br>Ng Simin (19J08)   <br><br>**Merit Award (Individual)**   <br>Loke Mei Qi Jessica (19J04)   <br><br>**2 Special Awards by Yale - National University of Singapore College (Team)**   <br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04)  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
+#### Olympiads & Other Competitions
+
