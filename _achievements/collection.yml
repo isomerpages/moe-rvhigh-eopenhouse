@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - 2022 Achievements.md
       - Achievements.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/Scholarship Recipients.md
@@ -12,3 +11,4 @@ collections:
       - Scholarship Recipients/2019 Scholarship Recipients.md
       - Scholarship Recipients/2018 Scholarship Recipients.md
       - Outstanding Achievements.md
+      - 2022 Achievements.md
