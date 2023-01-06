@@ -159,3 +159,15 @@ third_nav_title: Scholarship Recipients
 
 #### 2020 Prime Minister’s Book Prize
 
+|   |   |
+|:-:|---|
+| <img src="/images/book prize.jpg" style="width:60%">  | <br><br><br><br><br>**李欣融**<br>**Winnis Lee Xin Rong**  |
+|   |   |
+
+#### 2020 Land Transport Authority Scholarship
+
+**Chan Kah Leong**
+
+#### 2020 Federation of Chinese Clan Association Scholarship
+
+**Pek Ning Xuan**
