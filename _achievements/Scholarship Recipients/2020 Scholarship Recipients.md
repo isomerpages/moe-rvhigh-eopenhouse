@@ -114,3 +114,24 @@ third_nav_title: Scholarship Recipients
 | <img src="/images/Industry 3.jpg" style="width:85%">  | <img src="/images/Industry 4.jpg" style="width:85%">  |
 | **Beh Ming Jun**  | **Yeo Yih Tng**  |
 |   |   |
+
+#### 2020 SAF Young Leader Award
+
+|   |   |
+|:-:|---|
+| <img src="/images/SAF Young leader.jpg" style="width:60%">  | <br><br><br><br><br><br><br>**Gerald Ong Gim Hua**  |
+|   |   |
+
+#### 2020 A\*STAR Scholarships
+
+|   |   |
+|:-:|---|
+| <img src="/images/A star scholar.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Wang** **Xuchen**  |
+|   |   |
+
+#### 2020 HDB Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/HDB.jpg" style="width:60%">  | <br><br><br><br><br><br><br><br>**Low Jing Yi Jean**  |
+|   |   |
