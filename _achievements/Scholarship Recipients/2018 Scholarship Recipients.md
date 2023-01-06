@@ -24,3 +24,10 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 
 #### Singapore Police Force Scholarship
 
+|   |   |
+|:-:|---|
+| <img src="/images/Stefan_Liew.jpg" style="width:60%">  | <br><br><br><br>**Stefan Liew Jing Rui**  |
+|   |   |
+
+#### Singapore Armed Forces Overseas Scholarship
+
