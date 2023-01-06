@@ -22,8 +22,8 @@ description: ""
 | **NUS STEP Environment Camp 2021**  | **3rd Prize for Environment Poster:**  <br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19<br>Chen Zhe (21J08)  |
 | **NUS Geography Challenge**  | **Gold Medal**<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)  |
 | **Moot Parliament Programme Debate**  | **Outstanding Backbencher**  <br>Cadence Lim (4C)  |
-|   |   |
-|   |   |
+| <br><br>**National Plain English Speaking** **Awards**  | **Sec School Category**<br>**Finalist**<br>Hong Liying Rie (4C)<br><br>**JC/Poly/ITE Category**<br>**Finalist**<br>Given Tan (21J04)  <br><br>**2nd Runner-Up**<br>Clarice Lim Yin Jie (20J05)  |
+| **第四届小学课文朗诵比赛 中学低年级组（团体）**  | **季军**<br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）  |
 |   |   |
 |   |   |
 |   |   |
