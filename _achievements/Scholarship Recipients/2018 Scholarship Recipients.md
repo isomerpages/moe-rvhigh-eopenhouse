@@ -71,3 +71,30 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 | <img src="/images/MND_Scholars.png" style="width:85%">  | <br><br><br><br><br><br>**Bernice Lim Si Min**<br><br>**Tan Yi Shiuan**  |
 |   |   |
 
+#### Singapore-Industry Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/SGIT_scholars.jpg" style="width:85%">  | <br><br>**Lim Yu Cheng**<br><br>**Sean Chan Hin**<br><br>**Sherman Ng Wei Sheng**<br><br>**Wang Weihan**<br><br>**Lum Wei Boon**  |
+|   |   |
+
+#### Ministry of Education Teaching Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/MOE_Scholars.jpg" style="width:85%">  | **Andrea Tan Li Yao**<br><br> **Tricia Chan Tze Cheng**<br><br>**Neo Wen Xin**<br><br>**Lee Wen Jie**<br><br>**Koh Hong Kai**<br><br>**Geradine Tan Rou Jing**  |
+|   |   |
+
+#### A\*STAR Scholarship
+
+|   |   |
+|:-:|---|
+| <img src="/images/AStar_scholars.jpg" style="width:85%">  | <br><br><br><br>**Lim Yuhua**<br><br>**Liu Yincheng**<br><br>**Nobel Ang**  |
+|   |   |
+
+#### Singapore Federation of Chinese Clan Associations Scholarships
+
+|   |   |
+|:-:|---|
+| <img src="/images/Chinese_Clan.jpg" style="width:85%">  | <br><br><br><br><br>**Lim Ying Hui  (Fudan University)**<br><br>**Huang Lijing (Fudan University)**<br><br>**Debble Chew Yannie (Peking University)**  |
+|   |   |
