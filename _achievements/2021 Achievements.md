@@ -48,3 +48,35 @@ description: ""
 |  Choir (Secondary and Junior College) | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.  |
 |   |   |
 
+#### Science & Technology Department
+
+| Competition  <br>/ Event  | Level of Achievement  |
+|:-:|---|
+| **\[A\] Scholarships & Academic Awards**  |   |
+| <br><br>**Agency for Science, Technology &  <br>Research Science Award  <br>(Upper Secondary)**  | Shen Yiren (3A)  <br>Oh Rui Quan (3A)  <br>Ngieng Xin Hui (3A)  <br>Ansel Yip Fong (3A)  <br>Goh Rou Hui Ashley(3A)  <br>Chiew Pui See Sarah(3A)  <br>Chiew Yujie Jacqueline (3A)  <br>Sia Hao Rui (3I)  <br>Ong Yi Qian (3I)  |
+| <br><br>**Agency for Science, Technology &  <br>Research Science Award  <br>(Junior College)**  | Gong Yong Jia (21J04)  <br>Chan Shu Zhen, Venus (21J04)  <br>Phua Jun Hao (21J08)  <br>Chan Kai Sing Natalie (21J08)  <br>Tang Yuheng (21J17)  <br>Lim Yi Ting Erica (21J17)  <br>Chan Shi Yun (21J18)  <br>Jolie Ng Kar Wei (21J18)  |
+| **Young Defence Scientists  <br>Programme Scholarship**  | Khow Willard (3A)<br>Chan Xing Yu, James (3I)  |
+| **Defence Science & Technology  <br>Agency Junior College Scholarship**  | Gan Chee Joon (21J08)  <br>Siow Jia Wei (21J11)  |
+| **Centre For Strategic   <br>Infocomm Technologies  <br>(CSIT) Computing Scholarship**  | **2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000**<br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15)  |
+| **\[B\]** **International Programmes**  |   |
+| **Shanghai International Youth  <br>Science & Technology Expo  <br>(Online) 2020**<br>**\[上海国际青少年科技博览会 (云端展会)\]**  |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
