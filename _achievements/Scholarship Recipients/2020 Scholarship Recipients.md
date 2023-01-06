@@ -66,6 +66,9 @@ third_nav_title: Scholarship Recipients
 
 |   |   |   |
 |:-:|---|---|
+| <img src="/images/SAF 1.jpg" style="width:85%">  | <img src="/images/SAF 2.jpg" style="width:85%">  | <img src="/images/SAF 3.jpg" style="width:85%">  |
+| **Megan Wong Jia Jing**  | **Jolene Teo Mian En**  | **Phoebe Teo**  |
 |   |   |   |
-|   |   |   |
-|   |   |   |
+
+#### 2020  Ministry of Education Scholarships
+
