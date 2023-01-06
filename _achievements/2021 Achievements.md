@@ -72,13 +72,13 @@ description: ""
 | **Biomedical Engineering  <br>Society Scientific Meeting**  | **Research Presentation: Junior College / Polytechnic Category**<br>**Gold Award (Team)**<br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)  |
 |  **\[D\] Olympiads & Other Competitions** |   |
 | **National Science Challenge**  | **2nd Runner Up**<br>Wai Jone Sher (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Han Zhi Heng, Shawn (4A)  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **MOE Gifted Education Branch – Singapore University of Technology & Design Problem X Challenge**  | **1st Runner Up**<br>Loo Guan Kit (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Charis Wong Jing Wen (4A)  |
+| **Singapore Biology Olympiad**  | **3 Bronze Medals (Individual)**<br>Lim Sing Wei (20J01)<br>Chloe Ong Zhi Ying (20J03)<br>Chester Chiah Chin Wei (20J05)  |
+| <br><br><br><br><br><br><br><br>**Singapore Junior Biology Olympiad**  | **2 Gold Medals**<br>Tan Beng Yang (4A)<br>Vera Ng Jing Wen (4F)<br><br>**2 Silver Medals**<br>Goh Ziyu (4A)<br>Eunsun Jung (4A)<br><br>**9 Bronze Medals**<br>Mya Cherry (3A)<br>Liu Yueyang (4A)<br>Dyann Saw Xinmei (4A)<br>Crystal Tan Shyuan Ling (4A)<br>Shao Yuehan (4C)<br>Tan Rei Yew (4D)<br>Cui Kai Rui Carol (4D)<br>Lee Qin Yuan (4F)<br>Fan Siew Ning (4F)<br><br>**3 Honourable Mention Awards**<br>Tan Xin Yang Elliott (3A)<br>Fun Wai Yan, Charmaine (4D)<br>Huang Changwen (4E)  |
+| **Singapore Chemistry Olympiad**  | **2 Bronze Medals**<br>Chua Tse Hui (20J02)<br>Kevin Karuna William (20J04)<br><br>**1 Merit Award**<br>Yip En Chun Jonathan (20J10)  |
+| **Singapore Junior Chemistry Olympiad**  | **2 Gold Medals**  <br>Khow Willard (3A)  <br>Wei Junyi (4F)  <br><br>**1 Silver Medal**<br>Guan Leyang (4E)  <br><br>**1 Bronze Medal**  <br>Chen Xinglin (4A)  |
+| <br><br><br>**Singapore Physics Olympiad**  | **2 Bronze Medals (Individual)**<br>Wang Weijie (20J09)<br>Wu Zhenshuo (20J15)<br><br>**3 Honourable Mention Awards (Individual)**<br>Goh Ee Chern (20J07)<br>Jonathan Chew Jian Pin (20J10)<br>Teng Yee Shin (20J15)  |
+| **Singapore Junior Physics Olympiad**  |   |
 |   |   |
 |   |   |
 |   |   |
