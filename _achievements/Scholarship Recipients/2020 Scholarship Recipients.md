@@ -84,3 +84,18 @@ third_nav_title: Scholarship Recipients
 
 #### 2020 Healthcare Scholarships
 
+|   |   |
+|:-:|---|
+| <img src="/images/Lim Yiting.jpg" style="width:85%">  | <img src="/images/Monica Rae.jpg" style="width:85%">  |
+| **Lim Yiting**  | **Monica Rae**  |
+|   |   |
+
+#### 2020 MINDEF Scholarships
+
+|   |   |
+|:-:|---|
+| <img src="/images/DEFENCE.jpg" style="width:85%">  | <img src="/images/DSTA1.jpg" style="width:65%">  |
+| **Defence Merit Scholarship**  | **DSTA Scholarship**  |
+| **Hor Jasrene**  | **Pang Kai Lin**  |
+|   |   |
+
