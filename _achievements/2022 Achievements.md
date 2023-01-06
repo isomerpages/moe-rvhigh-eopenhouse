@@ -26,7 +26,7 @@ description: ""
 | <br><br><br><br>22nd Singapore Biology Olympiad  | Ang Cheng Ze (21J13) Merit<br>Belle Tey Jing Yi (21J05) Merit<br>Ee En Xi Clarissa (21J13) Merit<br>Gong Yongjia (21J04) Merit<br>Lee Jun Wei Travis (21J13) Merit<br>Lee Xin Bei (21J06) Merit<br>Tay Yu Xun (21J03) Merit<br>Wang Jia Xin (21J02) Merit<br>Zhu Qi (21J03) Merit<br>Zixuan Yeo (21J06) Merit  |
 | <br><br><br><br>33rd Singapore Chemistry Olympiad  | Liang Shuang  (21J18) Silver<br>Yang Jingxiang (21J11) Silver<br>Ang Yoke Heng Jasper (21J02) Bronze<br>Belle Tey Jing Yi (21J05) Bronze<br>Hong Yidong (21J10) Bronze<br>Lee Jun Wei Travis (21J13) Bronze<br>Samuel Then Shi Jie (21J11) Bronze<br>Alicia Poo Kaijun (21J02) Merit<br>Chin Yi Ling (21J09) Merit<br>Ryan Loh Ee Han (21J01) Merit |
 | <br>34th Singapore Physics Olympiad  | Yang Jingxiang (21J11) Gold<br>Samuel Then Shi Jie (21J11) Silver<br>Nilay Barsainya (21J20) Silver<br>Choi Yi Hao (21J01) Honourable Mention  |
-| Singapore Young Physicists’ Tournament  |   |
+| <br><br><br><br><br><br><br><br><br><br>Singapore Young Physicists’ Tournament  | **Category A: Junior College**<br>**Bronze Award (Team)**<br>Pok Zheng Yong (21J09)<br>Zhu Jiahang (21J16)<br>Chen Sihan (21J18)<br><br>**Distinction Award (Poster Presentation Segment; Team)**<br>Lee Kun Yau (21J01)<br>Qiao Bowen (21J10)<br>Yi Kaizhi (21J16)<br><br>**Category B: Secondary School**<br>**2 Bronze Awards (Team)**<br>Khow Willard (4A)<br>Chen Qingyuan (4C)<br>Chua Zhongding (4I)<br>Tang Tian Le (4A)<br>Ansel Yip Fong (4A)<br>Chan Xing Yu James (4I)<br><br>Chan Xing Yu James (4I) is currently considered for the Singapore International Young Physicists' Tournament (IYPT) team selection.  |
 |   |   |
 |   |   |
 |   |   |
