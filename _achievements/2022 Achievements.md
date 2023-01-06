@@ -14,8 +14,8 @@ description: ""
 | <br>MOE Gifted Education Branch Youth Science Conference  | **Science Mentorship Programme:**<br>1 team selected for Student Keynote Presentation  <br><br>Zeng Jing (22J17)  <br>Lee Jing Peng (22J17)  <br>Rayner Sim Zhi Heng (22J17)  |
 | <br><br><br>BSP Symposium Research Papers Awards  | 颜熙愉 Gan Xi Yee 4C/2021 卓越<br>邵越寒 Shao Yuehan 4C/2021 卓越<br>李康田 Lee Kang Tian 4B/2021 杰出<br>陈子馨 Chin Zhi Xin 4B/2021 杰出<br>黄恩怡 Wong En Yi 4B/2021 杰出<br>张卉昕 Cindy Zhang Huixin 4B/2021 杰出<br>戴宇宁 Tay Yu Ning Anna 4B/2021 杰出<br>宋卓 Song Zhuo 4B/2021 杰出<br>颜慈涵 Gan Ci Han 4C/2021 优秀  |
 | **教育部课程发展司主办** **双文化课程研讨会** **“**镜头会说话”** <br>BSP Symposium Photography Competition  | <br>罗梓迅Derrick Loh Zi Xun 4C 《格格不入的建筑》<br><br>辛恺溪Seng Deborah 4B 《小桂林，大桂林》  |
-| 唐诗宋词硬笔书法比赛  <br>Primary and Secondary School Fountainpen Calligraphy contest  |   |
-|   |   |
+| 唐诗宋词硬笔书法比赛  <br>Primary and Secondary School Fountainpen Calligraphy contest  | 童靖媛 Tong Jingyuan (21J03) 一等奖<br>Magdalen吴佳颖 Ng Jiaying (4C) 二等奖<br>邵越寒 Shao Yuehan (22J05) 优秀奖<br>陈正利 ChinChin Lee (21J12) 优秀奖  |
+| 全国学生互译比赛  <br>National Translation Competition  | <br>李珍惜 Cherish Lee Zhenxi (21J16) 亚军<br>林翊珊 Lin Yi Shan (21J19) 优胜奖  |
 |   |   |
 |   |   |
 |   |   |
