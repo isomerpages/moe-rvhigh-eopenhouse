@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Outstanding Achievements.md
       - Achievements.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/Scholarship Recipients.md
