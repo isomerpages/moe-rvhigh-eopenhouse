@@ -53,6 +53,21 @@ description: ""
 | **National Floorball Championships 2019**  | 2nd (A Division Girls)  <br>4th (A Division Boys)  |
 | **15th Inter-Junior College Ultimate Champioships 2019**  | 2nd (A Division)  |
 |  <br>**National Wushu Championships 2019** | 4th (A Division Boys)  <br>4th (B Division Girls)  <br> Silver (C Division Boys)  <br> Silver (C Division Girls)  |
+|   | ♦  PERFORMING ARTS GROUP ♦  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
