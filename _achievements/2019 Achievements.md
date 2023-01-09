@@ -70,5 +70,5 @@ description: ""
 
 #### Past Year Achievements
 
-**[2017](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/others/past-year-achievements-archive/2017-achievement)**  
-**[2016](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/others/past-year-achievements-archive/2016-achievements)**
+**[2017](LINK ISOMER)**  
+**[2016](LINK ISOMER)**
