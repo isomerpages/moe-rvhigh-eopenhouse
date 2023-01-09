@@ -40,27 +40,19 @@ description: ""
 | <br><br>**Engineering Innovation Challenge**  | **Category 1:Secondary Schools  <br>Merit Award (Team)**<br> Jarell Liaw Jun Yi (4F)  <br>  Jarret Phon Zhee Ann (4F)  <br>  Peh Choon Meng (4G)  |
 | <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Toy Design Competition**  | **Automata Category  <br><br>    Merit, Best Virtual Animation**<br> Li Haoying (4A)  <br> Lin Sihui (4A)  <br> **3rd Place**  <br>  Samuel Then Shi Jie (3F)  <br>  Natalie Chiam Chew Ee (3K)  <br>  **Commendation**  <br> Da Ruolin (4B)  <br>  Tong Siyuan (4E)  <br> Wang Yifei (3D)   <br> Yang Jingxiang (3D)  <br> Su Myat Noe (3K)  <br> Thant Yee Mon Htet (3J)  <br> Chen Xinrong (3D)  <br> Hou Xinxiang (3D)  <br>  Chin Chin Lee (3K)  <br>  Tan Wen Ting Shanelle (3H)  <br><br>  **Mars Exploration Vehicle Category   <br> 2nd Place**  <br>  Lin Sihui (4A)   <br>**3rd Place**  <br>  Chin Zhi Xin (2H)  <br>  Wai Jone Sher (2J)   <br> **Merit**   <br>Samuel Then Shi Jie (3F)  <br>Chin Chin Lee (3K)  <br>Li Haoying (4A)   <br>**Commendation**  <br> Lim Chun Hann (1C)   <br> Isaac Goh Wen Yi (2A)   <br> Li Yutong (3A)  <br>  Hou Xinxiang (3D)  <br> Chen Xinrong (3D)  <br> Wang Yifei (3D)  <br>  Yang Jingxiang (3D)  <br>  Shirlene Zhu Xinjie(3F)   <br> Leong Hong Jun (3G)  <br>  Wong Zhi Yang Wesley (3K)   <br>  Lew Feng Sing (3I)  <br> Thaw Thaw Hein (3I)  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
+#### Co-Curricular Activities
+
+|   |  ♦  UNIFORMED GROUPS  ♦ |
+|:-:|---|
+|**Girl Guides-Baden Powell Award 2019**   | Chian Xin Tong (4F)  <br>Tan Shania (4G)  <br> Yeo Xin Ru (4H)  <br>Soh Jia Xuan, Hannah (4K)  |
+| **National Cadet Corps Outstanding Cadet Award 2019 (Boys)**  | Toh Zheng Wei (4A)  |
+| **International Cadet Corps Outstanding Cadet Award 2019 (Girls)**  | Flavia Yen Xuan Lin (4E)  |
+|   | ♦ **SPORTS AND GAMES**   ♦  |
+| **National Badminton Championships  2019**  | 3rd (A Division Girls)  |
+| **National Floorball Championships 2019**  | 2nd (A Division Girls)  <br>4th (A Division Boys)  |
+| **15th Inter-Junior College Ultimate Champioships 2019**  | 2nd (A Division)  |
+|  <br>**National Wushu Championships 2019** | 4th (A Division Boys)  <br>4th (B Division Girls)  <br> Silver (C Division Boys)  <br> Silver (C Division Girls)  |
 |   |   |
 |   |   |
 |   |   |
