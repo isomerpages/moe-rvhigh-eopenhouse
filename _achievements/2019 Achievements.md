@@ -18,16 +18,9 @@ description: ""
 | <br><br><br><br><br><br><br><br><br>**Tan Kah Kee Young Inventors' Award**  | **First Prize School Award:**  <br>School with the most number of quality entries  <br>shortlisted for interview and this is the 15th year  <br>RV has attained this top prize since 2001  <br><br>**Merit Award**<br>Clarice Lim Yin Jie (4E)  <br>Tong Siyuan  <br>Commendation Award  <br>LOh Hui Lin (19J10)  <br>Yang Yujun (4A)  <br>Da Ruolin (4B)  <br>Isaac Goh Wen Yi(2A)  <br>Lee Jing Peng (2I)  <br>Lee Kang Tian (2I)  <br>Wong Kang Lim(2I)  <br><br>**Encouragement Award**  <br>Lee Qin Yuan (2H)  <br>Teo Hui Wen(2H)  |
 | **Temasek Foundation International -  <br>NUS : Singapore Technologies Endowment Programme Technology Camp**  | **Merit Awards:**  <br>Xu Mengyuan (4A)  <br>He Shuo Jeremiah (4H)  |
 | <br><br><br><br><br><br>**Singapore Junior Biology  <br>Olympiad 2019**  | **GOLD**<br>Lim Sing Wei (4A)  <br>Victoria Autumn Tan (4A)  <br>Xu Mengyuan (4A)  <br>**SILVER**<br>Tan Jia Yi (4A)  <br>Chelsea Chan Li Xin (4E)  <br>**BRONZE**<br>Lee Jun Wei Travis (3A)  <br>Li Haoying (4A)  <br>Rowena Kwan Lee Ying (4F)  <br>Cheryl Chin Kai Xin (3K) <br>Gong Xinhua Sharon (4E)  <br>Kevin Karuna William (4J)  <br>Chua Tse Hui (4A)  <br>Shannon Chua Xuan Run (4E)  <br>Mendell Yap Haw Chuen (4J)  |
-| **Singapore Junior Chemistry  <br>Olympiad 2019**  | **SILVER**
-Lin Sihui (4A)  
-Chua Tse Hui (4A)  
-**BRONZE**
-Jonathan Chew Jian Pin (4A)  
-Alvin Ong Zhao Wei (4E)  
-**MERIT**   
-Lim Sing Wei (4A)  |
-|   |   |
-|   |   |
+|  <br> <br>**Singapore Junior Chemistry  <br>Olympiad 2019**  | **SILVER**<br>Lin Sihui (4A)  <br>Chua Tse Hui (4A)  <br>**BRONZE**<br>Jonathan Chew Jian Pin (4A)  <br>Alvin Ong Zhao Wei (4E)  <br>**MERIT**   <br>Lim Sing Wei (4A)  |
+| <br><br>**Singapore Junior Physics  <br>Olympiad 2019**  | **SILVER**<br>Yang Jingxiang(3D)  <br>**BRONZE**<br>Li Haoying (4A)  <br>Yang Yujun (4A)  <br>Tricia Boo Koh Wei Ping (4C)  <br>Tong Siyuan (4E)  |
+| <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Singapore Mathematical  <br>Olympiad 2019**  | **JUNIOR CATEGORY  <br>GOLD,**  <br>Gaius Mak Zhun Yong (1F)  <br>**SILVER**  <br>Chua Jia Rong (1A)  <br>**BRONZE**<br>Zeng Zewen (1B)  <br>Chen Qingyuan (1D)  <br>Zhang Dingyi (1D)  <br>Hong Shi Ting Geraldine (1E)  <br>Wang Yifei (1E)  <br>Hong Wenqi (1F)  <br>Henry Wong Zi Gang(1G)  <br>Yee Ting Wei (1G)  <br>Li Hanyu (1I)  <br>Luo Xiang (1I)  <br>Sia Hao Rui (1I)  <br>**SENIOR CATEGORY**  <br>**SILVER**  <br>Low Voon Bin Robin (4D)  <br>Yin Haoran (4I)  <br>**BRONZE**  <br>Wang Yifei (3D)  <br>Andrew chua Hao Zhun (3F)  <br>Shirlene Zhu Xinjie (3F)  <br>Teng Yee Shin (4A)  <br>Seah Qian Qian Mandy (4C)  <br>Chester Chiah Chin Wei (4D)  <br>Lim Xuan Xiang Reuben (4H)  <br>**Open Category**  <br>**BRONZE**  <br>Wong Rocky (2E)  <br>Yang Jingxiang (3D)  <br>Li Haoying (4A)  <br>Yin Haoran (4I)  <br>Fang Yuwei (18J11)  |
 |   |   |
 |   |   |
 |   |   |
