@@ -68,3 +68,7 @@ description: ""
 |<br><br><br><br><br>**National Robotics Competition**   | **1st place for Best Engineering Design(Secondary)**  <br>Yang Zuoquan (3I)<br>Joshua Chin Wei Jie(3A)  <br> Eugene Teo Jun Xiang (1G)  <br>**3rd for Best Engineering Design Award (Tertiary)**<br> Zhang Yuren (19J04)  <br> Keagan Kong Kai Yi (19J09)  <br>**3rd for Best Robot Performance Award (Secondary)**  <br>Wong Rocky (2E)  <br>Lin Xinying (1D)  <br>Jordon Goh Ding Xuan (2C)  |
 |   |   |
 
+#### Past Year Achievements
+
+**[2017](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/others/past-year-achievements-archive/2017-achievement)**  
+**[2016](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/others/past-year-achievements-archive/2016-achievements)**
