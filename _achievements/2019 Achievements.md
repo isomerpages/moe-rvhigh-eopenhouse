@@ -59,11 +59,11 @@ description: ""
 | **Ngee Ann National Students' Calligraphy Competition**  | **2ND RUNNER-UP**   <br>  Lee Kai Jun (19J04)  |
 | **NUS 11th National Youth Calligraphy Competition**  |  **GOLD AWARD**   <br>Mao Ruijie (4C) |
 |   | ♦  **CLUBS AND SOCIETIES**  ♦  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Singapore International Original Comics Competition 2019**  | **BRONZE AWARD**  <br>Lim Jin Feng (18J13)  |
+| <br><br><br><br>**National Chinese Challenge 2019**  | **1st Runner-Up**  <br> Da Ruolin (4B)  <br> Chen yixian (3B)  <br>Gan Ci Han (2F)  <br><br> **INDIVIDUAL EXCELLENCE AWARD (TOP 30)**  <br>Da Ruolin (4B)  <br>Gan Ci Han (2F)  |
+| **2019 National Secondary Schools Bilingual Debate 2019**  | **OUTSTANDING DEBATER**<br> Fiona zeng Yuqi (4B)  |
+|  <br> <br>**National Olympiad in Informatics 2019**  | **SILVER MEDAL**<br>Zhang Jikun (18J06)  <br>**BRONZE MEDAL**  <br>Si Chenglei (18J06)  <br>Zhang Zeyu (18J06)  |
+| **3D Tronics: Digital making National Infocomm Competition 2019**  |   |
 |   |   |
 |   |   |
 |   |   |
