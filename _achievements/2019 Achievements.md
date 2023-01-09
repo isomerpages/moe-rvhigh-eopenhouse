@@ -54,11 +54,11 @@ description: ""
 | **15th Inter-Junior College Ultimate Champioships 2019**  | 2nd (A Division)  |
 |  <br>**National Wushu Championships 2019** | 4th (A Division Boys)  <br>4th (B Division Girls)  <br> Silver (C Division Boys)  <br> Silver (C Division Girls)  |
 |   | ♦  PERFORMING ARTS GROUP ♦  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| <br><br><br><br>**Singapore Youth Festival Arts <br>Presentation 2019  <br>Secondary**  -  | **SECONDARY  -** **DISTINCTION**  <br>Concert Band  <br>Chinese Orchestra  <br> Choir  <br>Dance(Chinese,International)  <br>Drama (Chinese, English)  <br>  **JUNIOR COLLEGE** -**DISTINCTION**  <br>Concert Band  <br>Chinese Orchestra  <br>Choir  <br>Dance  |
+| **19th National Chinese Calligraphy Competition**  | **GOLD AWARD**  <br> Lee Kai Jun (19J04)  |
+| **Ngee Ann National Students' Calligraphy Competition**  | **2ND RUNNER-UP**   <br>  Lee Kai Jun (19J04)  |
+| **NUS 11th National Youth Calligraphy Competition**  |  **GOLD AWARD**   <br>Mao Ruijie (4C) |
+|   | ♦  **CLUBS AND SOCIETIES**  ♦  |
 |   |   |
 |   |   |
 |   |   |
