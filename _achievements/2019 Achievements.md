@@ -28,13 +28,10 @@ description: ""
 | <br><br><br><br>**NTU Nanyang Research Programme  <br>Symposium 2019**  | **GOLD**  <br>LI JIANGRONG (18J11)  <br>PANG KAI LIN (18J11)  <br>LOO JIA WEI (18J13)  <br>NICHOLAS WOONG (18J13)  <br>ZHANG YIFEI (18J15)  <br>**SILVER**<br>CUI XINYU (18J11)  <br>LIM REN JIE (18J10)  <br>HOR JASRENE (18J12)  <br>JERLYN CHUA (18J04)  <br>TAN NING VIVIENNE(18J04)  |
 | <br><br>**Nanyang Research Programme  <br>Junior Category**  | **GOLD AWARD**  <br>Hu Ding Guan  <br>Nathanael Caleb Tong (19J14)    <br>**SILVER AWARD**<br>Teu Jie Yong (19J13)    <br>Mark Chng Cho Heok (19J03)  |
 | **International Science Youth Forum @  Singapore 2019**  |  **Team Project Challenge   <br>CHAMPION**  <br>Kevin Khoo Weixue (19J13) |
-| **International Elementz Science research confereence & Exhibition 2019**  | **BRONZE AWARD**  
-Cheng Ping Zhi (19J05)  
-Kwa Hwee Woon (Ge Huiwen), Hannah (19J04)  
-Rachel Lee Shi Qi (19J02)  |
-|   |   |
-|   |   |
-|   |   |
+| <br>**International Elementz Science research confereence & Exhibition 2019**  | **BRONZE AWARD**  <br>Cheng Ping Zhi (19J05)  <br>Kwa Hwee Woon (Ge Huiwen), Hannah (19J04)  <br>Rachel Lee Shi Qi (19J02)  |
+| **Singapore International 3D Printing Competition 2019**  | **GRAND PRIZE**   <br> **(Singapore School Student Category)**   <br> LI Haoying (4A)  <br>  Fan Kerong (18J12)  |
+| <br><br>**Singapore International Science    Challenge+International Student<br>Science Fair 2019**  | **Research Challenge(Engineering Category)  <br>BEST POSTER AWARD**    <br>Ng Simin (19J08)  <br> Tian Qi (19J13)   <br> Deng Jia Xuan (19J03)  <br><br> **Design & Build Challenge**   <br>**MOST ENTERPRISING AWARD**  <br> lim xin yi (18J06)  |
+|  <br><br>**NUS Geography Challenge 2019** | **GOLD MEDAL**    <br>Alvera Gloria Pandiman (4A)    <br>**SILVER MEDAL**   <br> Ernest Tee Li Wei (4J)   <br> **BRONZE MEDAL**   <br>Soong Shao Zhi (4I)  |
 |   |   |
 |   |   |
 |   |   |
