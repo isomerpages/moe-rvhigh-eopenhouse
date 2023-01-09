@@ -63,8 +63,8 @@ description: ""
 | <br><br><br><br>**National Chinese Challenge 2019**  | **1st Runner-Up**  <br> Da Ruolin (4B)  <br> Chen yixian (3B)  <br>Gan Ci Han (2F)  <br><br> **INDIVIDUAL EXCELLENCE AWARD (TOP 30)**  <br>Da Ruolin (4B)  <br>Gan Ci Han (2F)  |
 | **2019 National Secondary Schools Bilingual Debate 2019**  | **OUTSTANDING DEBATER**<br> Fiona zeng Yuqi (4B)  |
 |  <br> <br>**National Olympiad in Informatics 2019**  | **SILVER MEDAL**<br>Zhang Jikun (18J06)  <br>**BRONZE MEDAL**  <br>Si Chenglei (18J06)  <br>Zhang Zeyu (18J06)  |
-| **3D Tronics: Digital making National Infocomm Competition 2019**  |   |
-|   |   |
+| <br>**3D Tronics: Digital making National Infocomm Competition 2019**  | **Open Category**  <br>2nd place  <br>**Senior Category**<br>Best Controller Design Award       3rd Place  |
+|<br><br><br><br> **National Robotics Programming Competition**  |**1st place for Best Mechanical Design**  <br>Eugene Teo Jun Xiang (1G)  <br>Low Voon Zhong, Daniel (1C)  <br> Hong Wenqi (1F)  <br>**2nd Place for Best Robot Performance**  <br>Lin Xinying (1D)  <br> Choo Qingyuanm (1D)  <br>**2nd place for Best Mechanical Design**   <br>Yang Zuoquan (3I)  <br>Wong Rocky (2E)   |
 |   |   |
 |   |   |
 |   |   |
