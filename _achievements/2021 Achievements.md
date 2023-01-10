@@ -5,48 +5,150 @@ description: ""
 ---
 ## 2021 Achievements
 
-#### 2021 Overall Achievements
-
-| Name of Competition/ Event  | Achievement / Name of recipient  |
-|:-:|---|
-| **Prime Minister's Prize (Pre-University)**  | Lim Jo Xin (19J20)  |
-| <br><br><br><br><br><br><br>**Inaugural Silver Ribbon Mental**<br>**Health Awards 2020 For Schools**  | River Valley High School was one of five educational institutions that received this award in a virtual Zoom ceremony on 11 December 2020. The awards were meant to acknowledge and applaud the effort of schools in holding workshops and talks for staff and students, and encouraging students to embark on mental-health related projects, among others.<br><br>Having implemented the Positive Education framework in RV, there has been greater awareness about mental health issues in school, and teachers and trained peer support leaders are well equipped to provide mental health support. We are happy that our efforts in promoting mental well-being are recognised. <br> <img src="/images/Mental Health Award.jpg" style="width:85%">  |
-| **School Green Awards**  | TESLA prepared the School Green Audit report for the school by documenting all of the school's environmental efforts and curriculum, and this led to RV attaining the “Outstanding Environmental Project Award”.  |
-| **2020 Community Chest Awards**  | River Valley High School is awarded the **Charity Gold Award (Secondary)** for our outstanding contributions and support for Community Chest social service agencies and service users in 2019.  |
-| **National cyberwellness Advocacy Challenge**  | Our students in the National Education Council received the **Silver Award** in the **Secondary/ Post-Secondary category:**<br>Lew Feng Sing (21J06) \[Team Leader\]<br>Christine Chong (3D) <br>Chang Tung Tung (3E)<br>Ng Ze Xing (1G)  |
-| <br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Excellence in Mathematics Teaching Award 2021**  | <img src="/images/Pearl Lam.jpeg" style="width:60%"><br>The Excellence in Mathematics Teaching Award (EMTA) affirms Singapore teachers who are passionate in mathematics teaching, have displayed exemplary efforts in the teaching of mathematics, and are role models to their colleagues and the mathematics teaching fraternity in Singapore.  Ms Pearl Lam, our teacher for JC Mathematics, is one of the four recipients of the EMTA this year. Her subject mastery is evident in her purposefully designed lessons which engage and empower her students to develop greater confidence, interest and understanding in this discipline. She measures her success through her students’ enjoyment in their learning and ability to solve problems independently. She is also inspired to empower students with analytical and reasoning skills imparted by mathematics so that they are better equipped for future challenges. With Ms Lam’s commitment and passion in the teaching of mathematics, this award is indeed a validation of her excellent work in River Valley High School.  |
-| <br><br><br><br><br><br><br><br><br><br><br><br><br>**Outstanding Youth in Education**<br>**Award (OYEA)**  | <img src="/images/OYEA.jpg" style="width:85%"> <br>The OYEA is a national award that recognises and honours the achievements of young educators who have a passion and commitment to teaching, inspiring and nurturing their students. HOD / History Mr Shane Koh was one of the six recipients of the OYEA in 2020. As a teacher, he adopts innovative pedagogies such as role-play and historical simulations to create engaging and memorable learning experiences for his students. Heading the school’s History and Current Affairs Society (HACAS), Mr Koh expanded the club’s programmes over the years to include weekly academic discussions, film screenings, a guest speaker series, a student publication - ‘The Historian’, and an array of competitions that enhance students’ interest in this field. For HACAS’ flagship programme, the RV Model United Nations (RVMUN), Mr Koh empowers his students to plan and organise it for close to 400 students from different schools across Singapore, and RVMUN is a highly anticipated event for youths in junior colleges across Singapore every year. Given Mr Koh’s enthusiasm, passion and active involvement in the shaping and development of students’ interest in History, this award is an affirmation of his excellent work. To find out more about Mr Koh’s contributions to the History programme, you may visit this website: [shane koh.pdf](/files/story-oyea-2020_shane-koh.pdf)  |
-| **Designing with TI Graphing**<br>**Calculators Competition**  | **Silver Award**<br>Valeska Loh Yuan Ru (21J20)<br><br>**Bronze Award**<br>Damian Liew Cho Xiang (4C)  |
-| <br><br>**Future Economic Forum Conference**  | **Best Position Paper Outstanding Delegate**<br>Joey Peh (20J14)<br><br>**Outstanding Delegate**<br>Samuel Luther Ang (20J20)<br><br>**Honourable Mention**<br>Jeremiah He Shuo (20J16)<br>Tan Liang Rong (20J20)<br><br>**Verbal Commendation**<br>Vanessa Tan (20J12)  |
-| <br><br><br><br><br><br><br><br><br><br>**Global Geopolitics Conference**  | On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br><br>**2nd Placing for Best Delegation**<br>River Valley High School<br><br>**Best Delegate**<br>Tan Liang Rong (20J20)<br><br>**Best Position Paper**<br>Tang Jiaxi (20J18)<br><br>**Outstanding Delegate**<br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B)  |
-| **NUS STEP Environment Camp 2021**  | **3rd Prize for Environment Poster:**  <br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19<br>Chen Zhe (21J08)  |
-| **NUS Geography Challenge**  | **Gold Medal**<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)  |
-| **Moot Parliament Programme Debate**  | **Outstanding Backbencher**  <br>Cadence Lim (4C)  |
-| <br><br>**National Plain English Speaking** **Awards**  | **Sec School Category**<br>**Finalist**<br>Hong Liying Rie (4C)<br><br>**JC/Poly/ITE Category**<br>**Finalist**<br>Given Tan (21J04)  <br><br>**2nd Runner-Up**<br>Clarice Lim Yin Jie (20J05)  |
-| **第四届小学课文朗诵比赛 中学低年级组（团体）**  | **季军**<br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）  |
-| **“译彩纷呈”翻译比赛**  | **团体赛冠军**<br>**个人奖：一等奖、二等奖、优胜奖**<br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C）  |
-| **全国第26届中学/ 高中华语演讲比赛**  | **优胜奖**  <br>吴宣颖（中二H）  |
-| **第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）**  | **论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》**<br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）  |
-| **Singapore Olympic Foundation-  <br>Peter Lim Scholarship  <br>(Encouragement Award)**  | Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)  |
-|   |   |
-
-**Singapore Youth Festival Arts Presentation:**
-
-|   |   |
-|:-:|---|
-| Concert Band (Secondary)  | Distinction  |
-| Concert Band (Junior College)  | Distinction  |
-| Chinese Dance (Secondary)  | Distinction  |
-| Chinese Dance (JC Teams A and B)  | Distinction  |
-| Chinese Orchestra (Mixed Ensemble)  | Distinction  |
-| Chinese Orchestra (Tan Bo Ensemble)  | Distinction  |
-|  Chinese Orchestra (Teams A and B) | Distinction  |
-| CLDDS (Secondary)  | Distinction  |
-| ELDDS (Secondary)  | Accomplishment  |
-| Guitar Ensemble (Junior College)  | Accomplishment  |
-| International Dance (Secondary)  | Accomplishment  |
-|  Choir (Secondary and Junior College) | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.  |
-|   |   |
+<ul class="jekyllcodex_accordion">
+	<li> <input type="checkbox" id="accordion1">
+		<label for="accordion1"> 2021 Overall Achievements </label>
+		<div>
+			<table>
+				<thead>
+					<tr>
+						<th>Name of Competition/ Event</th>
+						<th>Achievement / Name of recipient</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><b>Prime Minister's Prize (Pre-University)</b></td>
+						<td>Lim Jo Xin (19J20)</td>
+					</tr>
+					<tr>
+						<td><br><br><br><br><br><br><b>Inaugural Silver Ribbon Mental<br>Health Awards 2020 For Schools</b></td>
+						<td>River Valley High School was one of five educational institutions that received this award in a virtual Zoom ceremony on 11 December 2020. The awards were meant to acknowledge and applaud the effort of schools in holding workshops and talks for staff and students, and encouraging students to embark on mental-health related projects, among others.<br><br>Having implemented the Positive Education framework in RV, there has been greater awareness about mental health issues in school, and teachers and trained peer support leaders are well equipped to provide mental health support. We are happy that our efforts in promoting mental well-being are recognised. <br> <img src="/images/Mental%20Health%20Award.jpg" style="width:85%"/></td>
+					</tr>
+					<tr>
+						<td><b>School Green Awards</b></td>
+						<td>TESLA prepared the School Green Audit report for the school by documenting all of the school's environmental efforts and curriculum, and this led to RV attaining the “Outstanding Environmental Project Award”.</td>
+					</tr>
+					<tr>
+						<td><b>2020 Community Chest Awards</b></td>
+						<td>River Valley High School is awarded the <b>Charity Gold Award (Secondary)</b> for our outstanding contributions and support for Community Chest social service agencies and service users in 2019.</td>
+					</tr>
+					<tr>
+						<td><b>National cyberwellness Advocacy Challenge</b></td>
+						<td>Our students in the National Education Council received the <b>Silver Award</b> in the <b>Secondary/ Post-Secondary category:</b><br>Lew Feng Sing (21J06) \[Team Leader\]<br>Christine Chong (3D) <br>Chang Tung Tung (3E)<br>Ng Ze Xing (1G)</td>
+					</tr>
+					<tr>
+						<td><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Excellence in Mathematics Teaching Award 2021</b></td>
+						<td><img src="/images/Pearl%20Lam.jpeg" style="width:65%"/><br>The Excellence in Mathematics Teaching Award (EMTA) affirms Singapore teachers who are passionate in mathematics teaching, have displayed exemplary efforts in the teaching of mathematics, and are role models to their colleagues and the mathematics teaching fraternity in Singapore.  Ms Pearl Lam, our teacher for JC Mathematics, is one of the four recipients of the EMTA this year. Her subject mastery is evident in her purposefully designed lessons which engage and empower her students to develop greater confidence, interest and understanding in this discipline. She measures her success through her students’ enjoyment in their learning and ability to solve problems independently. She is also inspired to empower students with analytical and reasoning skills imparted by mathematics so that they are better equipped for future challenges. With Ms Lam’s commitment and passion in the teaching of mathematics, this award is indeed a validation of her excellent work in River Valley High School.</td>
+					</tr>
+					<tr>
+						<td><br><br><br><br><br><br><br><br><br><br><br><br><b>Outstanding Youth in Education Award (OYEA)</b></td>
+						<td><img src="/images/OYEA.jpg" style="width:85%"/> <br>The OYEA is a national award that recognises and honours the achievements of young educators who have a passion and commitment to teaching, inspiring and nurturing their students. <b>HOD / History Mr Shane Koh</b> was one of the six recipients of the OYEA in 2020. As a teacher, he adopts innovative pedagogies such as role-play and historical simulations to create engaging and memorable learning experiences for his students. Heading the school’s History and Current Affairs Society (HACAS), Mr Koh expanded the club’s programmes over the years to include weekly academic discussions, film screenings, a guest speaker series, a student publication - ‘The Historian’, and an array of competitions that enhance students’ interest in this field. For HACAS’ flagship programme, the RV Model United Nations (RVMUN), Mr Koh empowers his students to plan and organise it for close to 400 students from different schools across Singapore, and RVMUN is a highly anticipated event for youths in junior colleges across Singapore every year. Given Mr Koh’s enthusiasm, passion and active involvement in the shaping and development of students’ interest in History, this award is an affirmation of his excellent work. To find out more about Mr Koh’s contributions to the History programme, you may visit this website: <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_shane-koh.pdf">https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_shane-koh.pdf</a></td>
+					</tr>
+					<tr>
+						<td><b>Designing with TI Graphing Calculators Competition</b></td>
+						<td><b>Silver Award</b><br>Valeska Loh Yuan Ru (21J20)<br><br><b>Bronze Award</b><br>Damian Liew Cho Xiang (4C)</td>
+					</tr>
+					<tr>
+						<td><br><b>Future Economic Forum Conference</b></td>
+						<td><b>Best Position Paper Outstanding Delegate</b><br>Joey Peh (20J14)<br><br><b>Outstanding Delegate</b><br>Samuel Luther Ang (20J20)<br><br><b>Honourable Mention</b><br>Jeremiah He Shuo (20J16)<br>Tan Liang Rong (20J20)<br><br><b>Verbal Commendation</b><br>Vanessa Tan (20J12)</td>
+					</tr>
+					<tr>
+						<td><br><br><br><br><br><br><br><br><br><b>Global Geopolitics Conference</b></td>
+						<td>On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br><br><b>2nd Placing for Best Delegation</b><br>River Valley High School<br><br><b>Best Delegate</b><br>Tan Liang Rong (20J20)<br><br><b>Best Position Paper</b><br>Tang Jiaxi (20J18)<br><br><b>Outstanding Delegate</b><br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B)</td>
+					</tr>
+					<tr>
+						<td><b>NUS STEP Environment Camp 2021</b></td>
+						<td><b>3rd Prize for Environment Poster:</b>  <br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19<br>Chen Zhe (21J08)</td>
+					</tr>
+					<tr>
+						<td><b>NUS Geography Challenge</b></td>
+						<td><b>Gold Medal</b><br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)</td>
+					</tr>
+					<tr>
+						<td><b>Moot Parliament Programme Debate</b></td>
+						<td><b>Outstanding Backbencher</b>  <br>Cadence Lim (4C)</td>
+					</tr>
+					<tr>
+						<td><br><b>National Plain English Speaking Awards</b></td>
+						<td><b><u>Sec School Category</u><br>Finalist</b><br>Hong Liying Rie (4C)<br><br><b><u>JC/Poly/ITE Category</u><br>Finalist</b><br>Given Tan (21J04)  <br><br><b>2nd Runner-Up</b><br>Clarice Lim Yin Jie (20J05)</td>
+					</tr>
+					<tr>
+						<td><b>第四届小学课文朗诵比赛 中学低年级组（团体）</b></td>
+						<td><b>季军</b><br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）</td>
+					</tr>
+					<tr>
+						<td><b>“译彩纷呈”翻译比赛</b></td>
+						<td><b>团体赛冠军<br>个人奖：一等奖、二等奖、优胜奖</b><br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C）</td>
+					</tr>
+					<tr>
+						<td><b>全国第26届中学/ 高中华语演讲比赛</b></td>
+						<td><b>优胜奖</b>  <br>吴宣颖（中二H）</td>
+					</tr>
+					<tr>
+						<td><b>第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）</b></td>
+						<td><b>论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》</b><br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）</td>
+					</tr>
+					<tr>
+						<td><b>Singapore Olympic Foundation-  <br>Peter Lim Scholarship  <br>(Encouragement Award)</b></td>
+						<td>Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
+					</tr>
+					<tr>
+						<td colspan="2"> <b> Singapore Youth Festival Arts Presentation </b> <br>
+							<table> 
+								<tr>
+									<td>Concert Band (Secondary)</td>
+									<td> Distinction </td>
+								</tr>
+								<tr>
+									<td> Concert Band (Junior College) </td>
+									<td> Distinction </td>
+								</tr>
+								<tr>
+									<td>Chinese Dance (Secondary)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>Chinese Dance (JC Teams A and B)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>Chinese Orchestra (Mixed Ensemble)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>Chinese Orchestra (Tan Bo Ensemble)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>Chinese Orchestra (Teams A and B)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>CLDDS (Secondary)</td>
+									<td>Distinction</td>
+								</tr>
+								<tr>
+									<td>ELDDS (Secondary)</td>
+									<td>Accomplishment</td>
+								</tr>
+								<tr>
+									<td>Guitar Ensemble (Junior College)</td>
+									<td>Accomplishment</td>
+								</tr>
+								<tr>
+									<td>International Dance (Secondary)</td>
+									<td>Accomplishment</td>
+								</tr>
+								<tr>
+									<td>Choir (Secondary and Junior College)</td>
+									<td>All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 
 <a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
 
