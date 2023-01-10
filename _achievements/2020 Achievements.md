@@ -102,7 +102,7 @@ description: ""
 					</tr>
 					<tr>
 						<td><br><br><br><br><br><b>Singapore Young Physicists' Tournament</b></td>
-						<td><b>Category A:Junior College  <br>Bronze Award (Team):</b>  <br>Liang Shuang (21J11)  <br>Yang Jingxiang (21J11)  <br>Samuel Then Shi Jie (21J18)  <br><br><b>Merit Award (Poster Presentation Segment; Team)</b>  <br>LiLi Yutong (21J11)  <br>Tricia Boo Koh Wei Ping (20J10)  <br>Yang Yujun (20J15)    <br><br> <b>Category B:Junior College  <br>Commendation Award (Team):</b>  <br>Liu Yueyang (4A)  <br>Rayner Sim Zhi Heng (4A)  <br>Wong Rocky (4C)  <br><br><b>Merit Award (Poster Presentation Segment; Team)</b> <br>Ng Qi Heng (4A)  <br>Oh Wei Quan (4A)  <br>Han Zhi Heng, Shawn (4A)</td>
+						<td><b><u>Category A:Junior College</u>  <br>Bronze Award (Team):</b>  <br>Liang Shuang (21J11)  <br>Yang Jingxiang (21J11)  <br>Samuel Then Shi Jie (21J18)  <br><br><b>Merit Award (Poster Presentation Segment; Team)</b>  <br>LiLi Yutong (21J11)  <br>Tricia Boo Koh Wei Ping (20J10)  <br>Yang Yujun (20J15)    <br><br> <b><u>Category B:Junior College</u>  <br>Commendation Award (Team):</b>  <br>Liu Yueyang (4A)  <br>Rayner Sim Zhi Heng (4A)  <br>Wong Rocky (4C)  <br><br><b>Merit Award (Poster Presentation Segment; Team)</b> <br>Ng Qi Heng (4A)  <br>Oh Wei Quan (4A)  <br>Han Zhi Heng, Shawn (4A)</td>
 					</tr>
 					<tr>
 						<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Anglo-Chinese Junior College International  <br>Biomedical Quiz</b></td>
@@ -122,15 +122,11 @@ description: ""
 					</tr>
 					<tr>
 						<td><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Singapore Science &amp; Engineering Fair</b></td>
-    <td><b>Gold Award <br> + Special Award by Singapore Association for the Advancement of Science   <br> + Singapore University of Technology &amp; Design Research &amp; Innovation Award (Cities Category) (Team)</b>  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br><b>Silver Award  <br>+ Special Award by Yale - National University of Singapore College (Team)</b>   <br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br><b>2 Silver Awards (Individual)</b>   <br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br><b>Merit Award   <br>+ Special Award by Institution of Chemical Engineers, Singapore   <br>+ Special Award by the Electrochemical Society, Singapore Chapter (Team)</b>  <br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br><b>Merit Award  <br>+ Special Award by Singapore University of Technology &amp; Design <br>Research &amp; Innovation Award (Aviation Category) (Team)</b>  <br>Ng Simin (19J08)   <br><br><b>Merit Award (Individual)</b>  <br>Loke Mei Qi Jessica (19J04)   <br><br><b>2 Special Awards by Yale - National University of Singapore College (Team)</b>   <br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04)</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
-<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
+						<td><b>Gold Award <br> + Special Award by Singapore Association for the Advancement of Science   <br> + Singapore University of Technology &amp; Design Research &amp; Innovation Award (Cities Category) (Team)</b>  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br><b>Silver Award  <br>+ Special Award by Yale - National University of Singapore College (Team)</b>   <br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br><b>2 Silver Awards (Individual)</b>   <br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br><b>Merit Award   <br>+ Special Award by Institution of Chemical Engineers, Singapore   <br>+ Special Award by the Electrochemical Society, Singapore Chapter (Team)</b>  <br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br><b>Merit Award  <br>+ Special Award by Singapore University of Technology &amp; Design <br>Research &amp; Innovation Award (Aviation Category) (Team)</b>  <br>Ng Simin (19J08)   <br><br><b>Merit Award (Individual)</b>  <br>Loke Mei Qi Jessica (19J04)   <br><br><b>2 Special Awards by Yale - National University of Singapore College (Team)</b>   <br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04)</td>
+					</tr>
+					<tr>  </tr>
+				</table>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </a> </p>
 
 #### Olympiads & Other Competitions
 
