@@ -1,4 +1,5 @@
 collections:
   ours-stories:
     output: true
-    order: []
+    order:
+      - RV60.md
