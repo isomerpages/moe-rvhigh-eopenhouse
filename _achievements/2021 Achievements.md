@@ -149,8 +149,9 @@ description: ""
 					</tr>
 				</tbody>
 			</table>
-
-<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
+			<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </a> </p>
+		</div>
+	</li>
 
 #### Science & Technology Department
 
