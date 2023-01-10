@@ -11,8 +11,8 @@ description: ""
     <div>
       <p>
 				<table>
-  <tr>
-    <td><br><br><br><br><br><br><b>Agency for Science, Technology &amp;<br> Research Science Award</b></td>
+					<tr>
+						<td><br><br><br><br><br><br><b>Agency for Science, Technology &amp;<br> Research Science Award</b></td>
 		<td><b>Junior College</b>  <br>Lim Sing Wei (20J01)  <br>Mendell Yap Haw Chuen (20J01)  <br>Ksena Ho Su Xian (20J03)  <br>Kevin Karuna William (20J04)  <br>Toh Zheng Wei (20J09)  <br>Chua Yong Liang (20J10)  <br>Ge Shuqing (20J13)  <br><br><b>Upper Secondary</b>  <br>Loo Guan Kit(3A)  <br>Clarrissa Chua (3A)  <br>Leong Kai Jun (3A)  <br>Tan Beng Yang (3A)  <br>Hana Chua Qi En (3A)  <br>Suzanne Bay Zhiting (3H)  <br>Hoh Jiecong Benedict (3A)  <br>Soh Wei Kean, Adrina (3A)  <br>Charis Wong Jing Wen (3A)</td>
   </tr>
   <tr>
