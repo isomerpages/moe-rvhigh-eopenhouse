@@ -73,4 +73,4 @@ description: ""
 **[2017](/2017achievements)**  <br>
 **[2016](/2016Achievements)**
 
-<a href="#"><center><img src="/images/arrow-up.png" style="width:50px" align="left"/> Back to Top </center> </a>
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px"/> Back to Top </center> </a>
