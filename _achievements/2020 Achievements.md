@@ -129,7 +129,7 @@ description: ""
 				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 			</div>
 	</li>
-	<li>  <input type="checkbox" id="accordion4">
+	<li> <input type="checkbox" id="accordion4">
 		<label for="accordion4"> Olympiads & Other Competitions </label>
 		<div>
 			<table>
