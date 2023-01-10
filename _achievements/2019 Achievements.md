@@ -3,7 +3,6 @@ title: 2019 Achievements
 permalink: /achievements/2019-achievements/
 description: ""
 ---
-
 ## 2019 Achievements
 
 |   |   |
@@ -71,5 +70,5 @@ description: ""
 
 #### Past Year Achievements
 
-**[2017](/2017achievements/)**  
-**[2016](LINK ISOMER)**
+**[2017]()**  TO BE LINKED
+**[2016]()** TO BE LINKED
