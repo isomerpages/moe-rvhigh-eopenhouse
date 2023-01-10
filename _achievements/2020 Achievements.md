@@ -14,7 +14,7 @@ description: ""
 | **Young Defence Scientists<br> programme Scholarship**  | Ng Qi Heng (3A)  <br>Christy Gan Tze Qi (3A)  |
 |   |   |
 
-<a href="#"><center><img src="/images/arrow-up.png" style="width:40px"/> Back to Top </center> </a>
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
 
 #### International Programmes
 
@@ -28,7 +28,7 @@ description: ""
 | **MOE Overseas Student Attachment Programme: Centre for Excellence in Education Summer Programme - Research Science Institute**  | Lim Sing Wei(20J01) is one of the six JC1 students shortlisted by MOE to participate in a six-week overseas research attachment programme at the Massachusetts Institute of Technology(Boston, United States of America)(21 June to 1 Aug 2020)  |
 |   |   |
 
-<a href="#"><center><img src="/images/arrow-up.png" style="width:40px"/> Back to Top </center> </a>
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
 
 #### Science & Technology Fairs & Exhibitions
 
@@ -51,7 +51,7 @@ description: ""
 |  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Singapore Science & Engineering Fair** | **Gold Award**  <br>**\+ Special Award by Singapore Association for the Advancement of Science   <br>\+ Singapore University of Technology & Design Research & Innovation Award (Cities Category) (Team)**  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel (20J17)  <br><br>This team was chosen by MOE to represent Singapore in the International Division of the Hong Kong Student Science Project Competition, also known as the Global Youth Science and Technology Bowl which will be held online on 1 Aug 2020.  <br><br>**Silver Award**   <br>**\+ Special Award by Yale - National University of Singapore College (Team)**   <br>Lim Kai Qi (20J01)   <br>Mendell Yap Haw Chuen (20J01)   <br>Chelsea Chan Li Xin (20J05)   <br><br>**2 Silver Awards (Individual)**   <br>Lim Jia Qing (19J11)  <br>Kevin Khoo Weixue (19J13)    <br><br>**Merit Award   <br>\+ Special Award by Institution of Chemical Engineers, Singapore   <br>\+ Special Award by the Electrochemical Society, Singapore Chapter (Team)**  <br>Goh Yee Xin (20J01)   <br>Niu Jingwen (20J03)   <br>Justin Chew Yaojie (20J03)   <br><br>**Merit Award**  <br>**\+ Special Award by Singapore University of Technology & Design <br>Research & Innovation Award (Aviation Category) (Team)**   <br>Ng Simin (19J08)   <br><br>**Merit Award (Individual)**   <br>Loke Mei Qi Jessica (19J04)   <br><br>**2 Special Awards by Yale - National University of Singapore College (Team)**   <br>Lim Jia Han Jarred (20J01)   <br>Tng Yan Ning Jamie (20J02)  <br>Tay Kai Xuan Charlene (20J02)   <br>Ho Qingyi, Dorothea (20J03)   <br>Rowena Kwan Lee Ying (20J03)  <br>Tee Jia Yu (20J04)  |
 |   |   |
 
-<a href="#"><center><img src="/images/arrow-up.png" style="width:40px"/> Back to Top </center> </a>
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
 
 #### Olympiads & Other Competitions
 
@@ -76,3 +76,5 @@ description: ""
 | <br>**NUS Geography Challenge**  | **Gold Medal**  <br>Tan Beng Yang (4A)  <br>Soh Wei Kean, Adrina (4A)  <br>Huang Changwen (4E)  <br>Su Zhixuan (4E)  |
 | <br><br>**First Lego League**  | **Champion's Award for secondary: 1st runner-up** <br>Yang Zuoquan (4I)   <br>Wong Rocky (3C)   <br>Lin Xinying (2D)  <br>Ng Jean Tzi, Edric (3F)  <br>Hong Wenqi(2F)  |
 |   |   |
+
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
