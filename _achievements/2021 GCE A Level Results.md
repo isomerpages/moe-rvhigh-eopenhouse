@@ -172,4 +172,3 @@ VIA <br>
 \- Volunteered for several programmes: Kidsread Programme, recycling project, sports event, Bukit Batok Youth Network, and Movement for the Mentally Disabled of Singapore 
 
 Executive Committee Member of the Dance Society
-	
