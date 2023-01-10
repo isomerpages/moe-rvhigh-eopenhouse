@@ -2,4 +2,5 @@ collections:
   ours-stories:
     output: true
     order:
+      - 立化情.md
       - RV60.md
