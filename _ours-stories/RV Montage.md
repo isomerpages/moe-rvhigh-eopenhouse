@@ -18,4 +18,6 @@ View PDF:<br>
 [RVHS Montage 2018 (Issue 1)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/Montage%202018/RVH%20Montage%202018%20Issue%201.pdf) **PDF EXCEEDS 5MB** <br>
 [RVHS Montage 2018 (Issue 2)](/files/RVH%20Montage%202018v2_FA_26oct.pdf)<br>
 [RVHS Montage 2019 (Issue 1)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/Montage%202019/River%20Valley%20Montage%202019%20Issue%201.pdf) **PDF EXCEEDS 5MB** <br>
+[RVHS Montage 2019 (Issue 2)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Events/Montage%202019/River%20Valley%20Montage%202019%20Issue%202_low%20res.pdf) **PDF EXCEEDS 5MB** <br>
+[RVHS Montage 2020 (Issue 1)](https://rivervalleyhigh.moe.edu.sg/qql/slot/u724/Our%20Stories/River%20Valley%20Montage%202020%20Issue%201_191120.pdf) **PDF EXCEEDS 5MB** <br>
 
