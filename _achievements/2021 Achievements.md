@@ -48,6 +48,8 @@ description: ""
 |  Choir (Secondary and Junior College) | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.  |
 |   |   |
 
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
+
 #### Science & Technology Department
 
 | Competition  <br>/ Event  | Level of Achievement  |
@@ -93,6 +95,8 @@ description: ""
 | **Singapore University of  <br>Technology & Design (SUTD)  <br>Early Engagement &  <br>Development (SEED) Programme**  | **1 JC1 student offered SUTD SEED programme, which is a year-long outreach and immersion programme for top JC1 students to experience research opportunities and gain conditional admission to SUTD ahead of the regular university admissions cycle:**<br>Chua Yong Liang (20J10)  |
 |   |   |
 
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
+
 #### Sports Achievements
 
 |   |   |
@@ -100,6 +104,8 @@ description: ""
 | **Singapore Olympic Foundation-Peter Lim <br>Scholarship (Encouragement Award)**  | Chia Cheng En Truman 3H (Wushu)<br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)  |
 | <br><br><br><br><br>**National School Games and Zonal Competitions**  | **Wushu**<br>B Division Boys - National 2nd<br>B Division Girls - National 2nd<br>A Division Girls - National 2nd<br>A Division Boys - National 4th<br><br>**Badminton**<br>B Division Girls - Zone 3rd<br><br>**Table Tennis**<br>B Division Boys - Zone 2nd<br>B Division Girls - Zone 2nd  |
 |   |   |
+
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
 
 #### Performing Arts
 
@@ -121,6 +127,8 @@ description: ""
 | Choir (Secondary and Junior College)  | All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.  |
 |   |   |
 
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
+
 #### Uniformed Groups
 
 |   |   |
@@ -135,3 +143,4 @@ description: ""
 | <br><br><br>**St John Brigade - Chief Commissioner’s Badge 2021**  | Clarence Koh Eng Lok (4C)<br>Su Zhixuan (4E)<br>Kuah Sze Min Shermaine (4F)<br>Neo Rui Ern, Vanessa (4F)<br>Soh Zi Rui (4F)<br>Fu Liyi (4K)  |
 |   |   |
 
+<a href="#"><center><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </center> </a>
