@@ -24,7 +24,7 @@ description: ""
 				</tr>
 				<tr> </tr>
 			</table>
-			<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a></p>
+			<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a></p>
 		</div>
 	</li>
 	<li> <input type="checkbox" id="accordion2">
@@ -57,7 +57,7 @@ description: ""
 					</tr>
 					<tr>  </tr>
 				</table>
-				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 			</div>
 		</li>
 		<li>  <input type="checkbox" id="accordion3">
@@ -126,7 +126,7 @@ description: ""
 					</tr>
 					<tr>  </tr>
 				</table>
-				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </a> </p>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 			</div>
 	</li>
 	<li>  <input type="checkbox" id="accordion4">
@@ -207,7 +207,7 @@ description: ""
 					</tr>
 					<tr>  </tr>
 				</table>
-				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 		</div>
 	</li>
 </ul>
