@@ -21,7 +21,7 @@ We would like to highlight the achievements of the following 2021 graduates who 
 
 #### D H Nethma Dewmini
 
-<img src="/images/DH%20Nethma%20Dewmini.jpg" style="width:25%" align="left"/>
+<img src="/images/DH%20Nethma%20Dewmini.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A dedicated and empathetic volunteer in the community_
 
@@ -36,7 +36,7 @@ Active volunteer at the non-profit organisation Youth Listener, where she provid
 
 #### Lee Yan Qing
 
-<img src="/images/Lee%20Yan%20Qing.jpg" style="width:25%, padding: 0px 0px 100px 0px" align="left"/>
+<img src="/images/Lee%20Yan%20Qing.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A leader in every sense of the word_
 
@@ -52,7 +52,7 @@ Vice-President of Photography Club
 
 #### Jarell Liaw Jun Yi
 
-<img src="/images/Jarell%20Liaw.jpg" style="width:25%" align="left"/>
+<img src="/images/Jarell%20Liaw.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A resilient sportsman who doesn't tai-chi his way out of adversities_
 
@@ -66,7 +66,7 @@ Overall Team 4th <br>
 
 #### Goh Jing Xuan 
 
-<img src="/images/Goh%20Jing%20Xuan.jpg" style="width:25%" align="left"/>
+<img src="/images/Goh%20Jing%20Xuan.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _Brave and determined at home and in school_
 
@@ -79,7 +79,7 @@ Vice-President of the Aesthetics Council in 2019
 
 #### Mao Ruijie
 
-<img src="/images/Mao%20Ruijie.jpg" style="width:25%" align="left"/>
+<img src="/images/Mao%20Ruijie.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _An exemplary student leader who leads by example_
 
@@ -96,7 +96,7 @@ VIA <br>
 
 #### Dawn Chia Ning
 
-<img src="/images/Dawn%20Chia%20Ning.jpg" style="width:25%" align="left"/>
+<img src="/images/Dawn%20Chia%20Ning.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A triple-humanities student who leads from the heart_
 
@@ -112,7 +112,7 @@ VIA <br>
 
 #### Chua Yao Xuan
 
-<img src="/images/Chua%20Yao%20Xuan.jpg" style="width:25%" align="left"/>
+<img src="/images/Chua%20Yao%20Xuan.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A mathematical (and beautiful) mind!_   
 
@@ -128,7 +128,7 @@ Passion for Computer Science <br>
 
 #### Lim Sing Wei 
 
-<img src="/images/Lim%20Sing%20Wei.jpg" style="width:25%" align="left"/>
+<img src="/images/Lim%20Sing%20Wei.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _An academically curious & self-directed learner (and an impressive origamist)_
 
@@ -145,7 +145,7 @@ VIA <br>
 
 #### Ng Rui Kyi
 
-<img src="/images/Ng%20Rui%20Kyi.jpg" style="width:25%" align="left"/>
+<img src="/images/Ng%20Rui%20Kyi.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _A cheerful and motivated student who runs very fast!_
 
@@ -159,7 +159,7 @@ Organised KidsFun Online to engage primary school pupils
 
 #### Seow Mei En
 
-<img src="/images/Seow%20Mei%20En.jpg" style="width:25%" align="left"/>
+<img src="/images/Seow%20Mei%20En.jpg" style="width:25%; padding-right:10px; padding-bottom: 10px" align="left"/>
 
 _An all-rounder humanist who volunteers actively_
 
