@@ -2,6 +2,7 @@ collections:
   ours-stories:
     output: true
     order:
+      - RV Montage.md
       - RV60.md
       - 立化情.md
       - RV Times.md
