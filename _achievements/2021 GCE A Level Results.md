@@ -36,7 +36,7 @@ Active volunteer at the non-profit organisation Youth Listener, where she provid
 
 #### Lee Yan Qing
 
-<img src="/images/Lee%20Yan%20Qing.jpg" style="width:25%, padding: 0px 0px 10px 0px" align="left"/>
+<img src="/images/Lee%20Yan%20Qing.jpg" style="width:25%, padding: 0px 0px 100px 0px" align="left"/>
 
 _A leader in every sense of the word_
 
