@@ -70,7 +70,7 @@ description: ""
 
 #### Past Year Achievements
 
-**[2017](/2017a)**  <br>
-**[2016](/2016a)**
+**[2017](/2017achievements)**  <br>
+**[2016](/2016Achievements)**
 
 <a href="#"><center><img src="/images/arrow-up.png" style="width:50px" align="left"/> Back to Top </center> </a>
