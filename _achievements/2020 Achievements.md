@@ -5,7 +5,7 @@ description: ""
 ---
 ## 2020 Achievements
 
-<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex\_accordion">
 	<li> <input type="checkbox" id="accordion1">
     <label for="accordion1">Scholarships & Academic Awards</label>
 		<div>
@@ -54,12 +54,12 @@ description: ""
 				<tr>
 					<td><b>MOE Overseas Student Attachment Programme: Centre for Excellence in Education Summer Programme - Research Science Institute</b></td>
 					<td>Lim Sing Wei(20J01) is one of the six JC1 students shortlisted by MOE to participate in a six-week overseas research attachment programme at the Massachusetts Institute of Technology(Boston, United States of America)(21 June to 1 Aug 2020)</td>
-				</tr>
-				<tr>  </tr>
-			</table>
-			<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
-		</div>
-	</li>
+					</tr>
+					<tr>  </tr>
+				</table>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
+			</div>
+		</li>
 		<li>  <input type="checkbox" id="accordion3">
 			<label for="accordion3"> Science & Technology Fairs & Exhibitions </label>
 			<div>
@@ -126,40 +126,88 @@ description: ""
 					</tr>
 					<tr>  </tr>
 				</table>
-				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:40px; display:inline"/> Back to Top </a> </p>
 			</div>
 	</li>
-	<li><input type="checkbox" id="accordion3">
-		<label for="accordion3"> Olympiads & Other Competitions </label>
+	<li>  <input type="checkbox" id="accordion4">
+		<label for="accordion4"> Olympiads & Other Competitions </label>
 		<div>
 			<table>
 				<tr>
-					<td><br><b>Singapore International <br>Science Challenge</b></td>
-					<td><b>Outstanding Young Scientist Award</b>   <br>Jonathan Chew Jian Pin (20J10)  <br><br><b>Overall 1st Runner-Up (Field Challenge and Design &amp; Build Challenge)</b>  <br>Jonathan Chew Jian Pin (20J10)</td>
+					<td><br><b>Singapore Physics Olympiad</b></td>
+					<td><b>5 Honourable Mention Awards</b><br>Xu Yi (19J08)  <br>Ong Rie Ian (19J08)  <br>Lim Eun Chan (19J08)  <br>Zhang Yingxue (19J13)  <br>Theodore Lim (19J15)</td>
 				</tr>
 				<tr>
-					<td><br><br><br><br><b>Shanghai International Youth Science &amp; Technology Expo (Online) 2020</b></td>
-					<td><b>3 Excellent Display Awards (Team)</b>   <br>Lee Kang Tian(4B)  <br>Wong  Kang Lim (4C)  <br>Lee Jing Peng (4I)  <br><br>Clarice Lim Yin Jie (20J05)  <br>Tong Siyuan (20J13)  <br><br>Jonathan Chew Jian Pin (20J10)  <br>Chua Yong Liang (20J10)  <br><br>**Most Popular Sci-Tech Innovation Work Award(Team)**  <br>Clarice Lim Yin Jie (20J05)  <br>Tong Siyuan (20J13)</td>
-  </tr>
-  <tr>
-    <td>**Hong Kong Student Science Project Competition and Global Youth Science &amp; Technology Bowl**</td>
-    <td>**2nd Prize(Physics &amp; Engineering Category)**   <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br>Chan Yin Leng Ysabel(20J17)</td>
-  </tr>
-  <tr>
-    <td><br><br><br><br>**International Elementz Science Fair (Anderson - Serangoon Junior College)**</td>
-    <td>**2 Gold Awards (1 Individual+ 1 Team)**   <br>Ng Si Min (19J08)  <br>Chua Yong Liang (20J10)   <br>Jonathan Chew Jian Pin (20J10)  <br><br>**Silver Award (1 Team)**   <br>Vicky How Wei Jie (19J03)  <br>Teo Xin Ping Joan (19J06)   <br><br>**2 Bronze Awards (1 Individual + 1 Team)**   <br>Lim Jia Qing (19J11)   <br>Abelona Chew (19J01)   <br>Yap Xiao Qin Clarice (19J01)</td>
-  </tr>
-  <tr>
-    <td><br><br><br>**International Mathematical Modelling Challenge (Singapore)**</td>
-    <td>**Distinction Award**   <br>Yu Jingrong (20j08)  <br>Chua Yao Xuan (20j13)   <br>Glenda Chong Rui Ting (20j15)   <br>Teng Yee Shin (20j15)   <br><br> **Merit Award**   <br>Lew Ee Zher Alston (19j07)  <br>Ryan Tan Zi Lin (20j03)   <br>Kevin Karuna William (20j04)   <br>Chin Ling Xing, Lance (20j13)</td>
-  </tr>
-  <tr>
-    <td>**MOE Overseas Student Attachment Programme: Centre for Excellence in Education Summer Programme - Research Science Institute**</td>
-    <td>Lim Sing Wei(20J01) is one of the six JC1 students shortlisted by MOE to participate in a six-week overseas research attachment programme at the Massachusetts Institute of Technology(Boston, United States of America)(21 June to 1 Aug 2020)</td>
-  </tr>
-  <tr>  </tr>
-</table>
-
-<a href="#"><center><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </center> </a>
-
+					<td><br><b>Singapore Chemistry Olympiad</b></td>
+					<td><b>2 Bronze Medals</b>  <br>Chua Tse Hui (20J02)  <br>Kevin Karuna William (20J04)  <br><br><b>1 Merit Award</b><br>Yip En Chun Jonathan (20J10)</td>
+				</tr>
+				<tr>
+					<td><b>Singapore Biology Olympiad</b></td>
+					<td><b>Merit Award</b> <br>Deng Jia Xuan (19J03)</td>
+				</tr>
+				<tr>
+					<td><br><b>Singapore National Olympiad in Informatics</b></td>
+					<td><b>4 Silver Medals</b><br>James Tan Dejun (4A)  <br>Lee Jing Peng (4I)  <br>Tan Swee Kang (4I)  <br>Gu Yingqi (20J13)</td>
+				</tr>
+				<tr>
+					<td><br><br><br><br><b>Future Economic Forum Conference</b></td>
+					<td><b>Best Position Paper Outstanding Delegate</b><br>Joey Peh (20J14)  <br><br><b>Outstanding Delegate</b>  <br>Samuel Luther Ang (20J20)  <br><br><b>Honourable Mention</b><br>Jeremiah He Shuo (20J16)  <br>Tan Liang Rong (20J20)  <br><br><b>Verbal Commendation</b>  <br>Vanessa Tan (20J12)</td>
+				</tr>
+				<tr>
+					<td><br><br><br><br><b>Green Wave Environmental Care Competition</b></td>
+					<td><b><u>Secondary School Category </u> <br>Merit Award (Team)($1000)</b>  <br>Chian Xin Tong (20J06)  <br>Song Jia Hui (20J07)  <br>Lai Yee Wei (20J10)  <br>Ng Rui Kyi (20J12)  <br><br><b>Commendation Award &amp; Team Collaborative Award (Team) ($500 + $500)</b>  <br>Lim Ruo Yi (20J03)  <br>Ow Le Yi Nikki (20J04)  <br>Chan Jia Wei (20J07)  <br>Brian Choong (20J19)</td>
+				</tr>
+				<tr>
+					<td><b>MOE-Singapore University of Technology &amp; Design Problem X Challenge</b></td>
+					<td><b>1st Prize (Team)</b>  <br>Daryl Nah (4A)  <br>Tang Yuheng (4A)  <br>Joshua Chin Wei Jie (4A)  <br>Samuel Then Shi Jie (4A)</td>
+				</tr>
+				<tr>
+					<td><br><b>Genetic Modification Advisory Committee Students Challenge</b></td>
+					<td><b>3rd Prize (Team)</b>  <br>Gong Yongjia(4B)  <br>Lim Yi Ting, Erica (4B)  <br>Chong Xin Ru, Gillian (4D)  <br>Cheryl Chin Kai Xin (4K)  <br>Zhang Yu (4K)</td>
+				</tr>
+				<tr>
+					<td><br><b>Engineering Innovation Challenge</b></td>
+					<td><b>1st Prize (Team) (Category 1: Secondary Schools)</b>  <br>Lim Jun Han (4D)  <br>Cadden Chua Chung Han (4E)  <br>Kwek Wen Qi, Shannen (4F)</td>
+				</tr>
+				<tr>
+					<td><br><br><b>NUS Department of Electrical &amp; Computer Engineering mBot Workshop &amp; Race</b></td>
+					<td><b>1st Runner Up (Team)</b>   <br>Chua Yong Liang (20J10)  <br>Tricia Boo Koh Wei Ping(20J10)  <br>Wang Zixun (20J15)  <br><br><b>2nd Runner Up (Team)</b><br>Charis Wong Jing Wen (3A)  <br>Wong Rocky (3C)  <br>Ng Jean Tzi Edric (3F)</td>
+				</tr>
+				<tr>
+					<td><br><b>NUS Geography Challenge 2020</b></td>
+					<td><b>Gold Medal</b> <br>Lim Cheng Jun Justin (4f)   <br>Silver Medal Jacqueline Tan Tong Xuan (4f)   <br>Yin Jia Qing (4g)   <br>ZhangYu (4k)</td>
+				</tr>
+				<tr>
+					<td><br><br><br><br><br><br><br><br><b>Outstanding Youth in Education Award (OYEA)</b></td>
+					<td>The OYEA is a national award that recognises and honours the achievements of young educators who have a passion and commitment to teaching, inspiring and nurturing their students.  <br><br>HOD/History Mr Shane Koh was one of the six recipients of the OYEA in 2020. As a teacher, he adopts innovative pedagogies such as role-play and historical simulations to create engaging and memorable learning experiences for his students. Heading the school’s History and Current Affairs Society (HACAS), Mr Koh expanded the club’s programmes over the years to include weekly academic discussions, film screenings, a guest speaker series, a student publication - ‘The Historian’, and an array of competitions that enhance students’ interest in this field. For HACAS’ flagship programme, the RV Model United Nations (RVMUN), Mr Koh empowers his students to plan and organise it for close to 400 students from different schools across Singapore, and RVMUN is a highly anticipated event for youths in junior colleges across Singapore every year. Given Mr Koh’s enthusiasm, passion and active involvement in the shaping and development of students’ interest in History, this award is an affirmation of his excellent work. To find out more about Mr Koh’s contributions to the History programme, you may visit this website:<br> <a href="https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_shane-koh.pdf ">https://academyofsingaporeteachers.moe.edu.sg/docs/default-source/professional-recognition-docs/outstanding-youth-in-education-awards-documents/story-oyea-2020_shane-koh.pdf</a> </td>
+					</tr>
+					<tr>
+						<td><b>2020 Community Chest Awards</b></td>
+						<td>River Valley High School is awarded the Charity Gold Award (Secondary) for our outstanding contributions and support for Community Chest social service agencies and service users in 2019.</td>
+					</tr>
+					<tr>
+						<td><br><br><br><b>River Valley Model United Nations (RVMUN)</b></td>
+						<td>From 15 to 17 March 2021, the History and Current Affairs Society (HACAS) held a virtual edition of the River Valley Model United Nations Conference. With a total delegation size of about 300 students, this 9th edition of the conference had the largest number of simulated councils on offer, a grand total of 11, including unprecedented ones like a Historical Crisis Council on the Boshin War. In addition, RVMUN 2021 also increased the number of Alumni Councils offered, where a total of five RVHS alumni students came back to chair the ASEAN+6 and UNHCR councils. With the theme “Sapere Aude” and helmed by Secretary-General Ng Wei Jie (20J16), and Deputy Secretary-General, Samuel Luther Ang (20J20), RVMUN 2021 saw its successful completion after three days of intense debate, dialogue and consensus-seeking pathways towards resolutions on key global issues.</td>
+					</tr>
+					<tr>
+						<td><br><br><br><br><br><br><b>Global Geopolitics Conference</b></td>
+						<td>On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:  <br><br><b>2nd Placing for Best Delegation</b>  <br>River Valley High School  <br><br><b>Best Delegate</b> <br>Tan Liang Rong (20J20)  <br><br><b>Best Position Paper</b> <br>Tang Jiaxi (20J18)  <br><br><b>Outstanding Delegate</b>  <br>Ngieng Xin Yi (21J17)  <br>Goh Jun Yu (4B)</td>
+					</tr>
+					<tr>
+						<td><b>Moot Parliament Programme Debate</b></td>
+						<td><b>Outstanding Backbencher</b>  <br>Cadence Lim (4C)</td>
+					</tr>
+					<tr>
+						<td><b>NUS Geography Challenge</b></td>
+						<td><b>Gold Medal</b>  <br>Tan Beng Yang (4A)  <br>Soh Wei Kean, Adrina (4A)  <br>Huang Changwen (4E)  <br>Su Zhixuan (4E)</td>
+					</tr>
+					<tr>
+						<td><br><b>First Lego League</b></td>
+						<td><b>Champion's Award for secondary: 1st runner-up</b> <br>Yang Zuoquan (4I)   <br>Wong Rocky (3C)   <br>Lin Xinying (2D)  <br>Ng Jean Tzi, Edric (3F)  <br>Hong Wenqi(2F)</td>
+					</tr>
+					<tr>  </tr>
+				</table>
+				<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:30px; display:inline"/> Back to Top </a> </p>
+		</div>
+	</li>
 </ul>
