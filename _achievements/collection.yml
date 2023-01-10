@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - 2021 GCE A Level Results.md
       - Achievements.md
       - Scholarship Recipients/.keep
       - Scholarship Recipients/Scholarship Recipients.md
@@ -16,3 +15,4 @@ collections:
       - 2021 Achievements.md
       - 2020 Achievements.md
       - 2019 Achievements.md
+      - 2021 GCE A Level Results.md
