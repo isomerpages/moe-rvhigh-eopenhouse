@@ -2,6 +2,7 @@ collections:
   ours-stories:
     output: true
     order:
+      - WEStories.md
       - RV60.md
       - 立化情.md
       - RV Times.md
