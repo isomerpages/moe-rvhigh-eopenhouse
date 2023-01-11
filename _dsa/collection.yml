@@ -2,4 +2,4 @@ collections:
   dsa:
     output: true
     order:
-      - DSA 直接招生计划.md
+      - Direct School Admission (Integrated Programme).md
