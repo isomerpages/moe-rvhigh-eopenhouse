@@ -47,3 +47,5 @@ View PDF:<br>
 愿立化<br>
 与日月争光兮<br>
 与天地共久长！
+
+<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
