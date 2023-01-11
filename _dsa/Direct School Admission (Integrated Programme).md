@@ -42,3 +42,23 @@ We are looking for promising Primary 6 students who demonstrate talent. There ar
 
 *   School Prefectorial Board 
 *   Uniform Group (eg Scouts, Brownies and Red Cross
+
+<center> Candidates should have attained a high level of proficiency in scientific/environmental research or displayed the ability to engage in innovation or problem solving.</center>
+
+<center> <b>Note for all applicants</b>: Achievements at the national/international level would be an advantage. Applicants may key in relevant information via the MOE DSA Application Portal. </center>
+
+**All applications are to be made via the MOE DSA Application Portal**  
+**([https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)) from 5 May 2021, 11am to 1 June 2021, 3pm.**
+
+**Note that 2021 DSA talent selection will be conducted via e-mode.**<br>
+The selection criteria and process for the talent areas will be updated by early-June. <br>
+For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+
+Successful applicants will join RVHS in January in the year 2022. Students will be assessed on both their demonstrated and potential ability to ensure that they benefit from the rigorous curriculum offered at RVHS.
+
+FAQs Click **[here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/information/direct-school-admission-integrated-programme-2021/2021-dsa-faqs)** **SITE NOT REACHABLE**
+
+#### Enquiries
+
+*   Contact the General Office at 6567-8115. (Monday to Friday - 8.00am to 5.00pm)
+*   Email us at [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) . Please indicate "DSA Enquiries" in the subject field.
