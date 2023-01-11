@@ -15,8 +15,30 @@ Introduced in 2004, the DSA scheme seeks to promote holistic education and provi
 
 #### The River Valley Integrated Programme (RVIP)
 
-River Valley High School’s (RVHS) 6-year single-track Integrated Programme is designed to develop leaders of distinction for Singapore. We aim to nurture in students bicultural acumen and moral integrity and to empower students to be thinkers, leaders and achievers with a global perspective. You may want to find out more about [RVHS's school information](https://rivervalleyhigh.moe.edu.sg/about-rv/a-world-class-educational-institution).
+River Valley High School’s (RVHS) 6-year single-track Integrated Programme is designed to develop leaders of distinction for Singapore. We aim to nurture in students bicultural acumen and moral integrity and to empower students to be thinkers, leaders and achievers with a global perspective. You may want to find out more about [RVHS's school information](/about-rv/awcei/).
 
 #### Direct School Admission to River Valley High School
 
 We are looking for promising Primary 6 students who demonstrate talent. There are 4 categories of talent that are open for DSA.
+
+| Category  1  | Category  2  | Category  3  | Category  4  |
+|:-:|---|---|---|
+| Badminton  | Chinese Orchestra  <br>\*(exclusions apply, see below)  | Coding  | Scientific Investigation  |
+| Basketball (Boys)  | Concert Band  <br>\*(exclusions apply, see below)  | Robotics  | Environmental Science  |
+| Floorball (Girls)  | Choir  | Leadership  | Design & Technology Innovation  |
+| Netball  | Chinese Dance  |   |   |
+| Softball (Girls)  | Chinese Debate  |   |   |
+| Table Tennis  | Chinese Drama  |   |   |
+| Volleyball (Girls)  | Chinese Painting  |   |   |
+| Wushu  | Chinese Calligraphy  |   |   |
+|   | English Debate  |   |   |
+|   | English Drama  |   |   |
+|   | \*not including the musical instruments - Guzheng, Piano or Violin  |   |   |
+|   |   |   |   |
+
+**Category 3 & 4**
+
+\# Applicants for DSA Leadership should hold a key position in 2022 in one of the following CCAs:·    
+
+*   School Prefectorial Board 
+*   Uniform Group (eg Scouts, Brownies and Red Cross
