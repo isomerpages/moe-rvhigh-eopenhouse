@@ -19,17 +19,15 @@ _The Prime Minister's Book Prize Award is given to outstanding students in the s
 
 ---
 
-##### <center>President's Guide Award</center>
-
 |   |
 |:-:|
-| **Chan Jia Wei (2019)**<br>**Tang Rui Yi (2019)**<br>**Lee Yan Qing (2019)**<br>**Yeoh Hui Qing (2016)**<br>**Bernice Lim Si Min (2015)**<br><br>_The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards._  |
+| **President's Guide Award**<br><br>**Chan Jia Wei (2019)**<br>**Tang Rui Yi (2019)**<br>**Lee Yan Qing (2019)**<br>**Yeoh Hui Qing (2016)**<br>**Bernice Lim Si Min (2015)**<br><br>_The President's Guide Award is the highest level of achievement attainable by a Guide below the age of 18. It is given in recognition of the Guides' love for Guiding, her commitment towards the Guiding Movement, and her efforts in upholding Guiding values and skills to respectable standards._  |
 |   |
 
 **Singapore Schools Sports Council (SSSC) Colours Award<br>
 National Best Sports Girl**
 
-###### <center>**Softball**</center>
+###### <center>Softball</center>
 
 <figure>
 <img src="/images/Best Sports Girl (Softball).jpg" style="width:90%">
@@ -37,9 +35,9 @@ National Best Sports Girl**
  </figcaption>
 </figure>
 
-###### <center>**Chai Yi Ann (2016)**</center>
+###### <center>Chai Yi Ann (2016)</center>
 
-###### <center>**Floorball**<br>**Lim Zhi Yan (2017)**</center>
+###### <center>Floorball<br>Lim Zhi Yan (2017)</center>
 
 ---
 
