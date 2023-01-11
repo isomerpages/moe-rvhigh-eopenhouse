@@ -1,4 +1,5 @@
 collections:
   dsa:
     output: true
-    order: []
+    order:
+      - DSA 直接招生计划.md
