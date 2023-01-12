@@ -3,8 +3,6 @@ title: 2022ademo
 permalink: /2022ademo/
 description: ""
 ---
-## 2022 Achievements
-
 <ul class="jekyllcodex_accordion">
 <li>
 <input type="checkbox" id="accordion1">
@@ -28,5 +26,13 @@ description: ""
 			<td><b>Science Mentorship Programme:</b><br><u>1 team selected for Student Keynote Presentation</u>  <br> Zeng Jing (22J17)  <br>Lee Jing Peng (22J17)   <br>Rayner Sim Zhi Heng (22J17)</td>
 		</tr>
 		<tr>
-			<td>BSP Symposium Research Papers Awards</td>
+			<td><br><br><br><br>BSP Symposium Research Papers Awards</td>
+			<td>颜熙愉 Gan Xi Yee 4C/2021 卓越<br>邵越寒 Shao Yuehan 4C/2021 卓越<br>李康田 Lee Kang Tian 4B/2021 杰出<br>陈子馨 Chin Zhi Xin 4B/2021 杰出<br>黄恩怡 Wong En Yi 4B/2021 杰出<br>张卉昕 Cindy Zhang Huixin 4B/2021 杰出<br>戴宇宁 Tay Yu Ning Anna 4B/2021 杰出<br>宋卓 Song Zhuo 4B/2021 杰出<br>颜慈涵 Gan Ci Han 4C/2021 优秀</td>
+		</tr>
+		<tr>
+			<td><b>教育部课程发展司主办 双文化课程研讨会 “镜头会说话”</b><br> BSP Symposium Photography Competition</td>
+			<td><br>罗梓迅Derrick Loh Zi Xun 4C 《格格不入的建筑》<br>辛恺溪Seng Deborah 4B 《小桂林，大桂林》</td>
+		</tr>
+		<tr>
+			<td>唐诗宋词硬笔书法比赛  <br>Primary and Secondary School Fountainpen Calligraphy contest</td>
 			<td>
