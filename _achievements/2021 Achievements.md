@@ -281,5 +281,5 @@ description: ""
 	</li>
 	<li>
 		<input type="checkbox" id="accordion4">
-<label for="accordion4">title</label>
+<label for="accordion4">Performing Arts</label>
 <div>
