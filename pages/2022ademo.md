@@ -24,5 +24,9 @@ description: ""
 			<td><u>2nd Place (Team)</u>  <br>Tan Beng Yang (22J02)  <br>Goh Ziyu (22J10)  <br>Ng Qi Heng (22J18)</td>
 		</tr>
 		<tr>
-			<td>MOE Gifted Education Branch Youth Science Conference</td>
-			<td><b>Science Mentorship Programme:</b><br>1 team selected for Student Keynote Presentation  <br> Zeng Jing (22J17)  <br>Lee Jing Peng (22J17)   <br>Rayner Sim Zhi Heng (22J17)
+			<td><br>MOE Gifted Education Branch Youth Science Conference</td>
+			<td><b>Science Mentorship Programme:</b><br><u>1 team selected for Student Keynote Presentation</u>  <br> Zeng Jing (22J17)  <br>Lee Jing Peng (22J17)   <br>Rayner Sim Zhi Heng (22J17)</td>
+		</tr>
+		<tr>
+			<td>BSP Symposium Research Papers Awards</td>
+			<td>
