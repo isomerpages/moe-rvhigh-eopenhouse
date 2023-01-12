@@ -281,3 +281,16 @@ description: ""
 		<input type="checkbox" id="accordion4">
 <label for="accordion4">Performing Arts</label>
 <div>
+	<table>
+		<tr>
+			<td><b>Singapore Youth Festival Arts Presentation:</b></td>
+		</tr>
+		<td>Concert Band (Secondary) - Distinction<br>Concert Band (Junior College) - Distinction<br>Chinese Dance (Secondary) - Distinction<br>Chinese Dance (JC Teams A and B) - Distinction<br>Chinese Orchestra (Mixed Ensemble) - Distinction<br>Chinese Orchestra (Tan Bo Ensemble) - Distinction<br>Chinese Orchestra (Teams A and B) - Distinction<br>CLDDS (Secondary) - Distinction<br>ELDDS (Secondary) - Accomplishment<br>Guitar Ensemble (Junior College) - Accomplishment<br>International Dance (Secondary) - Accomplishment<br>Choir (Secondary and Junior College) - All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
+		</tr>
+	</table>
+		</div>
+		</li>
+		<li>
+	<input type="checkbox" id="accordion5">
+<label for="accordion5">Uniformed Groups</label>
+<div>
