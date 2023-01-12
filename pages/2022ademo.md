@@ -78,4 +78,22 @@ description: ""
 			<td>Yang Jingxiang (21J11) Gold<br>Samuel Then Shi Jie (21J11) Silver<br>Nilay Barsainya (21J20) Silver<br>Choi Yi Hao (21J01) Honourable Mention</td>
 		</tr>
 		<tr>
-			<td>
+			<td><br><br><br><br><br><br><br><br><br><br>Singapore Young Physicists’ Tournament</td>
+			<td><b>Category A: Junior College</b><br><b>Bronze Award (Team)</b><br>Pok Zheng Yong (21J09)<br>Zhu Jiahang (21J16)<br>Chen Sihan (21J18)<br><br><b>Distinction Award (Poster Presentation Segment; Team)</b><br>Lee Kun Yau (21J01)<br>Qiao Bowen (21J10)<br>Yi Kaizhi (21J16)<br><br><b>Category B: Secondary School</b><br><b>2 Bronze Awards (Team)</b><br>Khow Willard (4A)<br>Chen Qingyuan (4C)<br>Chua Zhongding (4I)<br>Tang Tian Le (4A)<br>Ansel Yip Fong (4A)<br>Chan Xing Yu James (4I)<br><br>Chan Xing Yu James (4I) is currently considered for the Singapore International Young Physicists' Tournament (IYPT) team selection.</td>
+		</tr>
+		<tr>
+			<td><br><br><br>Singapore National Olympiad in Informatics</td>
+			<td><b>1 Silver Medal (Individual)</b><br>Han Zhi Heng, Shawn (22J17)<br><br><b>5 Bronze Medals (Individual)</b><br>Chen Qingyuan (4C)<br>Guan Xinyue (22J11)<br>Hu Tianle (22J17)<br>Rayner Sim Zhi Heng (22J17)<br>Tan Swee Kang (22J17)</td>
+		</tr>
+		<tr>
+			<td><br><br><br>Design & Technology Educators Society:  <br>Design & Technology Award</td>
+			<td><b>2 Creative Invention Awards (Team)</b><br>Cherianne Ng (2A)<br>Chia Min Wen (2A)<br>Patrick Eng Chee Hong (2A)<br>Mok Jia Xuan (2F)<br>Nadya Ong Yu Xin (2F)<br>Tan Jia Xuan, Charmaine (2F)<br><br><b>Creative Adaptation Award (Merit) (Team)</b><br>Li Ziyun (2G)<br>Yang Chen Jun (2G)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br>National School Games</td>
+			<td><b>National Softball Championship</b>  <br>B Division Girls -3rd  <br><br><b>National wushu Championships</b>  <br>C Division Boys -1st  <br>A Division Girls - 2nd  <br>B Division Boys -2nd  <br>B Division Girls - 2nd  <br>A Division Boys - 4th  <br><br><b>West Zone Table Tennis Championships</b>  <br>B Division boys -2nd  <br>B Division Girls - 2nd</td>
+		</tr>
+	</table>
+		</div>
+	</li>
+	</ul>
