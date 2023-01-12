@@ -173,4 +173,22 @@ description: ""
 			<td><b>8 Gold Awards (7 individuals & 1 team):</b><br>Toh Zheng Wei (20J09)<br>Yam Sing Er Angela (20J11)<br>Chua Yao Xuan (20J13)<br>Celeste Chua (20J15)<br>Teng Yee Shin (20J15)<br>Lin Sihui (20J17)<br>Raeanne Lim Zhi En (20J20)<br>Tong Siyuan (20J13)<br>Wong Zhixian, Keith (20J13)<br><br><b>5 Silver Awards (3 individuals & 2 teams):</b><br>Chua Tse Hui (20J02)<br>Chelsea Chan Li Xin (20J05)<br>Yu Jingrong (20J08)<br>Chin Ling Xing, Lance (20J13)<br>Glenda Chong Rui Ting (20J15)<br>Wan Mingyu (20J15)<br>Yong Kai Qing (20J17)<br><br><b>Nanyang Research Programme Junior Category</b><br><b>2 Gold Awards (Team):</b><br>Gan Chee Joon (21J08)<br>Yang Jingxiang (21J11)<br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)</td>
 		</tr>
 		<tr>
-			<td>
+			<td><b>Biomedical Engineering  <br>Society Scientific Meeting</b></td>
+			<td><b>Research Presentation: Junior College / Polytechnic Category</b><br><b>Gold Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
+		</tr>
+		<tr>
+			<td><b>[D] Olympiads & Other Competitions</b></td>
+		</tr>
+		<tr>
+			<td><br><br><b>National Science Challenge</b></td>
+			<td><b>2nd Runner Up</b><br>Wai Jone Sher (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Han Zhi Heng, Shawn (4A)</td>
+		</tr>
+		<tr>
+			<td><b>MOE Gifted Education Branch – Singapore University of Technology & Design Problem X Challenge</b></td>
+			<td><b>1st Runner Up</b><br>Loo Guan Kit (4A)<br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Charis Wong Jing Wen (4A)</td>
+		</tr>
+		<tr>
+			<td><br><b>Singapore Biology Olympiad</b></td>
+			<td><b>3 Bronze Medals (Individual)</b><br>Lim Sing Wei (20J01)<br>Chloe Ong Zhi Ying (20J03)<br>Chester Chiah Chin Wei (20J05)</td>
+		</tr>
+		<tr>
