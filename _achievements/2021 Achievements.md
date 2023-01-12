@@ -258,4 +258,15 @@ description: ""
 			<td><br><b>Singapore University of  <br>Technology & Design (SUTD)  <br>Early Engagement &  <br>Development (SEED) Programme</b></td>
 			<td><b>1 JC1 student offered SUTD SEED programme, which is a year-long outreach and immersion programme for top JC1 students to experience research opportunities and gain conditional admission to SUTD ahead of the regular university admissions cycle:</b><br>Chua Yong Liang (20J10)</td>
 		</tr>
-		
+	</table>
+		</div>
+<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion3">
+<label for="accordion3">Sports Achievements</label>
+<div>
+	<table>
+		<tr>
+			<td>
+	
