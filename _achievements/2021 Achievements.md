@@ -294,3 +294,43 @@ description: ""
 	<input type="checkbox" id="accordion5">
 <label for="accordion5">Uniformed Groups</label>
 <div>
+	<table>
+		<tr>
+			<td><b>President Guide Award</b></td>
+			<td>Vera Ng Jing Wen (4F)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Baden Powell Award</b></td>
+			<td>Toh Le Qi (4G)<br>Lim Chian Yu (4G)<br>Seah Ming Yi (4F)<br>Chew Cheng Leng, Denise (4F)<br>Effia Tan Ming Si (4F)</td>
+		</tr>
+		<tr>
+			<td><b>National Cadet Corps Outstanding Cadet<br>Award 2021 (Girls)</b></td>
+			<td>Yap En Fei (4B)</td>
+		</tr>
+		<tr>
+			<td><b>National Cadet Corps Outstanding Cadet Award 2021 (Boys)</b></td>
+			<td>Teh Ker Lun (4D)</td>
+		</tr>
+		<tr>
+			<td><b>National Police Cadet Corps - SPF-NPCC Badge Award 2021</b></td>
+			<td>Ng Nigel (4F)<br>Tan Zi Xuan (4I)</td>
+		</tr>
+		<tr>
+			<td><b>National Police Cadet Corps - Best Unit Cadet Award 2021 (Female)</b></td>
+			<td>Chew Ching Ting (4H)</td>
+		</tr>
+		<tr>
+			<td><b>National Police Cadet Corps - Best Unit Cadet Award 2021 (Male)</b></td>
+			<td>Yoong Min Kai (4I)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><b>St John Brigade - Chief Commissioner’s Badge 2021</b></td>
+			<td>Clarence Koh Eng Lok (4C)<br>Su Zhixuan (4E)<br>Kuah Sze Min Shermaine (4F)<br>Neo Rui Ern, Vanessa (4F)<br>Soh Zi Rui (4F)<br>Fu Liyi (4K)</td>
+		</tr>
+	</table>
+	</div>
+	</li>
+	</ul>
+			
+			
+			
