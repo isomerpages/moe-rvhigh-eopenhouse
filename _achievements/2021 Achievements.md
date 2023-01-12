@@ -111,4 +111,21 @@ description: ""
 			<td><b>[A] Scholarships & Academic Awards</b></td>
 		</tr>
 		<tr>
-			<td>
+			<td><br><br><br><b>Agency for Science, Technology &  <br>Research Science Award  <br>(Upper Secondary)</b></td>
+			<td>Shen Yiren (3A)  <br>Oh Rui Quan (3A)  <br>Ngieng Xin Hui (3A)  <br>Ansel Yip Fong (3A)  <br>Goh Rou Hui Ashley(3A)  <br>Chiew Pui See Sarah(3A)  <br>Chiew Yujie Jacqueline (3A)  <br>Sia Hao Rui (3I)  <br>Ong Yi Qian (3I)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Agency for Science, Technology &  <br>Research Science Award  <br>(Junior College)</b></td>
+			<td>Gong Yong Jia (21J04)  <br>Chan Shu Zhen, Venus (21J04)  <br>Phua Jun Hao (21J08)  <br>Chan Kai Sing Natalie (21J08)  <br>Tang Yuheng (21J17)  <br>Lim Yi Ting Erica (21J17)  <br>Chan Shi Yun (21J18)  <br>Jolie Ng Kar Wei (21J18)</td>
+		</tr>
+		<tr>
+			<td><b>Young Defence Scientists  <br>Programme Scholarship</b></td>
+			<td>Khow Willard (3A)<br>Chan Xing Yu, James (3I)</td>
+		</tr>
+		<tr>
+			<td><b>Defence Science & Technology  <br>Agency Junior College Scholarship</b></td>
+			<td>Gan Chee Joon (21J08)  <br>Siow Jia Wei (21J11)</td>
+		</tr>
+		<tr>
+			<td><b>Centre For Strategic   <br>Infocomm Technologies  <br>(CSIT) Computing Scholarship</b></td>
+			<td><b>2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000</b><br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15)
