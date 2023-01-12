@@ -228,4 +228,12 @@ description: ""
 			<td><b>Individual Challenge</b><br> <b>2 Certificates of Distinction</b><br>Mendell Yap Haw Chuen (20J01)<br>Rowena Kwan Lee Ying (20J03)<br><br><b>1 Certificate of Merit</b>  <br>Vayishnavi Sivaikugan (20J05)        <br><br><b>Team Challenge</b><br><b>3rd Place</b><br>Cheang Ke Qing (20J01)<br>Mendell Yap Haw Chuen (20J01)<br>Rowena Kwan Lee Ying (20J03)<br>Wang Z-Ying (20J04)<br>Goh Yong En (20J05)</td>
 		</tr>
 		<tr>
-			
+			<td><b>Genetic Modification  <br>Advisory Committee  <br>Students Challenge</b></td>
+			<td><b>2nd Prize</b><br>Tan Beng Yang (4A)<br>Ng Shi Min Jess (4A)<br>Ho Jiecong, Benedict (4A)<br>Crystal Tan Shyuan Ling (4A)</td>
+		</tr>
+		<tr>
+			<td><b>NUS Chemistry Week:<br>Chem-dot-Comm Challenge</b></td>
+			<td><b>Meritorious Award (Team)</b><br>Ng Zhi Xi (3A)<br>Ngieng Xin Hui (3A)<br>Chen Qingyuan (3C)</td>
+		</tr>
+		<tr>
+			<td>
