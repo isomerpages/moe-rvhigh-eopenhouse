@@ -55,3 +55,20 @@ description: ""
 			<td><br><br><br><br><br><br><br><br><b>Global Geopolitics Conference</b></td>
 			<td>On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br><br><b>2nd Placing for Best Delegation</b><br>River Valley High School<br><br><b>Best Delegate</b><br>Tan Liang Rong (20J20)<br><br><b>Best Position Paper</b><br>Tang Jiaxi (20J18)<br><br><b>Outstanding Delegate</b><br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B)</td>
 		</tr>
+		<tr>
+			<td><br><b>NUS STEP Environment Camp 2021</b></td>
+			<td><b>3rd Prize for Environment Poster:</b><br>Lai Xin Ling (21J02)<br>Zeng Chuwen (21J08)<br>Tan Wen Rong 21J08<br>Ng Kai Wen Karin 21J19<br>Chen Zhe (21J08)</td>
+		</tr>
+		<tr>
+			<td><b>NUS Geography Challenge</b></td>
+			<td><b>Gold Medal</b><br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)</td>
+		</tr>
+		<tr>
+			<td><b>Moot Parliament Programme Debate</b></td>
+			<td><br><b>Outstanding Backbencher</b><br>Cadence Lim (4C)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><b>National Plain English Speaking Awards</b></td>
+			<td><b><u>Sec School Category</b></u>  <br><b>Finalist</b><br>Hong Liying Rie (4C)<br><br><b><u>JC/Poly/ITE Category</b></u><br><b>Finalist</b><br>Given Tan (21J04)  <br><br><b>2nd Runner-Up</b><br>Clarice Lim Yin Jie (20J05)</td>
+		</tr>
+		
