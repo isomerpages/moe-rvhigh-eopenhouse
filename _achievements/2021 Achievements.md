@@ -192,3 +192,8 @@ description: ""
 			<td><b>3 Bronze Medals (Individual)</b><br>Lim Sing Wei (20J01)<br>Chloe Ong Zhi Ying (20J03)<br>Chester Chiah Chin Wei (20J05)</td>
 		</tr>
 		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><b>Singapore Junior Biology Olympiad</b></td>
+			<td><b>2 Gold Medals</b><br>Tan Beng Yang (4A)<br>Vera Ng Jing Wen (4F)<br><br><b>2 Silver Medals</b><br>Goh Ziyu (4A)<br>Eunsun Jung (4A)<br><br><b>9 Bronze Medals</b><br>Mya Cherry (3A)<br>Liu Yueyang (4A)<br>Dyann Saw Xinmei (4A)<br>Crystal Tan Shyuan Ling (4A)<br>Shao Yuehan (4C)<br>Tan Rei Yew (4D)<br>Cui Kai Rui Carol (4D)<br>Lee Qin Yuan (4F)<br>Fan Siew Ning (4F)<br><br><b>3 Honourable Mention Awards</b><br>Tan Xin Yang Elliott (3A)<br>Fun Wai Yan, Charmaine (4D)<br>Huang Changwen (4E)</td>
+		</tr>
+		<tr>
+			<td>
