@@ -63,4 +63,3 @@ FAQs Click **[here](https://rivervalleyhigh-moe-edu-sg-admin.cwp.sg/information
 *   Contact the General Office at 6567-8115. (Monday to Friday - 8.00am to 5.00pm)
 *   Email us at [rvhs@moe.edu.sg](mailto:rvhs@moe.edu.sg) . Please indicate "DSA Enquiries" in the subject field.
 
-[shanekoh](/2022ademo/)
