@@ -102,3 +102,13 @@ description: ""
 		<input type="checkbox" id="accordion2">
 <label for="accordion2">Science & Technology Department</label>
 <div>
+	<table>
+		<tr>
+			<td><b>Competition / Event</b></td>
+			<td><b>Level of Achievement</b></td>
+		</tr>
+		<tr>
+			<td><b>[A] Scholarships & Academic Awards</b></td>
+		</tr>
+		<tr>
+			<td>
