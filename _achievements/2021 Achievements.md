@@ -244,4 +244,18 @@ description: ""
 			<td><b>Local School Student Category</b><br><b>(Theme: Educational Tools)</b><br><b>Top Prize ($5000)</b><br>Da Ruolin (20J06)<br>Yang Yujun (20J15)<br><br><b>Runner Up ($2500)</b><br>Cheng Jiajun (19J07)</td>
 		</tr>
 		<tr>
-			
+			<td><b>Young Defence Scientists  <br>Programme Science &  <br>Technology Camp Competition</b></td>
+			<td><b>Champion (Team)</b><br>Chen Qingyuan (3C)<br>Sia Hao Rui (3I)<br>Ong Yi Qian (3I)<br>Chan Xing Yu, James (3I)</td>
+		</tr>
+		<tr>
+			<td><b>[E] Other Involvements</b></td>
+		</tr>
+		<tr>
+			<td><br><bR><br><b>National University of Singapore  <br>(NUS) Electrical &  <br>Computer Engineering  <br>Principles & Practice I (EE1111) Module<br><br>(offered by NUS <br>Department of Electrical & <br>Computer Engineering, <br>Faculty of Engineering)</b></td>
+			<td><b>First batch of 13 students completed the NUS undergraduate foundational engineering module in May & Jun 2021, and earned modular credits for full exemption of the module in NUS Faculty of Engineering:</b><br>James Tan Dejun (4A)<br>Han Zhi Heng, Shawn (4A)<br>Wang Xianyao (21J01)<br>Daryl Nah (21J11)<br>Samuel Then Shi Jie (21J11)<br>Yang Jingxiang (21J11)<br>Justin Ang (21J15)<br>Leong Hong Jun (21J15)<br>Liang Shuang (21J18)<br>Nilay Barsainya (21J20)<br>Lee Siang Jun (20J06)<br>Wu Xiaoyun (20J09)<br>Chua Yong Liang (20J10)</td>
+		</tr>
+		<tr>
+			<td><br><b>Singapore University of  <br>Technology & Design (SUTD)  <br>Early Engagement &  <br>Development (SEED) Programme</b></td>
+			<td><b>1 JC1 student offered SUTD SEED programme, which is a year-long outreach and immersion programme for top JC1 students to experience research opportunities and gain conditional admission to SUTD ahead of the regular university admissions cycle:</b><br>Chua Yong Liang (20J10)</td>
+		</tr>
+		
