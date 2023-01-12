@@ -71,4 +71,21 @@ description: ""
 			<td><br><br><br><b>National Plain English Speaking Awards</b></td>
 			<td><b><u>Sec School Category</b></u>  <br><b>Finalist</b><br>Hong Liying Rie (4C)<br><br><b><u>JC/Poly/ITE Category</b></u><br><b>Finalist</b><br>Given Tan (21J04)  <br><br><b>2nd Runner-Up</b><br>Clarice Lim Yin Jie (20J05)</td>
 		</tr>
-		
+		<tr>
+			<td><b>第四届小学课文朗诵比赛 中学低年级组（团体）</b></td>
+			<td><b>季军</b><br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）</td>
+		</tr>
+		<tr>
+			<td><br><br><b>“译彩纷呈”翻译比赛</b></td>
+			<td><b>团体赛冠军</b><br> <b>个人奖：一等奖、二等奖、优胜奖</b><br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C）</td>
+		</tr>
+		<tr>
+			<td><b>全国第26届中学/ 高中华语演讲比赛</b></td>
+			<td><bR><b>优胜奖</b><br>吴宣颖（中二H）</td>
+		</tr>
+		<tr>
+			<td><br><b>第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）</b></td>
+			<td><b>论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》</b><br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）</td>
+		</tr>
+		<tr>
+			
