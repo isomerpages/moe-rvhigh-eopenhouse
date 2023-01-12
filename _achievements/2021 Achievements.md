@@ -95,4 +95,11 @@ description: ""
 			<td><br><br><br><br><br><br><b>Singapore Youth Festival Arts Presentation:</b></td>
 			<td>Concert Band (Secondary) - Distinction<br>Concert Band (Junior College) - Distinction<br>Chinese Dance (Secondary) - Distinction<br>Chinese Dance (JC Teams A and B) - Distinction<br>Chinese Orchestra (Mixed Ensemble) - Distinction<br>Chinese Orchestra (Tan Bo Ensemble) - Distinction<br>Chinese Orchestra (Teams A and B) - Distinction<br>CLDDS (Secondary) - Distinction<br>ELDDS (Secondary) - Accomplishment<br>Guitar Ensemble (Junior College) - Accomplishment<br>International Dance (Secondary) - Accomplishment<br>Choir (Secondary and Junior College) - All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
 		</tr>
-	
+	</table>
+	</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion2">
+<label for="accordion2">Science & Technology Department</label>
+<div>
+		
