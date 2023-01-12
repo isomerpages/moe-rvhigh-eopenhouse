@@ -136,3 +136,26 @@ description: ""
 		<tr>
 			<td><br><br><br><b>Shanghai International Youth  <br>Science & Technology Expo  <br>(Online) 2020<br>[上海国际青少年科技博览会 (云端展会)]</b></td>
 			<td><b>3 Excellent Display Awards [优秀展示奖] (Team)</b><br>Lee Kang Tian (4B)<br>Wong Kang Lim (4C)<br>Lee Jing Peng (4I)<br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)<br>Jonathan Chew Jian Pin (20J10)<br>Chua Yong Liang (20J10)<br><br><b>Most Popular Sci-Tech Innovation Work Award<br>[青少年创新成果展人气奖] (Team)</b><br>Clarice Lim Yin Jie (20J05)<br>Tong Siyuan (20J13)</td>
+		</tr>
+		<tr>
+			<td><br><br><b>Singapore International  <br>Science Challenge</b></td>
+			<td><b>Outstanding Young Scientist Award</b><br>Jonathan Chew Jian Pin (20J10)<br><br><b>Overall 1st Runner Up (Field Challenge and Design & Build Challenge)</b><br>Jonathan Chew Jian Pin (20J10)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><b>International Elementz  <br>Science Fair<br>(organised by Anderson <br>Serangoon Junior College)</b></td>
+			<td><b>3 Gold Awards (1 Individual + 2 Teams)</b><br>Chelsea Chan Li Xin (20J05)<br>Sampson Bong Shung Hoong (20J06)<br>Chua Yong Liang (20J10)<br>Jonathan Chew Jian Pin (20J10)<br>Wang Zixun (20J15)<br><br><b>1 Silver Award (1 Team)</b>  <br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br><b>1 Bronze Award (1 Individual)</b><br>Tricia Boo Koh Wei Ping (20J10)<br><br><b>1 Commendation Award (1 Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
+		</tr>
+		<tr>
+			<td><b>[C] Science & Technology Fairs & Exhibitions</b></td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><b>Singapore Science & Engineering Fair</b></td>
+			<td><b>3 Gold Awards (2 Individuals + 1 Team)</b><br>Lim Sing Wei (20J01)<br>Chelsea Chan Li Xin (20J05)<br>Jonathan Chew Jian Bin (20J10)  <br>Wang Zixun (20J15)<br><br><b>2 Silver Awards (1 Individual + 1 Team)</b><br>Teng Yee Shin (20J15)<br>Gan Chee Joon (21J08)  <br>Yang Jingxiang (21J11)<br><br><b>Merit Award (Team)</b><br>Chin Ling Xing, Lance (20J13)<br>Glenda Chong Rui Ting (20J15)<br><br><b>Merit Award + Singapore University of Technology & Design Research</b> &<b>Innovation Award (Multidisciplinary) (Individual)</b><br>Chua Yao Xuan (20J13) <br><br><b>Yale – National University of Singapore College Special Award (Team)</b><br>Gong Yongjia (21J04)<br>Zhang Yu (21J13)<br>Lim Yi Ting, Erica (21J17)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><br><br><b>Tan Kah Kee Young Inventors  <br>Award Competition</b></td>
+			<td><b>1st Prize for School Award with Most Number of Shortlisted Quality Entries</b><br>(RVHS has been awarded 16th time)<br><br> <b>1 Merit Award</b><br>“Lo-Car” is an invention which solves the problem of drivers who often forget where they park their cars at car parks:<br>Rayner Sim Shi Heng (4A)<br>Damian Liew Cho Xiang (4C)<br>Tan Ke Xin Jolene (4E)<br><br><b>3 Encouragement Awards</b><br>“Stop Fake News” is a game to teach students how to identify fake news and the importance of doing so:<br>Lee Siang Jun (20J06)<br>Wang Weijie (20J09)<br><br>“History Go Round” is a tool which helps students learn History quickly, effectively and in an enjoyable way:  <br>Zhang Shiqing (21J05)<br>Chen Xinrong (21J10)<br>Hou Xinxiang (21J13)<br><br> “Y-extractor” is a device which tackles the problem of removing pins safely from class notice boards and store them for future use.<br>Ooi Wan Li (2D)<br>Chua Shi Qi (2D)<br>Sim Jia Ying Shanice (2D)</td>
+		</tr>
+		<tr>
+			<td>
+			
