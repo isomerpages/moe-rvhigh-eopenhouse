@@ -32,4 +32,12 @@ description: ""
 			<td>River Valley High School is awarded the <b>Charity Gold Award (Secondary)</b> for our outstanding contributions and support for Community Chest social service agencies and service users in 2019.</td>
 		</tr>
 		<tr>
-			
+			<td><br><br><b>National cyberwellness Advocacy Challenge</b></td>
+			<td>Our students in the National Education Council received the <b>Silver Award</b> in the <b>Secondary/ Post-Secondary category:</b><br>Lew Feng Sing (21J06) \[Team Leader\]<br>Christine Chong (3D) <br>Chang Tung Tung (3E)<br>Ng Ze Xing (1G)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><br><br><br><br><br><b>Excellence in Mathematics Teaching Award 2021</b></td>
+			<td><img src="/images/Pearl Lam.jpeg" style="width:60%"><br>The Excellence in Mathematics Teaching Award (EMTA) affirms Singapore teachers who are passionate in mathematics teaching, have displayed exemplary efforts in the teaching of mathematics, and are role models to their colleagues and the mathematics teaching fraternity in Singapore.  <b>Ms Pearl Lam</b>, our teacher for JC Mathematics, is one of the four recipients of the EMTA this year. Her subject mastery is evident in her purposefully designed lessons which engage and empower her students to develop greater confidence, interest and understanding in this discipline. She measures her success through her students’ enjoyment in their learning and ability to solve problems independently. She is also inspired to empower students with analytical and reasoning skills imparted by mathematics so that they are better equipped for future challenges. With Ms Lam’s commitment and passion in the teaching of mathematics, this award is indeed a validation of her excellent work in River Valley High School.</td>
+		</tr>
+		<tr>
+			<td><b>Outstanding Youth in Education Award (OYEA)</b>
