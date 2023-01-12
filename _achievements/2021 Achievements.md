@@ -268,5 +268,9 @@ description: ""
 <div>
 	<table>
 		<tr>
-			<td>
-	
+			<td><b>Singapore Olympic Foundation-Peter Lim <br>Scholarship (Encouragement Award)</b></td>
+			<td>Chia Cheng En Truman 3H (Wushu)<br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
+		</tr>
+		<tr>
+			<td><br><br><br><br><br><b>National School Games and Zonal Competitions</b></td>
+			<td><b>Wushu</b><br>B Division Boys - National 2nd<br>B Division Girls - National 2nd<br>A Division Girls - National 2nd<br>A Division Boys - National 4th<br><br><b>Badminton</b><br>B Division Girls - Zone 3rd<br><br><b>Table Tennis</b><br>B Division Boys - Zone 2nd<br>B Division Girls - Zone 2nd
