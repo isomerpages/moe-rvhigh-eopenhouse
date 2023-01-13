@@ -89,7 +89,7 @@ description: ""
 		</tr>
 		<tr>
 			<td><b>Singapore Olympic Foundation-  <br>Peter Lim Scholarship<br>(Encouragement Award)</b></td>
-			<td><br><br>Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
+			<td><br>Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
 		</tr>
 		<tr>
 			<td><br><br><br><br><br><br><b>Singapore Youth Festival Arts Presentation:</b></td>
