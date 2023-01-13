@@ -53,7 +53,7 @@ description: ""
 		</tr>
 		<tr>
 			<td><br><br><br><br><br><br><br><br><b>Global Geopolitics Conference</b></td>
-			<td>On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br><br><b>2nd Placing for Best Delegation</b><br>River Valley High School<br><br><b>Best Delegate</b><br>Tan Liang Rong (20J20)<br><br><b>Best Position Paper</b><br>Tang Jiaxi (20J18)<br><br><b>Outstanding Delegate</b><br>Ngieng Xin Yi (21J17)<br>Goh Jun Yu (4B)</td>
+			<td>On 19 and 20 February 2021, the History and Current Affairs Society (HACAS), together with the organising committee counterparts from Dunman High School and Raffles Institution, jointly held a virtual edition of the Global Geopolitics Conference 2021. In this 5th edition of the conference, delegates from across schools in Singapore came together in seven simulated United Nations councils to debate and discuss key contemporary issues facing the world. In this conference, our student representatives from HACAS achieved the following:<br><br><b>2nd Placing for Best Delegation</b><br>River Valley High School<br><br><b>Best Delegate</b><br>Tan Liang Rong (20J20)<br><br><b>Best Position Paper</b><br>Tang Jiaxi (20J18)<br><br><b>Outstanding Delegate</b><br>Ngieng Xin Yi (21J17)<br><b>Goh Jun Yu (4B)</b></td>
 		</tr>
 		<tr>
 			<td><br><b>NUS STEP Environment Camp 2021</b></td>
@@ -61,11 +61,11 @@ description: ""
 		</tr>
 		<tr>
 			<td><b>NUS Geography Challenge</b></td>
-			<td><b>Gold Medal</b><br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br>Su Zhixuan (4E)</td>
+			<td><b>Gold Medal</b><br>Tan Beng Yang (4A)<br>Soh Wei Kean, Adrina (4A)<br>Huang Changwen (4E)<br><b>Su Zhixuan (4E)</b></td>
 		</tr>
 		<tr>
 			<td><b>Moot Parliament Programme Debate</b></td>
-			<td><br><b>Outstanding Backbencher</b><br>Cadence Lim (4C)</td>
+			<td><br><b>Outstanding Backbencher<br>Cadence Lim (4C)</b></td>
 		</tr>
 		<tr>
 			<td><br><br><br><b>National Plain English Speaking Awards</b></td>
@@ -73,27 +73,33 @@ description: ""
 		</tr>
 		<tr>
 			<td><b>第四届小学课文朗诵比赛 中学低年级组（团体）</b></td>
-			<td><b>季军</b><br>洪语萱（中二I）<br>陈筱柔（中二I）<br>连伟希（中二I）</td>
+			<td><b>季军</b><br>洪语萱（中二I）<br>陈筱柔（中二I）<br><b>连伟希（中二I）</b></td>
 		</tr>
 		<tr>
 			<td><br><br><b>“译彩纷呈”翻译比赛</b></td>
-			<td><b>团体赛冠军<br> 个人奖：一等奖、二等奖、优胜奖</b><br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br>朱天骏（中三C）</td>
+			<td><b>团体赛冠军<br> 个人奖：一等奖、二等奖、优胜奖</b><br>史宇翔（中三C）<br>魏优意（中三C）<br>郑淑月（中三C）<br><b>朱天骏（中三C）</b></td>
 		</tr>
 		<tr>
 			<td><b>全国第26届中学/ 高中华语演讲比赛</b></td>
-			<td><br><b>优胜奖</b><br>吴宣颖（中二H）</td>
+			<td><br><b>优胜奖<br>吴宣颖（中二H）</b></td>
 		</tr>
 		<tr>
 			<td><br><b>第17届 特选中学幼苗论文指导计划  <br>（南华中学主办）</b></td>
-			<td><b>论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》</b><br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br>王廷安（中三I）</td>
+			<td><b>论文最佳呈献奖：《浅析伍连德笔下的中国旅行家》</b><br>邓诗敏（中三I）<br>江雪茹（中三I）<br>张慧欣（中三I）<br>王愈茜（中三I）<br><b>王廷安（中三I）</b></td>
 		</tr>
 		<tr>
 			<td><b>Singapore Olympic Foundation-  <br>Peter Lim Scholarship<br>(Encouragement Award)</b></td>
-			<td><br>Chia Cheng En Truman 3H (Wushu)  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
+			<td><br><b>Chia Cheng En Truman 3H (Wushu)</b>  <br>Ong Shuen Yi 21J17 (Badminton)<br>Graris Lee Wan En 21J19 (Badminton)</td>
 		</tr>
 		<tr>
-			<td><br><br><br><br><br><br><b>Singapore Youth Festival Arts Presentation:</b></td>
+			<td colspan="2">
+				<table>
+					<tr>
+						<td><br><br><br><br><br><br><b>Singapore Youth Festival Arts Presentation:</b></td>
 			<td>Concert Band (Secondary) - Distinction<br>Concert Band (Junior College) - Distinction<br>Chinese Dance (Secondary) - Distinction<br>Chinese Dance (JC Teams A and B) - Distinction<br>Chinese Orchestra (Mixed Ensemble) - Distinction<br>Chinese Orchestra (Tan Bo Ensemble) - Distinction<br>Chinese Orchestra (Teams A and B) - Distinction<br>CLDDS (Secondary) - Distinction<br>ELDDS (Secondary) - Accomplishment<br>Guitar Ensemble (Junior College) - Accomplishment<br>International Dance (Secondary) - Accomplishment<br>Choir (Secondary and Junior College) - All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
+					</tr>
+				</table>
+			</td>
 		</tr>
 	</table>
 	</div>
