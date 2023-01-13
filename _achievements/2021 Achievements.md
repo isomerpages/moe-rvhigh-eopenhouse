@@ -33,7 +33,7 @@ description: ""
 		</tr>
 		<tr>
 			<td><br><br><b>National cyberwellness Advocacy Challenge</b></td>
-			<td>Our students in the National Education Council received the <b>Silver Award</b> in the <b>Secondary/ Post-Secondary category:</b><br>Lew Feng Sing (21J06) \[Team Leader\]<br>Christine Chong (3D) <br>Chang Tung Tung (3E)<br>Ng Ze Xing (1G)</td>
+			<td>Our students in the National Education Council received the <b>Silver Award</b> in the <b>Secondary/ Post-Secondary category:</b><br>Lew Feng Sing (21J06) [Team Leader]<br>Christine Chong (3D) <br>Chang Tung Tung (3E)<br>Ng Ze Xing (1G)</td>
 		</tr>
 		<tr>
 			<td><br><br><br><br><br><br><br><br><br><br><b>Excellence in Mathematics Teaching Award 2021</b></td>
