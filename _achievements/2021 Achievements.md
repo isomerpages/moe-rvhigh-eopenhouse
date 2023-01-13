@@ -108,7 +108,7 @@ description: ""
 			<td><b>Level of Achievement</b></td>
 		</tr>
 		<tr>
-			<td><b>[A] Scholarships & Academic Awards</b></td>
+			<td colspan="2"><b>[A] Scholarships & Academic Awards</b></td>
 		</tr>
 		<tr>
 			<td><br><br><br><b>Agency for Science, Technology &  <br>Research Science Award  <br>(Upper Secondary)</b></td>
@@ -131,7 +131,7 @@ description: ""
 			<td><b>2 JC1 students won the CSIT Computing Scholarship, a new award which aims to encourage and nurture young talents in pursuing an education and future career in the dynamic and evolving infocomm industry. The scholarship includes an annual allowance of $1,000, tenable for two years as well as a course certification and learning programme allowance of $1,000</b><br>Zhou Zehao (21J15)<br>Joshua Chin Wei Jie (21J15)</td>
 		</tr>
 		<tr>
-			<td><b>[B] International Programmes</b></td>
+			<td colspan="2"><b>[B] International Programmes</b></td>
 		</tr>
 		<tr>
 			<td><br><br><br><b>Shanghai International Youth  <br>Science & Technology Expo  <br>(Online) 2020<br>[上海国际青少年科技博览会 (云端展会)]</b></td>
@@ -146,7 +146,7 @@ description: ""
 			<td><b>3 Gold Awards (1 Individual + 2 Teams)</b><br>Chelsea Chan Li Xin (20J05)<br>Sampson Bong Shung Hoong (20J06)<br>Chua Yong Liang (20J10)<br>Jonathan Chew Jian Pin (20J10)<br>Wang Zixun (20J15)<br><br><b>1 Silver Award (1 Team)</b>  <br>Samuel Then Shi Jie (21J11)<br>Liang Shuang (21J18)<br><br><b>1 Bronze Award (1 Individual)</b><br>Tricia Boo Koh Wei Ping (20J10)<br><br><b>1 Commendation Award (1 Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
 		</tr>
 		<tr>
-			<td><b>[C] Science & Technology Fairs & Exhibitions</b></td>
+			<td colspan="2"><b>[C] Science & Technology Fairs & Exhibitions</b></td>
 		</tr>
 		<tr>
 			<td><br><br><br><br><br><br><br><br><br><br><b>Singapore Science & Engineering Fair</b></td>
@@ -177,7 +177,7 @@ description: ""
 			<td><b>Research Presentation: Junior College / Polytechnic Category</b><br><b>Gold Award (Team)</b><br>Chan Shu Zhen, Venus (21J04)<br>Zixuan Yeo (21J06)<br>Chan Kai Sing, Natalie (21J08)</td>
 		</tr>
 		<tr>
-			<td><b>[D] Olympiads & Other Competitions</b></td>
+			<td colspan="2"><b>[D] Olympiads & Other Competitions</b></td>
 		</tr>
 		<tr>
 			<td><br><br><b>National Science Challenge</b></td>
@@ -248,7 +248,7 @@ description: ""
 			<td><b>Champion (Team)</b><br>Chen Qingyuan (3C)<br>Sia Hao Rui (3I)<br>Ong Yi Qian (3I)<br>Chan Xing Yu, James (3I)</td>
 		</tr>
 		<tr>
-			<td><b>[E] Other Involvements</b></td>
+			<td colspan="2"><b>[E] Other Involvements</b></td>
 		</tr>
 		<tr>
 			<td><br><bR><br><b>National University of Singapore  <br>(NUS) Electrical &  <br>Computer Engineering  <br>Principles & Practice I (EE1111) Module<br><br>(offered by NUS <br>Department of Electrical & <br>Computer Engineering, <br>Faculty of Engineering)</b></td>
