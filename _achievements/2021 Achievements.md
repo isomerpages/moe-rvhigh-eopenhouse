@@ -252,7 +252,7 @@ description: ""
 			<td><b>2 Bronze Medals</b><br>Chua Tse Hui (20J02)<br>Kevin Karuna William (20J04)<br><br><b>1 Merit Award</b><br>Yip En Chun Jonathan (20J10)</td>
 		</tr>
 		<tr>
-			<td><bR><br><br><b>Singapore Junior Chemistry Olympiad</b></td>
+			<td><br><br><br><b>Singapore Junior Chemistry Olympiad</b></td>
 			<td><b>2 Gold Medals</b>  <br>Khow Willard (3A)  <br>Wei Junyi (4F)  <br><br><b>1 Silver Medal</b><br>Guan Leyang (4E)  <br><br><b>1 Bronze Medal</b>  <br>Chen Xinglin (4A)</td>
 		</tr>
 		<tr>
@@ -311,6 +311,7 @@ description: ""
 			<td><b>1 JC1 student offered SUTD SEED programme, which is a year-long outreach and immersion programme for top JC1 students to experience research opportunities and gain conditional admission to SUTD ahead of the regular university admissions cycle:</b><br>Chua Yong Liang (20J10)</td>
 		</tr>
 	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 		</div>
 	</li>
 	<li>
@@ -327,6 +328,7 @@ description: ""
 			<td><b>Wushu</b><br>B Division Boys - National 2nd<br>B Division Girls - National 2nd<br>A Division Girls - National 2nd<br>A Division Boys - National 4th<br><br><b>Badminton</b><br>B Division Girls - Zone 3rd<br><br><b>Table Tennis</b><br>B Division Boys - Zone 2nd<br>B Division Girls - Zone 2nd</td>
 		</tr>
 	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 		</div>
 	</li>
 	<li>
@@ -384,6 +386,7 @@ description: ""
 						<td> All the school choirs in Singapore were awarded a Certificate of Participation to recognise their efforts and ensure fairness to the schools that did not engage any vendors or use professional equipment to record and piece their songs together.</td>
 					</tr>
 				</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 		</div>
 		</li>
 		<li>
@@ -424,6 +427,7 @@ description: ""
 			<td>Clarence Koh Eng Lok (4C)<br>Su Zhixuan (4E)<br>Kuah Sze Min Shermaine (4F)<br>Neo Rui Ern, Vanessa (4F)<br>Soh Zi Rui (4F)<br>Fu Liyi (4K)</td>
 		</tr>
 	</table>
+	<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
 	</div>
 	</li>
 	</ul>
