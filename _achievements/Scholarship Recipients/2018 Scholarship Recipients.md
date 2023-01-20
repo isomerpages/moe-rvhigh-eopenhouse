@@ -98,3 +98,5 @@ We would like to congratulate Stefan and his family, as well as all teachers and
 |:-:|---|
 | <img src="/images/Chinese_Clan.jpg" style="width:85%">  | <br><br><br><br><br>**Lim Ying Hui  (Fudan University)**<br><br>**Huang Lijing (Fudan University)**<br><br>**Debble Chew Yannie (Peking University)**  |
 |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
