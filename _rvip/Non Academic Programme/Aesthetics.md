@@ -13,7 +13,7 @@ third_nav_title: Non Academic Programme
 <table>
 	<tr>
 		<td><b>Art</b></td>
-		<td><b><p align="right">Music<b></td>
+		<td><b><p align="right">Music</p><b></td>
 			</tr>
 </table>
 	
