@@ -48,3 +48,5 @@ third_nav_title: Scholarship Recipients
 | <img src="/images/WONG QI QI.jpeg" style="width:85%">  | <img src="/images/HO WAN SING.jpeg" style="width:85%">  |
 | <center>Wong Qi Qi  | <center>Ho Wan Sing  |
 |   |   |
+	
+<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
