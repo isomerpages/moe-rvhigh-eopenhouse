@@ -94,7 +94,7 @@ third_nav_title: Scholarship Recipients
 |   |   |
 |---|---|
 | <img src="/images/PSC-04.jpg" style="width:85%">  | <img src="/images/SAF Merit-Navy.jpg" style="width:85%">  |
-| **Ong Gim Hua Gerald**<br>**SAF Scholarship (Army)**  | **Tan Ning Vivienne**<br>**SAF Merit Scholarship ( Navy)**  |
+| Ong Gim Hua Gerald<br>SAF Scholarship (Army)  | Tan Ning Vivienne<br>SAF Merit Scholarship ( Navy)  |
 |   |   |
 
 <img src="/images/SAF Eng Navy.jpg" style="width:30%">
