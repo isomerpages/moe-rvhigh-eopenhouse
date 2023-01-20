@@ -91,3 +91,5 @@ third_nav_title: Scholarship Recipients
 | **Mao Yudi**  | **Land Transport Authority Book Prize**  |
 | **Pang Kai Lin**  | **Land Transport Authority Book Prize**  |
 |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
