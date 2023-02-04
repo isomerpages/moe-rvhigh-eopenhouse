@@ -18,5 +18,11 @@ sections:
       title: Prospectus
   - infobar:
       title: The RV Experience
-      button: Button Text
+      button: Watch our Videos here
+      url: https://www.youtube.com/watch?v=pygnrgbfUSM&list=PLztlE4SHnVGb3aeZsL7WMX9qjWIFdlkWS
+  - infobar:
+      title: Facilities
+      description: Let's take a look at our school facilities!
+      button: Click here
+      url: /facilities
 ---
