@@ -16,5 +16,7 @@ sections:
       url: https://youtu.be/WHiTQYj-B0o
   - resources:
       title: Prospectus
-      button: see more
+  - infobar:
+      title: The RV Experience
+      button: Button Text
 ---
