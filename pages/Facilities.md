@@ -143,6 +143,7 @@ description: ""
 					</td>
 				</tr>
 			</table>
+				</div>
 			</li>
 				<li>
 					<input type="checkbox" id="accordion4">
