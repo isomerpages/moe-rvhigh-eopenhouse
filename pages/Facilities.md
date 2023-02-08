@@ -96,4 +96,23 @@ description: ""
 				</tr>
 				<tr>
 					<td>
+						<a href="/images/4collaboration.png">
+							<img src="/images/4collaboration.png"/> Collaboration Hub <br>学生协作学习中心
+						</a>
+					</td>
+					<td>
+						<a href="/images/5student lounge.png">
+							<img src="/images/5student lounge.png"/> Student Lounge <br>学生联谊室
+						</a>
+					</td>
+				</tr>
+			</table>
+			</li>
+			<li>
+				<input type="checkbox" id="accordion3">
+		<label for="accordion3">Physical Spaces 活动空间 </label>
+		<div>
+			<table>
+				<tr>
+					<td>
 						
