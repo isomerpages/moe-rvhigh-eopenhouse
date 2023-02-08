@@ -67,10 +67,9 @@ description: ""
 							<img src="/images/RVFM%20studio.png"/> RVFM Broadcast Studio <br> 校园广播站：“课间好时光”
 						</a>
 					</td>
-					<td></td>
-					<td></td>
 				</tr>
 			</table>
+		</div>
 		</li>
 		<li>
 		<input type="checkbox" id="accordion2">
@@ -107,6 +106,7 @@ description: ""
 					</td>
 				</tr>
 			</table>
+			</div>
 			</li>
 			<li>
 				<input type="checkbox" id="accordion3">
