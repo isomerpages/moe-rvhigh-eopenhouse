@@ -30,3 +30,5 @@ RVHS’ tradition of providing an excellent education for our students has been 
 *   Sustained Achievement Awards – Aesthetics, Sports, Uniformed Group
 *   CHERISH
 *   School’s Green Audit Award
+
+![dd](/images/1big%20e.png)
