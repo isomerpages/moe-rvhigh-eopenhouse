@@ -145,4 +145,39 @@ description: ""
 			</table>
 			</li>
 				<li>
-					
+					<input type="checkbox" id="accordion4">
+		<label for="accordion4">Performance Spaces 表演空间</label>
+		<div>
+			<table>
+				<tr>
+					<td>
+						<a href="/images/1 School Auditorium.png">
+							<img src="/images/1 School Auditorium.png"/> School Auditorium Stage <br>明辉堂【舞台】
+						</a>
+					</td>
+					<td>
+						<a href="/images/2 School Auditorium.png">
+							<img src="/images/2 School Auditorium.png"/> 950-Seater Auditorium <br>明辉堂【观众席】
+						</a>
+					</td>
+					<td>
+						<a href="/images/3 School Hall.png">
+							<img src="/images/3 School Hall.png"/> School Hall <br>学校礼堂
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="/images/4 Drama Studio.png">
+							<img src="/images/4 Drama Studio.png"/> Drama Studio <br>戏剧表演室
+						</a>
+					</td>
+						<td>
+							<a href="/images/Dance Studio.png">
+							<img src="/images/Dance Studio.png"/> Dance Studio <br>舞蹈室
+						</a>
+					</td>
+				</tr>
+			</table>
+			</li>
+					</ul>
