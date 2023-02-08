@@ -179,5 +179,6 @@ description: ""
 					</td>
 				</tr>
 			</table>
+					</div>
 			</li>
 					</ul>
