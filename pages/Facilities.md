@@ -72,4 +72,12 @@ description: ""
 				</tr>
 			</table>
 		</li>
-	</ul>
+		<li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2">Collaboration Spaces 协作空间 </label>
+		<div>
+			<table>
+				<tr>
+					<td>
+						
+		
