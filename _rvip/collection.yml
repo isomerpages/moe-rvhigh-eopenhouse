@@ -1,0 +1,27 @@
+collections:
+  rvip:
+    output: true
+    order:
+      - School Prospectus.md
+      - Integrated Programme.md
+      - RVIP Flagship Programmes/.keep
+      - RVIP Flagship Programmes/RVIP Flagship Programmes.md
+      - RVIP Flagship Programmes/Special Assistance Plan Programme.md
+      - RVIP Flagship Programmes/Construct,Integrate,Differentiate Programme.md
+      - Academic Programme/.keep
+      - Academic Programme/Academic Programme.md
+      - Academic Programme/Science.md
+      - Academic Programme/Mathematics.md
+      - Academic Programme/English Language.md
+      - Academic Programme/Chinese Language.md
+      - Academic Programme/The Humanities.md
+      - Academic Programme/Physical Education.md
+      - Non Academic Programme/.keep
+      - Non Academic Programme/Non Academic Programme.md
+      - Non Academic Programme/Student Development Department.md
+      - Non Academic Programme/Education & Career Guidance.md
+      - Non Academic Programme/Aesthetics.md
+      - Non Academic Programme/Leadership and Character Development.md
+      - Co Curricular Activities Curriculum.md
+      - Internationalisation Programme.md
+      - RVHS ICT Programme.md

@@ -1,0 +1,6 @@
+collections:
+  ours-stories:
+    output: true
+    order:
+      - RV60.md
+      - 立化情  青春岸.md

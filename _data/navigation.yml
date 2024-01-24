@@ -1,0 +1,23 @@
+logo: /images/photo_2023-01-20_16-49-31.jpg
+links:
+  - title: About RV 关于立化
+    collection: about-rv
+  - title: RVIP 立化综合课程
+    collection: rvip
+  - title: Achievements 荣誉榜
+    collection: achievements
+  - title: Our Stories 立化故事
+    url: /about-rv/wc-edu-institution/
+    sublinks:
+      - title: RV60
+        url: /ours-stories/rv60/
+      - title: 立化情 * 青春岸
+        url: /ours-stories/ourstories-2ndnavi/
+      - title: RV Times
+        url: /ours-stories/rv-times
+      - title: RV Montage
+        url: /ours-stories/rv-montage/
+      - title: WEStories
+        url: /ours-stories/westories/
+  - title: DSA 直接招生计划
+    url: /dsa/dsa/

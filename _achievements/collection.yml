@@ -1,0 +1,18 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Achievements.md
+      - Scholarship Recipients/.keep
+      - Scholarship Recipients/Scholarship Recipients.md
+      - Scholarship Recipients/2022 Scholarship Recipients.md
+      - Scholarship Recipients/2021 Scholarship Recipients.md
+      - Scholarship Recipients/2020 Scholarship Recipients.md
+      - Scholarship Recipients/2019 Scholarship Recipients.md
+      - Scholarship Recipients/2018 Scholarship Recipients.md
+      - Outstanding Achievements.md
+      - 2022 Achievements.md
+      - 2021 Achievements.md
+      - 2020 Achievements.md
+      - 2019 Achievements.md
+      - 2021 GCE A Level Results.md
